@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iVA5BfP/0neA0Y7epNfpd8XabS+ZqCLeONR/8QEdRCw=",
+  "Hash": "odbvWVMwvE0Xl2t6o7o9hVQq4SUCeN9D31LGciqCf+Y=",
   "Source": "GuidoAloise.Api",
   "BasePath": "_content/GuidoAloise.Api",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "GuidoAloise.Api\\wwwroot",
       "Source": "GuidoAloise.Api",
-      "ContentRoot": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\",
       "BasePath": "_content/GuidoAloise.Api",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\lagiostra_8f558b77.jpg",
+      "Identity": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\lagiostra_8f558b77.jpg",
       "SourceId": "GuidoAloise.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\",
       "BasePath": "_content/GuidoAloise.Api",
       "RelativePath": "img/opere/lagiostra_8f558b77#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\img\\opere\\lagiostra_8f558b77.jpg"
     },
     {
-      "Identity": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\madonnaconbambino_cd414257.jpg",
+      "Identity": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\madonnaconbambino_cd414257.jpg",
       "SourceId": "GuidoAloise.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\",
       "BasePath": "_content/GuidoAloise.Api",
       "RelativePath": "img/opere/madonnaconbambino_cd414257#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\img\\opere\\madonnaconbambino_cd414257.jpg"
     },
     {
-      "Identity": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\saggezza_33c7da48.jpg",
+      "Identity": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\saggezza_33c7da48.jpg",
       "SourceId": "GuidoAloise.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\",
       "BasePath": "_content/GuidoAloise.Api",
       "RelativePath": "img/opere/saggezza_33c7da48#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\img\\opere\\saggezza_33c7da48.jpg"
     },
     {
-      "Identity": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\news.json",
+      "Identity": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\news.json",
       "SourceId": "GuidoAloise.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\",
       "BasePath": "_content/GuidoAloise.Api",
       "RelativePath": "news#[.{fingerprint}]?.json",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\news.json"
     },
     {
-      "Identity": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\opere.json",
+      "Identity": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\opere.json",
       "SourceId": "GuidoAloise.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\",
       "BasePath": "_content/GuidoAloise.Api",
       "RelativePath": "opere#[.{fingerprint}]?.json",
       "AssetKind": "All",
@@ -125,7 +125,7 @@
   "Endpoints": [
     {
       "Route": "img/opere/lagiostra_8f558b77.jpg",
-      "AssetFile": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\lagiostra_8f558b77.jpg",
+      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\lagiostra_8f558b77.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -146,7 +146,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 16:03:56 GMT"
+          "Value": "Thu, 01 May 2025 10:23:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -162,7 +162,7 @@
     },
     {
       "Route": "img/opere/lagiostra_8f558b77.njfg9nov92.jpg",
-      "AssetFile": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\lagiostra_8f558b77.jpg",
+      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\lagiostra_8f558b77.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -183,7 +183,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 16:03:56 GMT"
+          "Value": "Thu, 01 May 2025 10:23:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -207,7 +207,7 @@
     },
     {
       "Route": "img/opere/madonnaconbambino_cd414257.jpg",
-      "AssetFile": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\madonnaconbambino_cd414257.jpg",
+      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\madonnaconbambino_cd414257.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -228,7 +228,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 16:30:40 GMT"
+          "Value": "Thu, 01 May 2025 10:23:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -244,7 +244,7 @@
     },
     {
       "Route": "img/opere/madonnaconbambino_cd414257.ngniy2s69r.jpg",
-      "AssetFile": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\madonnaconbambino_cd414257.jpg",
+      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\madonnaconbambino_cd414257.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -265,7 +265,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 16:30:40 GMT"
+          "Value": "Thu, 01 May 2025 10:23:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -289,7 +289,7 @@
     },
     {
       "Route": "img/opere/saggezza_33c7da48.79lbk21bh1.jpg",
-      "AssetFile": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\saggezza_33c7da48.jpg",
+      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\saggezza_33c7da48.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -310,7 +310,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 16:34:15 GMT"
+          "Value": "Thu, 01 May 2025 10:23:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -334,7 +334,7 @@
     },
     {
       "Route": "img/opere/saggezza_33c7da48.jpg",
-      "AssetFile": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\saggezza_33c7da48.jpg",
+      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\saggezza_33c7da48.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -355,7 +355,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 16:34:15 GMT"
+          "Value": "Thu, 01 May 2025 10:23:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -371,7 +371,7 @@
     },
     {
       "Route": "news.json",
-      "AssetFile": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\news.json",
+      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\news.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -392,7 +392,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 15:42:00 GMT"
+          "Value": "Thu, 01 May 2025 10:23:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -408,7 +408,7 @@
     },
     {
       "Route": "news.zk4hcvefmo.json",
-      "AssetFile": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\news.json",
+      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\news.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -429,7 +429,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 15:42:00 GMT"
+          "Value": "Thu, 01 May 2025 10:23:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -453,7 +453,7 @@
     },
     {
       "Route": "opere.a0rjhxhf1z.json",
-      "AssetFile": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\opere.json",
+      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\opere.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -474,7 +474,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 12:22:17 GMT"
+          "Value": "Thu, 01 May 2025 10:23:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -498,7 +498,7 @@
     },
     {
       "Route": "opere.json",
-      "AssetFile": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\opere.json",
+      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\opere.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -519,7 +519,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 12:22:17 GMT"
+          "Value": "Thu, 01 May 2025 10:23:49 GMT"
         },
         {
           "Name": "Cache-Control",

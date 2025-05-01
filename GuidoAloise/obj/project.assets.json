@@ -3032,11 +3032,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise\\GuidoAloise.csproj",
+      "projectUniqueName": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\GuidoAloise.csproj",
       "projectName": "GuidoAloise",
-      "projectPath": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise\\GuidoAloise.csproj",
+      "projectPath": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\GuidoAloise.csproj",
       "packagesPath": "C:\\Users\\gabriele.ciullo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise\\obj\\",
+      "outputPath": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

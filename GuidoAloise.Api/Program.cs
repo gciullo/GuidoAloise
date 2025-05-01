@@ -20,6 +20,7 @@ var app = builder.Build();
 
 app.UseStaticFiles();
 app.UseCors();
+app.MapFallbackToFile("index.html");
 
 if (app.Environment.IsDevelopment())
 {

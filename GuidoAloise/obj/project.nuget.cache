@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t0TDOsA2B+w=",
+  "dgSpecHash": "fS09zt1UDRU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise\\GuidoAloise.csproj",
+  "projectFilePath": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\GuidoAloise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabriele.ciullo\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.12\\microsoft.aspnetcore.authorization.8.0.12.nupkg.sha512",
     "C:\\Users\\gabriele.ciullo\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.12\\microsoft.aspnetcore.components.8.0.12.nupkg.sha512",
