@@ -1,0 +1,15 @@
+﻿@using GuidoAloise.Models
+
+<h2 class="section-title text-2xl mt-8" style="padding-top: 50px">@Decade</h2>
+<div class="decade-section grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6">
+    @foreach (var opera in Opere.OrderBy(o => o.Anno))
+    {
+        <OperaCard Opera="@opera" OnClick="() => SelezionaOpera.InvokeAsync(opera)" />
+    }
+</div>
+
+@code {
+    [Parameter] public string Decade { get; set; }
+    [Parameter] public List<Opera> Opere { get; set; }
+    [Parameter] public EventCallback<Opera> SelezionaOpera { get; set; }
+}

@@ -1,0 +1,64 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/GuidoAloise.Api/img/opere/lagiostra_8f558b77.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\opere\lagiostra_8f558b77.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-s1fb1tPxfZt6m\u002BQ9lazYFs2sOhWNiP3ItO751ACMNOY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"48650"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022s1fb1tPxfZt6m\u002BQ9lazYFs2sOhWNiP3ItO751ACMNOY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 30 Mar 2025 16:03:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuidoAloise.Api/img/opere/lagiostra_8f558b77.njfg9nov92.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\opere\lagiostra_8f558b77.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"njfg9nov92"},{"Name":"integrity","Value":"sha256-s1fb1tPxfZt6m\u002BQ9lazYFs2sOhWNiP3ItO751ACMNOY="},{"Name":"label","Value":"_content/GuidoAloise.Api/img/opere/lagiostra_8f558b77.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"48650"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022s1fb1tPxfZt6m\u002BQ9lazYFs2sOhWNiP3ItO751ACMNOY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 30 Mar 2025 16:03:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuidoAloise.Api/img/opere/madonnaconbambino_cd414257.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\opere\madonnaconbambino_cd414257.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uc6lyMqpH\u002BvQ3\u002BHWE9q\u002BjZtDh3KATsMReZOHXPF2aTI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"48033"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022uc6lyMqpH\u002BvQ3\u002BHWE9q\u002BjZtDh3KATsMReZOHXPF2aTI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 30 Mar 2025 16:30:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuidoAloise.Api/img/opere/madonnaconbambino_cd414257.ngniy2s69r.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\opere\madonnaconbambino_cd414257.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ngniy2s69r"},{"Name":"integrity","Value":"sha256-uc6lyMqpH\u002BvQ3\u002BHWE9q\u002BjZtDh3KATsMReZOHXPF2aTI="},{"Name":"label","Value":"_content/GuidoAloise.Api/img/opere/madonnaconbambino_cd414257.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"48033"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022uc6lyMqpH\u002BvQ3\u002BHWE9q\u002BjZtDh3KATsMReZOHXPF2aTI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 30 Mar 2025 16:30:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuidoAloise.Api/img/opere/saggezza_33c7da48.79lbk21bh1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\opere\saggezza_33c7da48.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"79lbk21bh1"},{"Name":"integrity","Value":"sha256-W\u002ByuMhaBI6NzNNf/ATHLH4Ix5cEWecDpH8KS2NxXcxw="},{"Name":"label","Value":"_content/GuidoAloise.Api/img/opere/saggezza_33c7da48.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"36734"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022W\u002ByuMhaBI6NzNNf/ATHLH4Ix5cEWecDpH8KS2NxXcxw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 30 Mar 2025 16:34:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuidoAloise.Api/img/opere/saggezza_33c7da48.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\opere\saggezza_33c7da48.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-W\u002ByuMhaBI6NzNNf/ATHLH4Ix5cEWecDpH8KS2NxXcxw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"36734"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022W\u002ByuMhaBI6NzNNf/ATHLH4Ix5cEWecDpH8KS2NxXcxw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 30 Mar 2025 16:34:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuidoAloise.Api/news.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\news.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cznI/qhzt/FhoFuDr10kmyVcj5i/mPMgFamyELsP5Us="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"962"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022cznI/qhzt/FhoFuDr10kmyVcj5i/mPMgFamyELsP5Us=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Apr 2025 15:42:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuidoAloise.Api/news.zk4hcvefmo.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\news.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zk4hcvefmo"},{"Name":"integrity","Value":"sha256-cznI/qhzt/FhoFuDr10kmyVcj5i/mPMgFamyELsP5Us="},{"Name":"label","Value":"_content/GuidoAloise.Api/news.json"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"962"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022cznI/qhzt/FhoFuDr10kmyVcj5i/mPMgFamyELsP5Us=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Apr 2025 15:42:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuidoAloise.Api/opere.a0rjhxhf1z.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\opere.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"a0rjhxhf1z"},{"Name":"integrity","Value":"sha256-hkvsiTNiorTuwtgGWBOLOxRDg633QvFdfuwbvxv8uW8="},{"Name":"label","Value":"_content/GuidoAloise.Api/opere.json"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5750"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022hkvsiTNiorTuwtgGWBOLOxRDg633QvFdfuwbvxv8uW8=\u0022"},{"Name":"Last-Modified","Value":"Sat, 19 Apr 2025 12:22:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuidoAloise.Api/opere.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\opere.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hkvsiTNiorTuwtgGWBOLOxRDg633QvFdfuwbvxv8uW8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5750"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022hkvsiTNiorTuwtgGWBOLOxRDg633QvFdfuwbvxv8uW8=\u0022"},{"Name":"Last-Modified","Value":"Sat, 19 Apr 2025 12:22:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

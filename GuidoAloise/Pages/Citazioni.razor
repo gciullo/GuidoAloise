@@ -1,0 +1,129 @@
+﻿@page "/citazioni"
+@using Microsoft.Extensions.Localization
+@using System.Reflection
+
+<PageTitle>Guido Aloise - @(Localizer is null ? string.Empty : Localizer["Citazioni"])</PageTitle>
+
+<div class="section-title" style="padding-top: 100px">
+    @Localizer["HannoScrittoDiLuiTitle"]
+</div>
+<div class="section-content" style="padding-top: 40px; margin: 0% 10%; align-content:center; text-align: justify;">
+    @Localizer["CitazioneDellaGiovanna"]
+    <br />
+    <span style="font-style: italic">Ettore della Giovanna, 1976</span>
+</div>
+<div class="section-content" style="padding-top: 40px; margin: 0% 10%; align-content:center; text-align: justify;">
+    @Localizer["CitazioneRaviart"]
+    <br />
+    <span style="font-style: italic"> Marco Raviart, 29 october 1977</span>
+</div>
+<div class="section-content" style="padding-top: 40px; margin: 0% 10%; align-content:center; text-align: justify;">
+    @Localizer["CitazioneDAmore"]
+    <br />
+    <span style="font-style: italic"> Sepp D’Amore, 1981</span>
+</div>
+<div class="section-content" style="padding-top: 40px; margin: 0% 10%; align-content:center; text-align: justify;">
+    @Localizer["CitazioneSelvaggi"]
+    <br />
+    <span style="font-style: italic"> Giuseppe Selvaggi, 1989</span>
+</div>
+<div class="section-title" style="padding-top: 100px">
+    @Localizer["BibliografiaTitle"]
+</div>
+<div class="section-content" style="margin: 40px 10% 80px; align-content:center;">
+    RAI 1, Cronache Italiane, Roma 1966;
+    <br /><br />
+    C.A.D.A.I.M., Primo Premio Nazionale di Pittura, Roma 1966;
+    <br /><br />
+    I.R.A., Roma, Napoli 1966-67;
+    <br /><br />
+    La Sonda, Nuova Rassegna, ed. C.I.A.S., Roma 1967;
+    <br /><br />
+    I. Fabbricino, L’arcobaleno sulla magnifica scala, ed. Radiografie, Anno XIII, n. 18, Roma 1967;
+    <br /><br />
+    L. Rossi, Una medaglia d’argento al pittore G. Aloise, Roma, Anno 106, n. 41, Cosenza 11/2/1967;
+    <br /><br />
+    L. Rossi, Un pittore calabrese: Guido Aloise, La Voce di Calabria, Reggio Calabria, 14/12/1969;
+    <br /><br />
+    L. Rossi, Il cammino lento ma sicuro del pittore Guido Aloise, La Calabria, Anno II, n. 23, Cosenza 15/12/1969;
+    <br /><br />
+    L. Severini, Riporta l’arte figurativa alle sue vere funzioni, Il Corriere di Roma, Anno XXI, n. 223, Roma 28/2/1970;
+    <br /><br />
+    Paese Sera, 1972;
+    <br /><br />
+    Il Secolo, 1972;
+    <br /><br />
+    Catalogo Bolaffi (dal 1972 al 1986);
+    <br /><br />
+    Catalogo Comanducci (dal 1972 al 1986);
+    <br /><br />
+    M. Donnini, Calabresi al vernissage, Lo Specchio, Roma 1972;
+    <br /><br />
+    Il Tempo, 1975;
+    <br /><br />
+    Radio Abruzzi, 1975;
+    <br /><br />
+    Abruzzisette, 1975;
+    <br /><br />
+    Radio L’Aquila, 1975;
+    <br /><br />
+    Il Dramma, 1975;
+    <br /><br />
+    Arte Oggi, 1976;
+    <br /><br />
+    F. Citrigno, Il pittore Guido Aloise, Tribuna Sud, Roma 6/7/1976;
+    <br /><br />
+    U. Campisani, Alla Galleria 98: Personale di pittura di Guido Aloise, Cosenza 1976;
+    <br /><br />
+    S. Fatale, Guido Aloise, Alexis, Anno I, n. 6, Roma 1976;
+    <br /><br />
+    E. Miceli, Artisti calabresi, Guido Aloise, Calabria Letteraria, Anno XXV, n. 7-8-9, Cosenza 1977;
+    <br /><br />
+    E. Della Giovanna, Catalogo degli Artisti, ed. Unedi, Roma 1977;
+    <br /><br />
+    M. Ciabatti, Arte: una galleria per i quartieri di Roma Sud, Roma 1987;
+    <br /><br />
+    Annuario Arte Base, vol. 2°, Milano 1978;
+    <br /><br />
+    N. De Bernardis, Pittori calabresi Guido Aloise, Calabria Letteraria, Anno XXIX, n. 1-2-3, Cosenza 1981;
+    <br /><br />
+    D. Cutajar, Guido Aloise, The Times, Malta 15/1/1981;
+    <br /><br />
+    E. Fiorentino, La pittura di Guido Aloise, The Sunday Times, Malta 18/1/1981;
+    <br /><br />
+    Radio Vaticana, 1982;
+    <br /><br />
+    M. Conti, Guido Aloise, Calabria Letteraria, Cosenza 1984;
+    <br /><br />
+    Catalogo dell’Arte Italiana, n. 20, ed. Mondadori, Milano 1984;
+    <br /><br />
+    Press Service, Avvenire, Roma 7/7/1984;
+    <br /><br />
+    M. Tecardi, Arte Italiana per il Mondo, ed. Celit, vol. 6, Roma 1985;
+    <br /><br />
+    S.E., Arte Italiana per il Mondo, ed. Celit, vol. 6, Roma 1985;
+    <br /><br />
+    L. Severini, Arte Italiana per il Mondo, ed. Celit, vol. 6, Roma 1985;
+    <br /><br />
+    E. Scozzi, Arte Italiana per il Mondo, ed. Celit, vol. 6, Roma 1985;
+    <br /><br />
+    M. Raviart, Arte Italiana per il Mondo, ed. Celit, vol. 6, Roma 1985;
+    <br /><br />
+    M. Piperno, Arte Italiana per il Mondo, ed. Celit, vol. 6, Roma 1985;
+    <br /><br />
+    E. Della Giovanna, Selezione Arte Italiana, ed. L’Elite, Milano 1986.
+</div>
+
+@code {
+
+    [Inject] protected IStringLocalizerFactory LocalizerFactory { get; set; } = null!;
+
+    private IStringLocalizer Localizer { get; set; } = null!;
+
+    protected MarkupString ContattiTesto => new(Localizer is null ? string.Empty : Localizer["ContattiTesto"]);
+
+    protected override async Task OnInitializedAsync()
+    {
+        Localizer = LocalizerFactory.Create("Resource", Assembly.GetExecutingAssembly().GetName().Name!);
+    }
+}

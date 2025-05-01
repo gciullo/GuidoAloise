@@ -1,0 +1,84 @@
+﻿@page "/admin/news"
+@using GuidoAloise.Models
+@inject IDataService DataService
+@inject IJSRuntime JS
+
+@if (!AccessoConsentito)
+{
+    <div>
+        <h3>Inserisci codice admin:</h3>
+        <input @bind="Codice" />
+        <button @onclick="VerificaCodice">Accedi</button>
+    </div>
+}
+else
+{
+    <div class="admin-news-container">
+
+        <h2>Gestione Notizie</h2>
+
+        <EditForm Model="@newItem" OnValidSubmit="AddNews" class="admin-news-form">
+            <InputText @bind-Value="newItem.Date" placeholder="Data (es: Marzo 2025)" />
+            <InputText @bind-Value="newItem.Title" placeholder="Titolo" />
+            <InputTextArea @bind-Value="newItem.Content" placeholder="Contenuto" />
+            <label>Data reale (PointerDate):</label>
+            <InputDate @bind-Value="newItem.PointerDate" />
+            <InputText @bind-Value="newItem.Reference" placeholder="Link esterno (facoltativo)"/>
+            <button type="submit" class="btn">Aggiungi</button>
+        </EditForm>
+
+        <div class="admin-news-list">
+            @foreach (var item in news.OrderByDescending(n => n.PointerDate))
+            {
+                <div class="news-card">
+                    <b>@item.Date – @item.Title</b>
+                    <p>@item.Content</p>
+                    <small><i>Data ordinamento: @item.PointerDate.ToShortDateString()</i></small><br />
+                    <button @onclick="() => DeleteNews(item.Id)">Elimina</button>
+                </div>
+            }
+        </div>
+
+    </div>
+}
+
+@code {
+    private List<NewsItem> news = new();
+    private NewsItem newItem = new();
+    private bool AccessoConsentito = false;
+    private string Codice = "";
+    private const string CodiceValido = "franca1963";
+
+    protected override async Task OnInitializedAsync()
+    {
+        news = await DataService.GetNewsAsync();
+        var flag = await JS.InvokeAsync<string>("localStorage.getItem", "admin_access");
+        AccessoConsentito = flag == "ok";
+    }
+
+    private async Task VerificaCodice()
+    {
+        if (Codice == CodiceValido)
+        {
+            AccessoConsentito = true;
+            await JS.InvokeVoidAsync("localStorage.setItem", "admin_access", "ok");
+        }
+    }
+    private async Task AddNews()
+    {
+        if (!string.IsNullOrWhiteSpace(newItem.Title))
+        {
+            newItem.Id = Guid.NewGuid().ToString();
+            await DataService.AddNewsItemAsync(newItem);
+            news = await DataService.GetNewsAsync();
+            newItem = new NewsItem();
+        }
+    }
+
+    private async Task DeleteNews(string id)
+    {
+        var newsItem = news.FirstOrDefault(n => n.Id == id);
+        if (newsItem is not null) await DataService.RemoveNewsItemAsync(newsItem);
+        news = await DataService.GetNewsAsync();
+    }
+}

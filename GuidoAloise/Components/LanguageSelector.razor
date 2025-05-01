@@ -1,0 +1,13 @@
+﻿@inject IJSRuntime JS
+
+<div class="language-selector">
+    <button @onclick='() => SetLanguage("it-IT")'>🇮🇹 Italiano</button>
+    <button @onclick='() => SetLanguage("en-GB")'>🇬🇧 English</button>
+</div>
+
+@code {
+    private async Task SetLanguage(string culture)
+    {
+        await JS.InvokeVoidAsync("blazorCulture.set", culture);
+    }
+}

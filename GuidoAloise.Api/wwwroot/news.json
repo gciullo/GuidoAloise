@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "e950e41c-34b5-48e3-b35d-60b39658581c",
+    "Date": "17 Maggio 2025",
+    "PointerDate": "2025-05-17T00:00:00",
+    "Title": "Guido Aloise - a cento anni dalla nascita",
+    "Content": "Presso il Museo Diocesano in Piazza Parrasio Giano, Cosenza",
+    "Reference": null
+  },
+  {
+    "Id": "7f62461a-88f7-4d80-b8a5-4d995690cd85",
+    "Date": "10-16 Giugno 2025",
+    "PointerDate": "2025-06-16T00:00:00",
+    "Title": "\u0022Tra sogno e realt\u00E0\u0022",
+    "Content": "Presso la Galleria della Biblioteca Angelica, Via di Sant\u0027Agostino 11, Roma",
+    "Reference": "https://bibliotecaangelica.cultura.gov.it/"
+  },
+  {
+    "Id": "cbe166c8-d6b6-49ec-a739-df32744428e5",
+    "Date": "4-18 Maggio 2013",
+    "PointerDate": "2013-05-18T00:00:00",
+    "Title": "Ricordando Guido",
+    "Content": "Mostra antologica di Guido Aloise, Monterotondo",
+    "Reference": "https://www.facebook.com/events/516872011711096"
+  }
+]

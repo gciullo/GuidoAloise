@@ -1,0 +1,22 @@
+﻿@using Microsoft.Extensions.Localization
+@using System.Reflection
+<footer>
+    <div class="footer-content">
+        <a href="https://www.facebook.com/profile.php?id=100063468850203" target="_blank" rel="noopener noreferrer">
+            <i class="fa-brands fa-facebook" style="font-size: x-large;"></i>
+        </a>
+        <NavLink href="/contatti" class="footer-content-text">
+            @Localizer["Contatti"]
+        </NavLink>
+    </div>
+</footer>
+
+@code {
+    [Inject] protected IStringLocalizerFactory LocalizerFactory { get; set; } = null!;
+    private IStringLocalizer Localizer { get; set; } = null!;
+
+    protected override async Task OnInitializedAsync()
+    {
+        Localizer = LocalizerFactory.Create("Resource", Assembly.GetExecutingAssembly().GetName().Name!);
+    }
+}

@@ -1,0 +1,77 @@
+﻿@using GuidoAloise.Components
+@using Microsoft.Extensions.Localization
+@using System.Reflection
+@inject NavigationManager NavManager
+@inject IJSRuntime JSRuntime
+@implements IDisposable
+
+<!-- Sidebar -->
+<nav class="sidebar @(isMenuOpen ? "open" : "closed")">
+    @* <button class="toggle-btn" @onclick="ToggleMenu">
+        <i class="fa-solid fa-@(isMenuOpen ? "xmark" : "bars")"></i>
+     </button>*@
+    <button class="menu-toggle @(isMenuOpen ? "open" : "") @(isScrolled ? "small-icon" : "")" @onclick="ToggleMenu">
+        <span class="bar"></span>
+        <span class="bar"></span>
+        <span class="bar"></span>
+    </button>
+
+    <ul>
+        <li><NavLink href="/" Match="NavLinkMatch.All">@Localizer["Home"]</NavLink></li>
+        <li><NavLink href="/bio">@Localizer["Biografia"]</NavLink></li>
+        <li><NavLink href="/opere">@Localizer["Opere"]</NavLink></li>
+        <li><NavLink href="/citazioni">@Localizer["Citazioni"]</NavLink></li>
+        <li><NavLink href="/contatti">@Localizer["Contatti"]</NavLink></li>
+        <LanguageSelector />
+    </ul>
+</nav>
+
+<!-- Overlay -->
+@if (isMenuOpen)
+{
+    <div class="overlay" @onclick="ToggleMenu"></div>
+}
+
+@code {
+    [Inject] protected IStringLocalizerFactory LocalizerFactory { get; set; } = null!;
+    private IStringLocalizer Localizer { get; set; } = null!;
+    private bool isMenuOpen = false;
+    private bool isScrolled = false;
+
+    private void ToggleMenu() => isMenuOpen = !isMenuOpen;
+
+    protected override void OnInitialized()
+    {
+        NavManager.LocationChanged += HandleLocationChanged;
+        Localizer = LocalizerFactory.Create("Resource", Assembly.GetExecutingAssembly().GetName().Name!);
+    }
+
+    private DotNetObjectReference<NavMenu>? objRef;
+
+    protected override void OnAfterRender(bool firstRender)
+    {
+        if (firstRender)
+        {
+            objRef = DotNetObjectReference.Create(this);
+            JSRuntime.InvokeVoidAsync("initScrollTracking", objRef);
+        }
+    }
+    private void HandleLocationChanged(object? sender, Microsoft.AspNetCore.Components.Routing.LocationChangedEventArgs e)
+    {
+        isMenuOpen = false;
+        StateHasChanged(); // per forzare il re-render
+    }
+
+    [JSInvokable]
+    public void SetScrollState(bool scrolled)
+    {
+        isScrolled = scrolled;
+        StateHasChanged();
+    }
+
+    public void Dispose()
+    {
+        NavManager.LocationChanged -= HandleLocationChanged;
+        objRef?.Dispose();
+    }
+}

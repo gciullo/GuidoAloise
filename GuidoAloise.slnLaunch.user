@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "GuidoAloise\\GuidoAloise.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "GuidoAloise.Api\\GuidoAloise.Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

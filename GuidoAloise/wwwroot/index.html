@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GuidoAloise</title>
+    <base href="/" />
+    <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/app.css" />
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link href="GuidoAloise.styles.css" rel="stylesheet" />
+    <link href="css/output.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+
+<body>
+    <div id="app">
+        <svg class="loading-progress">
+            <circle r="40%" cx="50%" cy="50%" />
+            <circle r="40%" cx="50%" cy="50%" />
+        </svg>
+        <div class="loading-progress-text"></div>
+    </div>
+
+    <div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="" class="reload">Reload</a>
+        <a class="dismiss">🗙</a>
+    </div>
+    <script src="_framework/blazor.webassembly.js"></script>
+    <script>
+        let lastScrollTop = 0;
+
+        window.addEventListener('scroll', function () {
+            const header = document.querySelector('header');
+            const toggle = document.querySelector('.menu-toggle');
+            const currentScroll = window.scrollY;
+
+            if (currentScroll > lastScrollTop && currentScroll > 80) {
+                header?.classList.add('header-small');
+                toggle?.classList.add('small-icon');
+            } else if (currentScroll < lastScrollTop - 20) {
+                header?.classList.remove('header-small');
+                toggle?.classList.remove('small-icon');
+            }
+
+            lastScrollTop = currentScroll <= 0 ? 0 : currentScroll;
+        });
+    </script>
+    <script>
+        window.initScrollTracking = function (dotNetRef) {
+            let lastScrollTop = 0;
+            window.addEventListener('scroll', function () {
+                const currentScroll = window.scrollY;
+                const isScrolled = currentScroll > 80;
+                dotNetRef.invokeMethodAsync('SetScrollState', isScrolled);
+                lastScrollTop = currentScroll <= 0 ? 0 : currentScroll;
+            });
+        }
+    </script>
+    <script>
+        let startX = 0;
+        let currentIndex = 0;
+        let slider = null;
+        let dots = [];
+        let totalSlides = 0;
+        const maxVisibleDots = 5;
+
+        function updateDots() {
+            if (!dots || dots.length === 0) return;
+
+            dots.forEach(dot => {
+                dot.classList.remove("active", "visible", "faded");
+            });
+
+            let start = Math.max(0, Math.min(currentIndex - Math.floor(maxVisibleDots / 2), dots.length - maxVisibleDots));
+            let end = Math.min(start + maxVisibleDots, dots.length);
+
+            for (let i = 0; i < dots.length; i++) {
+                if (i >= start && i < end) {
+                    dots[i].classList.add("visible");
+                } else {
+                    dots[i].classList.add("faded");
+                }
+            }
+
+            dots[currentIndex].classList.add("active");
+        }
+
+        window.initNewsSwipe = (sliderSelector) => {
+            slider = document.querySelector(sliderSelector);
+            if (!slider) return;
+
+            const slides = slider.children;
+            totalSlides = slides.length;
+            dots = document.querySelectorAll("#dot-nav .dot");
+
+            slider.addEventListener("touchstart", (e) => {
+                startX = e.touches[0].clientX;
+            });
+
+            slider.addEventListener("touchend", (e) => {
+                let endX = e.changedTouches[0].clientX;
+                let delta = endX - startX;
+
+                if (Math.abs(delta) > 50) {
+                    if (delta < 0 && currentIndex < totalSlides - 1) {
+                        currentIndex++;
+                    } else if (delta > 0 && currentIndex > 0) {
+                        currentIndex--;
+                    }
+                    slider.style.transform = `translateX(-${currentIndex * 100}%)`;
+                    updateDots();
+                }
+            });
+
+            updateDots();
+        };
+    </script>
+    <script>
+        window.blazorCulture = {
+            get: () => {
+                return localStorage.getItem('blazor-culture');
+            },
+            set: (value) => {
+                localStorage.setItem('blazor-culture', value);
+                location.reload(); // ricarica l'app con la lingua scelta
+            }
+        };
+    </script>
+</body>
+
+</html>
