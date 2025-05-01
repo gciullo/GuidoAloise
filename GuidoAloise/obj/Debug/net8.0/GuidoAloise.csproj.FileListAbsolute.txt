@@ -2246,8 +2246,6 @@ C:\GitHub\GuidoAloise\GuidoAloise\obj\Debug\net8.0\compressed\ooyuago7sj-7k42s4m
 C:\GitHub\GuidoAloise\GuidoAloise\obj\Debug\net8.0\compressed\leeamvrj2m-vlhpmq6cwh.gz
 C:\GitHub\GuidoAloise\GuidoAloise\obj\Debug\net8.0\compressed\xv21cjsd7e-oh1zvcfom8.gz
 C:\GitHub\GuidoAloise\GuidoAloise\obj\Debug\net8.0\compressed\czo1eljw5i-oyz0vx2fzb.gz
-C:\GitHub\GuidoAloise\GuidoAloise\obj\Debug\net8.0\compressed\uzg2broqml-0it5mihd1o.gz
-C:\GitHub\GuidoAloise\GuidoAloise\obj\Debug\net8.0\compressed\yg094hg42y-kilr984u6v.gz
 C:\GitHub\GuidoAloise\GuidoAloise\obj\Debug\net8.0\staticwebassets.build.json
 C:\GitHub\GuidoAloise\GuidoAloise\obj\Debug\net8.0\staticwebassets.development.json
 C:\GitHub\GuidoAloise\GuidoAloise\obj\Debug\net8.0\staticwebassets.build.endpoints.json
@@ -2263,5 +2261,7 @@ C:\GitHub\GuidoAloise\GuidoAloise\obj\Debug\net8.0\GuidoAloise.dll
 C:\GitHub\GuidoAloise\GuidoAloise\obj\Debug\net8.0\refint\GuidoAloise.dll
 C:\GitHub\GuidoAloise\GuidoAloise\obj\Debug\net8.0\GuidoAloise.pdb
 C:\GitHub\GuidoAloise\GuidoAloise\obj\Debug\net8.0\ref\GuidoAloise.dll
-C:\GitHub\GuidoAloise\GuidoAloise\obj\Debug\net8.0\compressed\s5vsk5q0dw-wjzdmto6gh.gz
-C:\GitHub\GuidoAloise\GuidoAloise\obj\Debug\net8.0\compressed\fxxjsl54fq-wl5igchisi.gz
+C:\GitHub\GuidoAloise\GuidoAloise\obj\Debug\net8.0\compressed\uzg2broqml-8n4csot06z.gz
+C:\GitHub\GuidoAloise\GuidoAloise\obj\Debug\net8.0\compressed\yg094hg42y-gdctv161if.gz
+C:\GitHub\GuidoAloise\GuidoAloise\obj\Debug\net8.0\compressed\s5vsk5q0dw-iomodfs1r7.gz
+C:\GitHub\GuidoAloise\GuidoAloise\obj\Debug\net8.0\compressed\fxxjsl54fq-pmhvhjxupr.gz

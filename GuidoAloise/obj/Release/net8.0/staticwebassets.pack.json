@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\scopedcss\\bundle\\GuidoAloise.styles.css",
+      "PackagePath": "staticwebassets\\GuidoAloise.styles.css"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\css\\output.css",
+      "PackagePath": "staticwebassets\\css\\output.css"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\img\\Contatti_img.jpg",
+      "PackagePath": "staticwebassets\\img\\Contatti_img.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\img\\HomepageBkg.png",
+      "PackagePath": "staticwebassets\\img\\HomepageBkg.png"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\img\\Logo.svg",
+      "PackagePath": "staticwebassets\\img\\Logo.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\img\\bio1.jpg",
+      "PackagePath": "staticwebassets\\img\\bio1.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\img\\bio2.jpg",
+      "PackagePath": "staticwebassets\\img\\bio2.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\img\\bio3.jpg",
+      "PackagePath": "staticwebassets\\img\\bio3.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\js\\tailwind.config.js",
+      "PackagePath": "staticwebassets\\js\\tailwind.config.js"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.GuidoAloise.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.GuidoAloise.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.GuidoAloise.props",
+      "PackagePath": "build\\GuidoAloise.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GuidoAloise.props",
+      "PackagePath": "buildMultiTargeting\\GuidoAloise.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.GuidoAloise.props",
+      "PackagePath": "buildTransitive\\GuidoAloise.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
