@@ -7,11 +7,31 @@
       "RelativeMoniker": "D:0:0:{937D7F59-1BA1-4F78-8268-5E6141E65DF2}|GuidoAloise.Api\\GuidoAloise.Api.csproj|solutionrelative:guidoaloise.api\\guidoaloise.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{937D7F59-1BA1-4F78-8268-5E6141E65DF2}|GuidoAloise.Api\\GuidoAloise.Api.csproj|c:\\github\\guidoaloise\\guidoaloise.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{937D7F59-1BA1-4F78-8268-5E6141E65DF2}|GuidoAloise.Api\\GuidoAloise.Api.csproj|solutionrelative:guidoaloise.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|c:\\github\\guidoaloise\\guidoaloise\\guidoaloise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\guidoaloise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|c:\\github\\guidoaloise\\guidoaloise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|c:\\github\\guidoaloise\\guidoaloise\\guidoaloise.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\guidoaloise.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|c:\\github\\guidoaloise\\guidoaloise\\services\\fileoperaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\services\\fileoperaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|c:\\github\\guidoaloise\\guidoaloise\\services\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\services\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|c:\\github\\guidoaloise\\guidoaloise\\pages\\opere.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -70,10 +90,6 @@
       "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\components\\operepage\\operamodal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|c:\\github\\guidoaloise\\guidoaloise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|c:\\github\\guidoaloise\\guidoaloise\\components\\operepage\\decadesection.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\components\\operepage\\decadesection.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -110,10 +126,6 @@
       "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\components\\languageselector.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|c:\\github\\guidoaloise\\guidoaloise\\guidoaloise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\guidoaloise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|c:\\github\\guidoaloise\\guidoaloise\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -124,10 +136,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|c:\\github\\guidoaloise\\guidoaloise\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|c:\\github\\guidoaloise\\guidoaloise\\services\\fileoperaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\services\\fileoperaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{937D7F59-1BA1-4F78-8268-5E6141E65DF2}|GuidoAloise.Api\\GuidoAloise.Api.csproj|c:\\github\\guidoaloise\\guidoaloise.api\\models\\newsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -142,10 +150,6 @@
       "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\components\\footer.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|c:\\github\\guidoaloise\\guidoaloise\\services\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\services\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|c:\\github\\guidoaloise\\guidoaloise\\wwwroot\\js\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\wwwroot\\js\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
@@ -157,11 +161,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "app.css",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\css\\app.css",
               "RelativeDocumentMoniker": "GuidoAloise\\wwwroot\\css\\app.css",
@@ -174,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "GuidoAloise\\Layout\\NavMenu.razor",
@@ -187,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Header.razor",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Components\\Header.razor",
               "RelativeDocumentMoniker": "GuidoAloise\\Components\\Header.razor",
@@ -200,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "GuidoAloise\\Pages\\Home.razor",
@@ -210,32 +214,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-12T11:04:20.995Z",
               "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Microsoft.NET.Sdk.DefaultItems.Shared.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
-              "RelativeDocumentMoniker": "..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
-              "RelativeToolTip": "..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
-              "ViewState": "AgIAAL8AAAAAAAAAAAAAwNYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-05-01T10:46:33.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GuidoAloise.Api",
-              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\GuidoAloise.Api.csproj",
-              "RelativeDocumentMoniker": "GuidoAloise.Api\\GuidoAloise.Api.csproj",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\GuidoAloise.Api.csproj",
-              "RelativeToolTip": "GuidoAloise.Api\\GuidoAloise.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-01T10:44:30.657Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -251,56 +229,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Opere.razor",
-              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Opere.razor",
-              "RelativeDocumentMoniker": "GuidoAloise\\Pages\\Opere.razor",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Opere.razor",
-              "RelativeToolTip": "GuidoAloise\\Pages\\Opere.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-13T11:41:07.013Z",
+              "DocumentIndex": 4,
+              "Title": "GuidoAloise",
+              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\GuidoAloise.csproj",
+              "RelativeDocumentMoniker": "GuidoAloise\\GuidoAloise.csproj",
+              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\GuidoAloise.csproj",
+              "RelativeToolTip": "GuidoAloise\\GuidoAloise.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T11:16:35.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AdminNews.razor",
-              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Admin\\AdminNews.razor",
-              "RelativeDocumentMoniker": "GuidoAloise\\Pages\\Admin\\AdminNews.razor",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Admin\\AdminNews.razor",
-              "RelativeToolTip": "GuidoAloise\\Pages\\Admin\\AdminNews.razor",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADEAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T09:35:36.956Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Program.cs",
-              "RelativeDocumentMoniker": "GuidoAloise\\Program.cs",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Program.cs",
-              "RelativeToolTip": "GuidoAloise\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T10:18:56.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "DecadeSection.razor",
-              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Components\\OperePage\\DecadeSection.razor",
-              "RelativeDocumentMoniker": "GuidoAloise\\Components\\OperePage\\DecadeSection.razor",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Components\\OperePage\\DecadeSection.razor",
-              "RelativeToolTip": "GuidoAloise\\Components\\OperePage\\DecadeSection.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-14T07:55:22.032Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "OperaCard.razor",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Components\\OperePage\\OperaCard.razor",
               "RelativeDocumentMoniker": "GuidoAloise\\Components\\OperePage\\OperaCard.razor",
@@ -312,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "OperaModal.razor",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Components\\OperePage\\OperaModal.razor",
               "RelativeDocumentMoniker": "GuidoAloise\\Components\\OperePage\\OperaModal.razor",
@@ -324,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Biografia.razor",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Biografia.razor",
               "RelativeDocumentMoniker": "GuidoAloise\\Pages\\Biografia.razor",
@@ -336,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Contacts.razor",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Contacts.razor",
               "RelativeDocumentMoniker": "GuidoAloise\\Pages\\Contacts.razor",
@@ -348,261 +289,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Resource.en.resx",
-              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Resources\\Resource.en.resx",
-              "RelativeDocumentMoniker": "GuidoAloise\\Resources\\Resource.en.resx",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Resources\\Resource.en.resx",
-              "RelativeToolTip": "GuidoAloise\\Resources\\Resource.en.resx",
-              "ViewState": "AgIAALAAAAAAAAAAAAAQwMgAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-04-26T07:57:00.693Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\Program.cs",
               "RelativeDocumentMoniker": "GuidoAloise.Api\\Program.cs",
               "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\Program.cs",
               "RelativeToolTip": "GuidoAloise.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T11:52:59.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Opera.cs",
-              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Models\\Opera.cs",
-              "RelativeDocumentMoniker": "GuidoAloise\\Models\\Opera.cs",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Models\\Opera.cs",
-              "RelativeToolTip": "GuidoAloise\\Models\\Opera.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T11:37:18.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "output.css",
-              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\css\\output.css",
-              "RelativeDocumentMoniker": "GuidoAloise\\wwwroot\\css\\output.css",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\css\\output.css",
-              "RelativeToolTip": "GuidoAloise\\wwwroot\\css\\output.css",
-              "ViewState": "AgIAAIoJAAAAAAAAAAAAAKAJAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-13T10:44:01.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Resource.resx",
-              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Resources\\Resource.resx",
-              "RelativeDocumentMoniker": "GuidoAloise\\Resources\\Resource.resx",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Resources\\Resource.resx",
-              "RelativeToolTip": "GuidoAloise\\Resources\\Resource.resx",
-              "ViewState": "AgIAAKEAAAAAAAAAAAAgwMQAAACoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-04-26T07:57:24.469Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Citazioni.razor",
-              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Citazioni.razor",
-              "RelativeDocumentMoniker": "GuidoAloise\\Pages\\Citazioni.razor",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Citazioni.razor",
-              "RelativeToolTip": "GuidoAloise\\Pages\\Citazioni.razor",
-              "ViewState": "AgIAADMAAAAAAAAAAAASwEkAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-20T08:53:26.841Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AdminOpere.razor",
-              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Admin\\AdminOpere.razor",
-              "RelativeDocumentMoniker": "GuidoAloise\\Pages\\Admin\\AdminOpere.razor",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Admin\\AdminOpere.razor",
-              "RelativeToolTip": "GuidoAloise\\Pages\\Admin\\AdminOpere.razor",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEwAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T11:37:46.699Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "opere.json",
-              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\opere.json",
-              "RelativeDocumentMoniker": "GuidoAloise.Api\\wwwroot\\opere.json",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\opere.json",
-              "RelativeToolTip": "GuidoAloise.Api\\wwwroot\\opere.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-19T11:39:52.256Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Opera.cs",
-              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\Models\\Opera.cs",
-              "RelativeDocumentMoniker": "GuidoAloise.Api\\Models\\Opera.cs",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\Models\\Opera.cs",
-              "RelativeToolTip": "GuidoAloise.Api\\Models\\Opera.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T11:42:43.124Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "NewsController.cs",
-              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\Controllers\\NewsController.cs",
-              "RelativeDocumentMoniker": "GuidoAloise.Api\\Controllers\\NewsController.cs",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\Controllers\\NewsController.cs",
-              "RelativeToolTip": "GuidoAloise.Api\\Controllers\\NewsController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwCQAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T09:42:22.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "GuidoAloise\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "GuidoAloise\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-30T18:25:20.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Footer.razor",
-              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Components\\Footer.razor",
-              "RelativeDocumentMoniker": "GuidoAloise\\Components\\Footer.razor",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Components\\Footer.razor",
-              "RelativeToolTip": "GuidoAloise\\Components\\Footer.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T10:13:11.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "GuidoAloise.csproj",
-              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\GuidoAloise.csproj",
-              "RelativeDocumentMoniker": "GuidoAloise\\GuidoAloise.csproj",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\GuidoAloise.csproj",
-              "RelativeToolTip": "GuidoAloise\\GuidoAloise.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-19T09:49:34.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "GuidoAloise\\wwwroot\\index.html",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\index.html",
-              "RelativeToolTip": "GuidoAloise\\wwwroot\\index.html",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAmwIIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-29T17:38:31.159Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "LanguageSelector.razor",
-              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Components\\LanguageSelector.razor",
-              "RelativeDocumentMoniker": "GuidoAloise\\Components\\LanguageSelector.razor",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Components\\LanguageSelector.razor",
-              "RelativeToolTip": "GuidoAloise\\Components\\LanguageSelector.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T10:35:02.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Resource.cs",
-              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Resources\\Resource.cs",
-              "RelativeDocumentMoniker": "GuidoAloise\\Resources\\Resource.cs",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Resources\\Resource.cs",
-              "RelativeToolTip": "GuidoAloise\\Resources\\Resource.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T10:06:29.021Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "NewsItem.cs",
-              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Models\\NewsItem.cs",
-              "RelativeDocumentMoniker": "GuidoAloise\\Models\\NewsItem.cs",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Models\\NewsItem.cs",
-              "RelativeToolTip": "GuidoAloise\\Models\\NewsItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T11:03:25.165Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Footer.razor.css",
-              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Components\\Footer.razor.css",
-              "RelativeDocumentMoniker": "GuidoAloise\\Components\\Footer.razor.css",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Components\\Footer.razor.css",
-              "RelativeToolTip": "GuidoAloise\\Components\\Footer.razor.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-12T10:53:59.876Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "NavMenu.razor.css",
-              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Layout\\NavMenu.razor.css",
-              "RelativeDocumentMoniker": "GuidoAloise\\Layout\\NavMenu.razor.css",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Layout\\NavMenu.razor.css",
-              "RelativeToolTip": "GuidoAloise\\Layout\\NavMenu.razor.css",
-              "ViewState": "AgIAABUAAAAAAAAAAIBJwC4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-13T09:16:17.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "NewsItem.cs",
-              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\Models\\NewsItem.cs",
-              "RelativeDocumentMoniker": "GuidoAloise.Api\\Models\\NewsItem.cs",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\Models\\NewsItem.cs",
-              "RelativeToolTip": "GuidoAloise.Api\\Models\\NewsItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T09:27:02.065Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "FileOperaService.cs",
-              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Services\\FileOperaService.cs",
-              "RelativeDocumentMoniker": "GuidoAloise\\Services\\FileOperaService.cs",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Services\\FileOperaService.cs",
-              "RelativeToolTip": "GuidoAloise\\Services\\FileOperaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T09:33:34.493Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 6,
               "Title": "IDataService.cs",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Services\\IDataService.cs",
               "RelativeDocumentMoniker": "GuidoAloise\\Services\\IDataService.cs",
@@ -614,7 +314,322 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileOperaService.cs",
+              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Services\\FileOperaService.cs",
+              "RelativeDocumentMoniker": "GuidoAloise\\Services\\FileOperaService.cs",
+              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Services\\FileOperaService.cs",
+              "RelativeToolTip": "GuidoAloise\\Services\\FileOperaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:33:34.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GuidoAloise.Api.csproj",
+              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\GuidoAloise.Api.csproj",
+              "RelativeDocumentMoniker": "GuidoAloise.Api\\GuidoAloise.Api.csproj",
+              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\GuidoAloise.Api.csproj*",
+              "RelativeToolTip": "GuidoAloise.Api\\GuidoAloise.Api.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T10:44:30.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GuidoAloise.csproj",
+              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\GuidoAloise.csproj",
+              "RelativeDocumentMoniker": "GuidoAloise\\GuidoAloise.csproj",
+              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\GuidoAloise.csproj",
+              "RelativeToolTip": "GuidoAloise\\GuidoAloise.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-19T09:49:34.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Program.cs",
+              "RelativeDocumentMoniker": "GuidoAloise\\Program.cs",
+              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Program.cs",
+              "RelativeToolTip": "GuidoAloise\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:18:56.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DecadeSection.razor",
+              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Components\\OperePage\\DecadeSection.razor",
+              "RelativeDocumentMoniker": "GuidoAloise\\Components\\OperePage\\DecadeSection.razor",
+              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Components\\OperePage\\DecadeSection.razor",
+              "RelativeToolTip": "GuidoAloise\\Components\\OperePage\\DecadeSection.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T07:55:22.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Opere.razor",
+              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Opere.razor",
+              "RelativeDocumentMoniker": "GuidoAloise\\Pages\\Opere.razor",
+              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Opere.razor",
+              "RelativeToolTip": "GuidoAloise\\Pages\\Opere.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T11:41:07.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeDocumentMoniker": "..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeToolTip": "..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAAwNYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-01T10:46:33.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminNews.razor",
+              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Admin\\AdminNews.razor",
+              "RelativeDocumentMoniker": "GuidoAloise\\Pages\\Admin\\AdminNews.razor",
+              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Admin\\AdminNews.razor",
+              "RelativeToolTip": "GuidoAloise\\Pages\\Admin\\AdminNews.razor",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T09:35:36.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Resource.en.resx",
+              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Resources\\Resource.en.resx",
+              "RelativeDocumentMoniker": "GuidoAloise\\Resources\\Resource.en.resx",
+              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Resources\\Resource.en.resx",
+              "RelativeToolTip": "GuidoAloise\\Resources\\Resource.en.resx",
+              "ViewState": "AgIAALAAAAAAAAAAAAAQwMgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-26T07:57:00.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Opera.cs",
+              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Models\\Opera.cs",
+              "RelativeDocumentMoniker": "GuidoAloise\\Models\\Opera.cs",
+              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Models\\Opera.cs",
+              "RelativeToolTip": "GuidoAloise\\Models\\Opera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:37:18.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "output.css",
+              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\css\\output.css",
+              "RelativeDocumentMoniker": "GuidoAloise\\wwwroot\\css\\output.css",
+              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\css\\output.css",
+              "RelativeToolTip": "GuidoAloise\\wwwroot\\css\\output.css",
+              "ViewState": "AgIAAIoJAAAAAAAAAAAAAKAJAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-13T10:44:01.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Resource.resx",
+              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Resources\\Resource.resx",
+              "RelativeDocumentMoniker": "GuidoAloise\\Resources\\Resource.resx",
+              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Resources\\Resource.resx",
+              "RelativeToolTip": "GuidoAloise\\Resources\\Resource.resx",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAgwMQAAACoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-26T07:57:24.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Citazioni.razor",
+              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Citazioni.razor",
+              "RelativeDocumentMoniker": "GuidoAloise\\Pages\\Citazioni.razor",
+              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Citazioni.razor",
+              "RelativeToolTip": "GuidoAloise\\Pages\\Citazioni.razor",
+              "ViewState": "AgIAADMAAAAAAAAAAAASwEkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T08:53:26.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminOpere.razor",
+              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Admin\\AdminOpere.razor",
+              "RelativeDocumentMoniker": "GuidoAloise\\Pages\\Admin\\AdminOpere.razor",
+              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Admin\\AdminOpere.razor",
+              "RelativeToolTip": "GuidoAloise\\Pages\\Admin\\AdminOpere.razor",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T11:37:46.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "opere.json",
+              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\opere.json",
+              "RelativeDocumentMoniker": "GuidoAloise.Api\\wwwroot\\opere.json",
+              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\opere.json",
+              "RelativeToolTip": "GuidoAloise.Api\\wwwroot\\opere.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-19T11:39:52.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Opera.cs",
+              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\Models\\Opera.cs",
+              "RelativeDocumentMoniker": "GuidoAloise.Api\\Models\\Opera.cs",
+              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\Models\\Opera.cs",
+              "RelativeToolTip": "GuidoAloise.Api\\Models\\Opera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:42:43.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "GuidoAloise.Api\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "GuidoAloise.Api\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:42:22.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "GuidoAloise\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "GuidoAloise\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T18:25:20.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Footer.razor",
+              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Components\\Footer.razor",
+              "RelativeDocumentMoniker": "GuidoAloise\\Components\\Footer.razor",
+              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Components\\Footer.razor",
+              "RelativeToolTip": "GuidoAloise\\Components\\Footer.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T10:13:11.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "GuidoAloise\\wwwroot\\index.html",
+              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\index.html",
+              "RelativeToolTip": "GuidoAloise\\wwwroot\\index.html",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAmwIIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-29T17:38:31.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LanguageSelector.razor",
+              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Components\\LanguageSelector.razor",
+              "RelativeDocumentMoniker": "GuidoAloise\\Components\\LanguageSelector.razor",
+              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Components\\LanguageSelector.razor",
+              "RelativeToolTip": "GuidoAloise\\Components\\LanguageSelector.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T10:35:02.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Resources\\Resource.cs",
+              "RelativeDocumentMoniker": "GuidoAloise\\Resources\\Resource.cs",
+              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Resources\\Resource.cs",
+              "RelativeToolTip": "GuidoAloise\\Resources\\Resource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:06:29.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "NewsItem.cs",
+              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Models\\NewsItem.cs",
+              "RelativeDocumentMoniker": "GuidoAloise\\Models\\NewsItem.cs",
+              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Models\\NewsItem.cs",
+              "RelativeToolTip": "GuidoAloise\\Models\\NewsItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T11:03:25.165Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 36,
+              "Title": "Footer.razor.css",
+              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Components\\Footer.razor.css",
+              "RelativeDocumentMoniker": "GuidoAloise\\Components\\Footer.razor.css",
+              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Components\\Footer.razor.css",
+              "RelativeToolTip": "GuidoAloise\\Components\\Footer.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-12T10:53:59.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "GuidoAloise\\Layout\\NavMenu.razor.css",
+              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "GuidoAloise\\Layout\\NavMenu.razor.css",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwC4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-13T09:16:17.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "NewsItem.cs",
+              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\Models\\NewsItem.cs",
+              "RelativeDocumentMoniker": "GuidoAloise.Api\\Models\\NewsItem.cs",
+              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\Models\\NewsItem.cs",
+              "RelativeToolTip": "GuidoAloise.Api\\Models\\NewsItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:27:02.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
               "Title": "tailwind.config.js",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\js\\tailwind.config.js",
               "RelativeDocumentMoniker": "GuidoAloise\\wwwroot\\js\\tailwind.config.js",

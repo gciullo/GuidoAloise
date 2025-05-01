@@ -15,6 +15,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\GuidoAloise\GuidoAloise.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Update="wwwroot\news.json">
       <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
