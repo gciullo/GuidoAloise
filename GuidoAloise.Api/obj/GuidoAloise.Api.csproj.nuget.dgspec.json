@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\GuidoAloise.Api.csproj": {}
+    "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\GuidoAloise.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\GuidoAloise.Api.csproj": {
+    "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\GuidoAloise.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\GuidoAloise.Api.csproj",
+        "projectUniqueName": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\GuidoAloise.Api.csproj",
         "projectName": "GuidoAloise.Api",
-        "projectPath": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\GuidoAloise.Api.csproj",
+        "projectPath": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\GuidoAloise.Api.csproj",
         "packagesPath": "C:\\Users\\gabriele.ciullo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\obj\\",
+        "outputPath": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
