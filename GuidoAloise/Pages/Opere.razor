@@ -1,0 +1,63 @@
+﻿@page "/opere"
+@using GuidoAloise.Components.OperePage
+@using GuidoAloise.Models
+@using System.Reflection
+@using Microsoft.Extensions.Localization
+@using System.Globalization
+@inject IDataService DataService
+
+@if (initialized)
+{
+    <PageTitle>Guido Aloise - @Localizer["Opere"]</PageTitle>
+
+    <div class="section-title" style="padding-top: 100px">
+        @Localizer["Opere"]
+    </div>
+
+    <div class="container mx-auto">
+        @foreach (var decade in OperePerDecade)
+        {
+            <DecadeSection Decade="@decade.Key" Opere="@decade.Value" SelezionaOpera="ApriModal" />
+        }
+    </div>
+    <div style="margin: 0px 10% 80px"></div>
+
+    <OperaModal Opera="operaSelezionata" Visible="@showModal" OnClose="ChiudiModal" Localizer="Localizer" />
+}
+else
+{
+    <p class="loading">Caricamento...</p>
+}
+@code {
+    [Inject] protected IStringLocalizerFactory LocalizerFactory { get; set; } = null!;
+
+    private IStringLocalizer Localizer { get; set; } = null!;
+    Dictionary<string, List<Opera>> OperePerDecade = new();
+    Opera? operaSelezionata;
+    bool showModal = false;
+    bool initialized = false;
+
+    private string currentCulture => CultureInfo.CurrentUICulture.TwoLetterISOLanguageName;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var tutteLeOpere = await DataService.GetOpereAsync();
+        OperePerDecade = tutteLeOpere
+            .GroupBy(o => currentCulture == "en" ? o.CategoriaEng : o.Categoria)
+            .OrderBy(g => g.Key)
+            .ToDictionary(g => g.Key, g => g.ToList());
+        Localizer = LocalizerFactory.Create("Resource", Assembly.GetExecutingAssembly().GetName().Name!);
+        initialized = true;
+    }
+
+    void ApriModal(Opera opera)
+    {
+        operaSelezionata = opera;
+        showModal = true;
+    }
+
+    void ChiudiModal()
+    {
+        showModal = false;
+    }
+}

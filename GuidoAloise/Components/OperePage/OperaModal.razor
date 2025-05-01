@@ -1,0 +1,89 @@
+﻿@using GuidoAloise.Models
+@using System.Globalization
+@using Microsoft.Extensions.Localization
+@using System.Reflection
+@if (Visible)
+{
+    <p class="text-green-600">Modale attiva!</p>
+}
+@if (Visible && Opera != null)
+{
+    <div class="fixed inset-0 bg-black bg-opacity-80 z-50 flex items-center justify-center">
+        <div class="bg-white p-6 rounded-xl max-w-4xl w-full shadow-lg relative" style="overflow-y: auto; max-height: 100vh;">
+            <button @onclick="OnClose"
+                    class="absolute top-4 right-4 hover:bg-gray-300 text-black rounded-full w-8 h-8 flex items-center justify-center">
+                <i class="fa-solid fa-xmark"></i>
+            </button>
+
+            <div class="max-h-[90vh] overflow-y-auto">
+                <div class="flex flex-col md:flex-row gap-6">
+                    <img src="@Opera.UrlImmagine" class="w-full md:w-1/2 rounded-xl shadow" />
+
+                    <div class="flex flex-col justify-start">
+                        <h2 class="operacard-title text-2xl font-bold mb-2" style="margin-right:1rem">@Titolo</h2>
+                        <p class="operacard-subtitle mb-1">
+                            @Tecnica@(!string.IsNullOrEmpty(Opera.Dimensioni) && !string.IsNullOrEmpty(Opera.Dimensioni) ? ", " : string.Empty)@Opera.Dimensioni
+                        </p>
+                        @if (!string.IsNullOrWhiteSpace(Descrizione))
+                        {
+                            <div class="operacard-content relative overflow-hidden transition-all duration-300" style="@(!EspandiDescrizione ? "max-height: 7rem;" : "max-height: 35vh; overflow-y: auto !important;")">
+                                <div class="whitespace-pre-line">
+                                    @Descrizione
+                                </div>
+
+                                @if (!EspandiDescrizione && !string.IsNullOrWhiteSpace(Descrizione) && Descrizione.Length > 200)
+                                {
+                                    <div class="descrizione-gradiente"></div>
+                                }
+                            </div>
+
+                            @if (!string.IsNullOrWhiteSpace(Descrizione) && Descrizione.Length > 200)
+                            {
+                                <button @onclick="ToggleDescrizione"
+                                        class="operacard-expand mt-2">
+                                    @MostraMenoOAltro
+                                </button>
+                            }
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+@code {
+    [Parameter] public Opera? Opera { get; set; }
+    [Parameter] public bool Visible { get; set; }
+    [Parameter] public EventCallback OnClose { get; set; }
+    [Parameter] public IStringLocalizer Localizer { get; set; } = null!;
+
+    private bool EspandiDescrizione = false;
+
+    private string MostraMenoOAltro => EspandiDescrizione ? Localizer["MostraMeno"] : Localizer["MostraAltro"];
+    private string currentCulture => CultureInfo.CurrentUICulture.TwoLetterISOLanguageName;
+
+    private string T(string it, string? en) => currentCulture == "en" ? en ?? it : it;
+
+    private string Titolo => Opera is null ? string.Empty : T(Opera.Titolo, Opera.TitoloEng);
+    private string Descrizione => Opera is null ? string.Empty : T(Opera.Descrizione ?? "", Opera.DescrizioneEng);
+    private string Categoria => Opera is null ? string.Empty : T(Opera.Categoria, Opera.CategoriaEng);
+    private string Tecnica => Opera is null ? string.Empty : T(Opera.Tecnica, Opera.TecnicaEng);
+
+    private void ToggleDescrizione()
+    {
+        EspandiDescrizione = !EspandiDescrizione;
+    }
+}
+
+<style>
+    .descrizione-gradiente {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 3rem;
+        background: linear-gradient(to top, white, transparent);
+        pointer-events: none;
+    }
+</style>

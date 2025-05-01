@@ -1,0 +1,41 @@
+[
+  {
+    "Titolo": "La giostra",
+    "TitoloEng": "La giostra",
+    "Categoria": "Anni \u002760",
+    "CategoriaEng": "1960s",
+    "UrlImmagine": "https://localhost:7051/img/opere/lagiostra_8f558b77.jpg",
+    "Anno": 1962,
+    "Tecnica": "Olio su tavola",
+    "TecnicaEng": "Olio su tavola",
+    "Dimensioni": "35 x 25",
+    "Descrizione": null,
+    "DescrizioneEng": null
+  },
+  {
+    "Titolo": "Madonna con bambino",
+    "TitoloEng": "Madonna con bambino",
+    "Categoria": "Anni \u002760",
+    "CategoriaEng": "1960s",
+    "UrlImmagine": "https://localhost:7051/img/opere/madonnaconbambino_cd414257.jpg",
+    "Anno": 1963,
+    "Tecnica": "Olio su tela",
+    "TecnicaEng": "Olio su tela",
+    "Dimensioni": "60 x 50",
+    "Descrizione": "Descrizione di prova in cui non dico nulla.\nE vado a capo.",
+    "DescrizioneEng": "Descrizione di prova in cui non dico nulla.\nE vado a capo."
+  },
+  {
+    "Titolo": "Saggezza",
+    "TitoloEng": "Saggezza",
+    "Categoria": "Anni \u002760",
+    "CategoriaEng": "1960s",
+    "UrlImmagine": "https://localhost:7051/img/opere/saggezza_33c7da48.jpg",
+    "Anno": 1963,
+    "Tecnica": "Olio su tela",
+    "TecnicaEng": "Olio su tela",
+    "Dimensioni": "40 x 30",
+    "Descrizione": "Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. ",
+    "DescrizioneEng": "Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. Lorem ipsum est. "
+  }
+]

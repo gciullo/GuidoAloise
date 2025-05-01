@@ -1,0 +1,43 @@
+﻿@page "/bio"
+@using Microsoft.Extensions.Localization
+@using System.Reflection
+@inject HttpClient Http
+
+<PageTitle>Guido Aloise - @(Localizer is null ? string.Empty : Localizer["Biografia"])</PageTitle>
+
+
+<div class="section-title" style="padding-top: 100px">
+    @Localizer["Biografia"]
+</div>
+@for (int i = 1; i <= 3; i++)
+{
+    <div class="section-title" style="padding-top: 30px; font-size:24px; text-align:center">
+        @Localizer?["BiografiaSottotitolo" + i]
+    </div>
+    <div class="bio-block">
+        <div class="section-content" style="display:block !important">
+            <figure class="bio-img" style="float: @(i % 2 == 0 ? "right" : "left");">
+                <img src="img/bio@(i).jpg" />
+                @if (!string.IsNullOrEmpty(Localizer?["DescrBioImg" + i] ?? string.Empty) && Localizer!["DescrBioImg" + i] != $"DescrBioImg{i}")
+                {
+                    <figcaption>@Localizer!["DescrBioImg" + i]</figcaption>
+                }
+            </figure>
+
+            @(new MarkupString(Localizer is null ? string.Empty : Localizer["BiografiaSezione" + i]))
+        </div>
+    </div>
+}
+<div style="margin: 0px 10% 80px"></div>
+
+@code {
+
+    [Inject] protected IStringLocalizerFactory LocalizerFactory { get; set; } = null!;
+
+    private IStringLocalizer Localizer { get; set; } = null!;
+
+    protected override async Task OnInitializedAsync()
+    {
+        Localizer = LocalizerFactory.Create("Resource", Assembly.GetExecutingAssembly().GetName().Name!);
+    }
+}

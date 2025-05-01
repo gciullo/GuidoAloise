@@ -1,0 +1,147 @@
+﻿@page "/admin/opere"
+@using GuidoAloise.Models
+@inject HttpClient Http
+@inject IDataService DataService
+@inject IJSRuntime JS
+
+@if (!AccessoConsentito)
+{
+    <div>
+        <h3>Inserisci codice admin:</h3>
+        <input @bind="Codice" />
+        <button @onclick="VerificaCodice">Accedi</button>
+    </div>
+}
+else
+{
+    <h1 class="text-2xl font-bold mb-6">Gestione Opere</h1>
+
+    <!-- Form -->
+    <div class="mb-6 p-4 bg-gray-100 rounded">
+        <h2 class="text-xl font-semibold mb-2">Aggiungi Nuova Opera</h2>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <InputText @bind-Value="NuovaOpera.Titolo" class="input" placeholder="Titolo" />
+            <InputText @bind-Value="NuovaOpera.TitoloEng" class="input" placeholder="Titolo Inglese" />
+            <InputNumber @bind-Value="NuovaOpera.Anno" class="input" placeholder="Anno" />
+            <InputText @bind-Value="NuovaOpera.Categoria" class="input" placeholder="Categoria (opzionale)" />
+            <InputText @bind-Value="NuovaOpera.CategoriaEng" class="input" placeholder="Categoria Inglese (opzionale)" />
+            <InputText @bind-Value="NuovaOpera.Tecnica" class="input" placeholder="Tecnica" />
+            <InputText @bind-Value="NuovaOpera.TecnicaEng" class="input" placeholder="Tecnica Inglese" />
+            <InputText @bind-Value="NuovaOpera.Dimensioni" class="input" placeholder="Dimensioni" />
+            <InputTextArea @bind-Value="NuovaOpera.Descrizione" class="input md:col-span-2" placeholder="Descrizione (opzionale)" />
+            <InputTextArea @bind-Value="NuovaOpera.DescrizioneEng" class="input md:col-span-2" placeholder="Descrizione Inglese (opzionale)" />
+            <InputFile OnChange="HandleFileSelected" class="input md:col-span-2" />
+        </div>
+
+        @if (!string.IsNullOrWhiteSpace(NuovaOpera.UrlImmagine))
+        {
+            <div class="mt-2 text-sm text-green-700">
+                Immagine caricata: @NuovaOpera.UrlImmagine
+            </div>
+        }
+
+        <button class="btn mt-4" @onclick="AggiungiOpera">Aggiungi Opera</button>
+    </div>
+
+    <!-- Elenco opere -->
+    <div>
+        <h2 class="text-xl font-semibold mb-2">Opere Esistenti</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4">
+            @foreach (var opera in Opere)
+            {
+                <div class="relative group border rounded p-2 shadow">
+                    <img src="@opera.UrlImmagine" class="w-full h-auto mb-2" />
+                    <div class="text-sm">
+                        <strong>@opera.Titolo</strong><br />
+                        @opera.Categoria (@opera.Anno) - @opera.Tecnica, @opera.Dimensioni
+                    </div>
+                    <button class="absolute top-1 right-1 bg-red-600 text-white rounded p-1 text-xs hidden group-hover:block"
+                            @onclick="() => RimuoviOpera(opera)">
+                        Rimuovi
+                    </button>
+                </div>
+            }
+        </div>
+    </div>
+
+    <div style="margin: 40px 10% 80px" />
+}
+
+@code {
+    private List<Opera> Opere = new();
+    private Opera NuovaOpera = new();
+    private IBrowserFile? ImmagineOnStage;
+    private bool AccessoConsentito = false;
+    private string Codice = "";
+    private const string CodiceValido = "franca1963";
+
+    protected override async Task OnInitializedAsync()
+    {
+        Opere = await DataService.GetOpereAsync();
+        var flag = await JS.InvokeAsync<string>("localStorage.getItem", "admin_access");
+        AccessoConsentito = flag == "ok";
+    }
+
+    private async Task VerificaCodice()
+    {
+        if (Codice == CodiceValido)
+        {
+            AccessoConsentito = true;
+            await JS.InvokeVoidAsync("localStorage.setItem", "admin_access", "ok");
+        }
+    }
+
+    private async Task AggiungiOpera()
+    {
+        await SaveImage();
+
+        await DataService.AddOperaAsync(NuovaOpera);
+        Opere = await DataService.GetOpereAsync();
+        NuovaOpera = new();
+    }
+
+    private async Task RimuoviOpera(Opera opera)
+    {
+        await DataService.RemoveOperaAsync(opera);
+        Opere = await DataService.GetOpereAsync();
+    }
+
+    private async Task HandleFileSelected(InputFileChangeEventArgs e)
+    {
+        ImmagineOnStage = e.File;
+    }
+
+    private async Task SaveImage()
+    {
+        if (ImmagineOnStage is null) return;
+
+        var url = await DataService.UploadImageAsync(ImmagineOnStage);
+        if (url != null)
+        {
+            NuovaOpera.UrlImmagine = new Uri(Http.BaseAddress!, url).ToString();
+        }
+    }
+
+    protected override void OnInitialized()
+    {
+
+    }
+}
+
+<style>
+    .input {
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        padding: 8px;
+        width: 100%;
+    }
+
+    .btn {
+        background-color: #2563eb;
+        color: white;
+        padding: 0.5rem 1rem;
+        border-radius: 6px;
+        border: none;
+    }
+</style>

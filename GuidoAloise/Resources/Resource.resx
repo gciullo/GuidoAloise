@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BibliografiaTitle" xml:space="preserve">
+    <value>Bibliografia</value>
+  </data>
+  <data name="Biografia" xml:space="preserve">
+    <value>Biografia</value>
+  </data>
+  <data name="BiografiaSezione1" xml:space="preserve">
+    <value>Guido Aloise è nato a Fiumefreddo, in Calabria, nel 1925 ed è morto a Roma nel 1986.
+&lt;br /&gt;
+Sin dall’infanzia dimostrò di avere un talento artistico molto spiccato, vincendo anche concorsi indetti per i bambini delle scuole elementari.
+&lt;br /&gt;
+Si trasferì nel 1939 nella Capitale, dove ha frequentato con profitto, ma per un breve periodo, l’Accademia di Belle Arti. L’incalzare degli eventi e la guerra lo indussero, seppure giovanissimo, a cercare un lavoro, applicando il suo talento artistico.
+&lt;br /&gt;
+Già dal 1950 espone le sue opere in note collettive: Via Margutta, Primavera Romana Trinità dei Monti, Tavolettisti Galleria San Marco, Mostra “Amici del Cavallo” (1° premio), Foyer des Artistes (1° premio), Greccio “Nido del Corvo” (1° premio), Biennale d’Arte Sacra di Sora.
+</value>
+  </data>
+  <data name="BiografiaSezione2" xml:space="preserve">
+    <value>Riscuotendo consensi di pubblico e critica, dagli anni ’60 sino alla morte, ha tenuto fortunate mostre personali, in Italia e all’estero: Palazzo delle Esposizioni – Roma, Galleria Scandenberg – Roma, Teatro Eliseo – Roma, La Marguttiana – Roma, Galleria “La Tana” – Belvedere, Galleria A.A.T. – L’Aquila, Galleria “98” – Cosenza, Galleria “La Ragnatela” – Tropea, Grand Hotel – Guardia Piemontese, Hotel Boston – Roma, Museo d’Arte Moderna – La Valletta (Malta), Museo della Cattedrale – Medina (Malta), Galleria “Apollo d’Oro” – Matera, Libreria Remo Croce – Roma, Galleria “L’Autore” – Chieti.
+&lt;br /&gt;
+Guido Aloise ha donato opere a pubbliche istituzioni tra cui: l’omaggio di una “Testa di Cristo” al Pontefice Giovanni Paolo II nel 1979; un murales nella cittadina calabra di Fuscaldo Marina e due bozzetti su tela per il mosaico absidale della Chiesa di San Francesco di Paola a Catona (RC).
+&lt;br /&gt;
+Opere fondamentali della sua vita artistica sono: l’affresco dell’altare maggiore nella Chiesa di Sant’Aniello a Cosenza (m 6×9), monumentale e stupenda raffigurazione del Giudizio Universale; due dipinti ( m 3×6 cad.), aventi come soggetti l’Ultima Cena e la Deposizione, sull’abside della Chiesa di S.Maria Addolorata a Roma.
+&lt;br /&gt;
+La sua ricerca di sempre nuove forme espressive lo ha portato a cimentarsi nella scultura e nella riproduzione di sue opere su lastre d’oro.
+&lt;br /&gt;
+Dalla biografia di Guido Aloise si comprende chiaramente come quest’uomo abbia perseguito per tutta la sua breve vita il sogno di fare il pittore.
+&lt;br /&gt;
+E per un lungo periodo, la passione artistica ha convissuto con altri mestieri, sempre attinenti al suo talento: da disegnatore tecnico-elettronico all’Autovox, a cartellonista cinematografico, a illustratore di “affiches” pubblicitarie, a fotografo, fino addirittura a cimentarsi come attore di fotoromanzi.
+&lt;br /&gt;
+Poi, visto che i contratti regolari con i galleristi e i mercanti d’arte aumentavano, decise, nel 1976 (quando ha già una famiglia e tre figli), di fare solo il pittore.
+&lt;br /&gt;
+Ma di quella categoria di pittori con caratteristiche ben precise.
+</value>
+  </data>
+  <data name="BiografiaSezione3" xml:space="preserve">
+    <value>Guido Aloise è autodidatta, cioè ha sì frequentato l’Accademia di Belle Arti, ma per breve tempo e non si è mai diplomato.
+&lt;br /&gt;
+Guido Aloise dipinge per un bisogno quasi istintuale, emotivo, oserei dire “terapeutico”. La sua pittura è una sorta di analisi psicologica, di lettino da psichiatra, dimostrato dalla sua grande attenzione verso il mondo onirico.
+&lt;br /&gt;
+Guido Aloise non è una persona “spericolata”. Non segue le mode, non è un radical chic, non frequenta gli ambienti che contano o che fanno artista di denuncia, non si droga, non sperimenta estremi strumenti. Segue la tradizione del saper disegnare, e questo lo rende non appetibile dalla critica contemporanea.
+&lt;br /&gt;
+Collocare, quindi, Guido Aloise in un contesto storico-artistico è difficile, perché per quanto già detto e per l’indole solitaria, per la poca diplomazia, per l’odio verso il compromesso e per la scarsissima propensione al sodalizio politico, si rende una figura errante e non allineata.
+&lt;br /&gt;
+Caratteristiche queste poco desiderabili nella Roma intellettuale di quel periodo, dove “pittura figurativa” significava o decorazione o pittura politica e di propaganda.
+&lt;br /&gt;
+Il circo mediatico ed il gotha dei critici concedevano visibilità e considerazione solo a chi apparteneva alle categorie o dei pittori maledetti, oppure ai tesserati di alcuni partiti politici.
+&lt;br /&gt;
+Per questo e per molto altro, Guido Aloise si è volutamente isolato, non ha mai fatto parte di gruppi, di correnti, di cerchie. E ciò ha avuto un prezzo, caro da pagare.
+&lt;br /&gt;
+Ciononostante, il pubblico ed alcuni attenti critici hanno sempre sostenuto ed ammirato la sua poetica: sia quando si esprimeva nelle tematiche sociali, sia quando era rappresentazione di sogni, sia quando era purezza figurativa ed estetica.
+&lt;br /&gt;
+È stata percepita, in ogni sfaccettatura, la spontaneità, la sincerità e la profondità del suo talento.
+&lt;br /&gt;
+Tanta fiducia era riposta in lui da essere stato oggetto di numerosi incarichi per decorazioni di luoghi laici e soprattutto sacri, da non dimenticare assolutamente gli affreschi per le absidi di Santa Maria Addolorata a Roma, di Sant’Aniello a Cosenza ed il mosaico per San Francesco di Paola a Catona (Reggio Calabria).
+&lt;br /&gt;
+Ma entriamo ora nel dettaglio stilistico e contenutistico della sua produzione.
+&lt;br /&gt;
+Le costanti tematiche, che abbiamo prima enunciato, sono state trattate in maniera diversa anche a livello cromatico nel corso degli anni di vita e di lavoro.
+&lt;br /&gt;
+La fine degli anni Sessanta e la prima metà degli anni Settanta sono caratterizzati da atmosfere cupe, da un largo uso dei colori bruni che hanno espresso angosce e tumulti di quel periodo così carico di conflitti sociali ed accadimenti tragici (“Gibellina”, “Cane solo”, “Minaccia nucleare”, “Il Cieco”, “Vita d’artista”).
+&lt;br /&gt;
+Poi con la fine degli anni Settanta ed i successivi anni Ottanta, la tavolozza si accende e la luce si fa strada nelle opere di Aloise, che divengono molto più squillanti e, forse, più sicure anche nel disegno e nella pennellata (non a caso, ora è un artista “a tempo pieno”).
+&lt;br /&gt;
+Sono queste le opere della maturità.
+&lt;br /&gt;
+Grande spazio ora hanno i quadri a carattere onirico.
+&lt;br /&gt;
+Infatti, il sogno, per Guido Aloise, è sempre stato una grandissima fonte di ispirazione. Molte delle sue opere sono racconti dell’inconscio, dove le paure ed il trauma infantile della perdita della madre (vissuto come abbandono) sono ben visibili e ricorrenti.
+&lt;br /&gt;
+Sono i quadri dove è più facile ritrovare simbologie reiterate: dal Pulcinella al Don Chisciotte, eroi malinconici e perdenti, spesso rappresentazioni di se stesso come amava vestire i panni dell’artista incompreso e solitario nelle sue battaglie.
+&lt;br /&gt;
+E in queste opere è perennemente presente un’atmosfera triste e nello stesso tempo raffinata, così come lui concepiva il valore estetico, aulico ed elitario.
+&lt;br /&gt;
+In tutta la sua carriera artistica ha mantenuto, poi, un fortissimo legame con la sua terra d’origine, ritraendola nei pochi paesaggi e nei molti componimenti onirici e di denuncia sociale.
+&lt;br /&gt;
+Quindi, la Calabria, concepita come madre, è sempre presente nell’animo e nei ricordi di Guido Aloise.
+&lt;br /&gt;
+E questo cordone ombelicale non si romperà mai fino alla sua morte, poiché continuamente rinsaldato dalle visite, almeno annuali, al suo caro paese, Fiumefreddo Bruzio.</value>
+  </data>
+  <data name="BiografiaSottotitolo1" xml:space="preserve">
+    <value>Vita e prime affermazioni</value>
+  </data>
+  <data name="BiografiaSottotitolo2" xml:space="preserve">
+    <value>Mostre, opere pubbliche e svolta professionale</value>
+  </data>
+  <data name="BiografiaSottotitolo3" xml:space="preserve">
+    <value>Poetica personale, isolamento e evoluzione cromatica</value>
+  </data>
+  <data name="CitazioneDAmore" xml:space="preserve">
+    <value>Non sono un critico d’arte, sono scrittore; come tale mi manca la consumata capacità di esaltare o stroncare o di dire il niente con centinaia di parole; posso semplicemente raccontare una trama minuta e delle impressioni. Dunque, il pomeriggio di questo maggio ’81 era inoltrato. Traffico folle fumoso colloso di questa Roma ’81. Dovevo comunque andare a vedere Guido. Un mezzo a disposizione mi restava . Gli autobus inzeppati, un taxi libero neanche a sognarlo, tutti ripieni alla crema, schizzanti oltre me. L’unico mezzo a mia disposizione: i piedi. Feci il Flaminio, Piazza del Popolo, incalzato dalla ressa, tamponato dai microfoni del comizio: un incubo. Alla fine camminai per via Margutta, fino all’83/A. L’incubo mio era finito; oltre la soglia dell’83/A c’era però l’incubo di Guido: la prima tela, anticipo delle altre in fila sui muri, alla personale di Guido Aloise. In questo incubo pittorico, Guido appare sconvolto e sereno al contempo; le figure incappucciate sui lati del salone dell’antico castello lo sospingono senza minimamente sfiorarlo, verso un’uscita, la liberazione che non è visibile ma esiste: va cercata sulle altre tele, sentiero dopo sentiero. Sono i dubbi, le angosce e, al centro di tutto, l’interrogativo su Dio e su Cristo. Il Figlio dell’Uomo è ritratto di profilo, di prospetto, di spalle, in croce e non. Ma è presente in Spirito dovunque: come nel dipinto della pesca: la miracolosa pesca evangelica in tono moderno, calamitante nelle sue positure anatomiche ed espressive. Il Cristo, sorgente di pace e di vita. Da questa sorgente scaturisce l’intera gamma delle suggestive coloriture, regolate da un pennello accortissimo che nel corso del pensoso, faticato ritrarre il mistero esistenziale può anche permettersi il vezzo di porre sulla tela le sembianze di dolcissime creature femminili: il pittore vi trova una fragile tregua. Al tramonto, esco dalla galleria e mi riesce di afferrare un bus. Scossoni, semafori inceppati e tutto il resto. Pazienza. Ero andato per vedere Guido e l’ho visto. Un artista calabrese che, stranamente, non dipinge la Calabria. Ha preferito la ben più vasta e fascinosa regione dell’animo umano: nel bene e nel male, nella gioia e nella tristezza.</value>
+  </data>
+  <data name="CitazioneDellaGiovanna" xml:space="preserve">
+    <value>Guido Aloise è un pittore. La buon’anima del Vasari forse, non avrebbe detto una parola di più, o una di meno. Un pittore, si, e mi pare molto, poiché lo si può dire di pochi. I suoi quadri sono come i sogni di Baudelaire, che chiedeva alle donne di essere “belle e tristi”, ma belle di una bellezza che avvince e tristi di una tristezza che soggioga, i gialli si confondono con i verdi, le figure hanno un significato che richiama secoli di passioni e di sofferenze dell’umanità intera, le composizioni sono complete e finite, proprio, “finite”, come diceva la buon’anima del Vasari. Tutto questo è molto bello. Ci rimane un dubbio. Siamo vicino ad un pittore, o a un poeta? O a un filosofo, che è anche pittore di vaglia e poeta senza saperlo?</value>
+  </data>
+  <data name="CitazioneHome" xml:space="preserve">
+    <value>"Ci rimane un dubbio, siamo vicino ad un pittore, o a un poeta?
+&lt;br /&gt;
+O a un filosofo che è anche pittore di vaglia e poeta senza saperlo?"</value>
+  </data>
+  <data name="CitazioneRaviart" xml:space="preserve">
+    <value>L’asse della produzione artistica di Aloise ruota – mi sembra – attorno a due poli: il ricordo struggente dell’infanzia, la sorprendente intuizione di un modo metafisico che egli bene esprime pur rimanendo ancorato al vero, alla realtà di tutti gli uomini, non di una casta, di una élite. Qualunque sia il tema, non c’è tela che lasci perplessi, che non sia intellegibile all’immediato, che non susciti emozioni pervase a volte di dolcezza poetica e di sentimentali abbandoni o cariche invece della drammaticità e del pathos che gli derivano da una sensibilità e una formazione tutte meridionali.</value>
+  </data>
+  <data name="CitazioneSelvaggi" xml:space="preserve">
+    <value>Il viaggio nella pittura di Guido Aloise (1925-1986) ad analizzare i dati della sua vita può apparire divaricato. Da una parte il vivere quotidiano con la giovinezza perenne nel corpo e nello sguardo. Dall’altra l’inseguimento della pittura. Chi lo ha conosciuto, chi lo ricorda colloca la figura di Guido Aloise in bilico fra un uomo a cui premeva il gusto di vivere e un uomo a cui l’essere artista era il primario scopo di esistere. Per questa distrazione in alcune fasi della sua carriera di pittore il suo ritratto postumo non ha i connotati dell’uomo che soffre d’arte e, per contraccolpo, nemmeno i connotati dell’artista che ha deciso di sacrificare la corposità della vita alla presunta asceticità necessaria per fare arte. Questo inizio, per presentare la pittura di Guido Aloise in questo catalogo postumo, non ha intento di diminuzione. Al contrario. Si vorrebbe chiarire che ci troviamo dinanzi ad un pittore che non ha voluto spingere sino al fondo delle possibilità la sua vocazione e l’interesse per affermare il proprio lavoro. Non disincantato. Non disadattato alla vita dura tra gallerie e critica. Nemmeno disinteressato. Soltanto un uomo ed un artista di limpida lealtà, perché c’è anche la lealtà per calcolo, dinanzi ad una situazione culturale piena di dubbi e di trappole in cui si è sviluppata la sua esistenza di lavoro.</value>
+  </data>
+  <data name="Citazioni" xml:space="preserve">
+    <value>Citazioni</value>
+  </data>
+  <data name="Contatti" xml:space="preserve">
+    <value>Contatti</value>
+  </data>
+  <data name="ContattiTesto" xml:space="preserve">
+    <value>Noi siamo la famiglia di Guido Aloise e conserviamo la collezione di opere ad olio, disegni, bozzetti, grafica, sculture e tecniche miste.
+&lt;br /&gt;
+Inoltre, ci occupiamo dell’archiviazione e catalogazione dell’intera produzione artistica di Guido Aloise.
+&lt;br /&gt;
+Se vuoi far archiviare opere di Aloise o semplicemente desideri metterti in contatto con noi, puoi scrivere a:</value>
+  </data>
+  <data name="DescrBioImg1" xml:space="preserve">
+    <value>Guido Aloise, primi anni '70</value>
+  </data>
+  <data name="DescrBioImg3" xml:space="preserve">
+    <value>“L’ultima cena”, Chiesa di Santa Maria Addolorata a Roma, 1983</value>
+  </data>
+  <data name="DescrizioneHome" xml:space="preserve">
+    <value>Guido Aloise dipingeva come si sogna: con verità e mistero.
+&lt;br /&gt;
+La sua è un’arte sospesa, tra ricordo e visione, realtà e simbolo.
+&lt;br /&gt;
+Autodidatta e solitario, ha seguito solo la sua voce interiore, trasformando emozioni profonde in immagini che parlano all’anima.</value>
+  </data>
+  <data name="GuidoAloiseFamily" xml:space="preserve">
+    <value>Guido Aloise e la sua famiglia</value>
+  </data>
+  <data name="HannoScrittoDiLuiTitle" xml:space="preserve">
+    <value>Hanno scritto di lui</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="MostraAltro" xml:space="preserve">
+    <value>Mostra altro</value>
+  </data>
+  <data name="MostraMeno" xml:space="preserve">
+    <value>Mostra meno</value>
+  </data>
+  <data name="NewsTitle" xml:space="preserve">
+    <value>Novità &amp; Archivio Vivo</value>
+  </data>
+  <data name="Opere" xml:space="preserve">
+    <value>Opere</value>
+  </data>
+  <data name="ScopriPiù" xml:space="preserve">
+    <value>Scopri di più</value>
+  </data>
+</root>

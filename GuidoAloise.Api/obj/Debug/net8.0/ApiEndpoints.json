@@ -1,0 +1,102 @@
+[
+  {
+    "ContainingType": "GalleriaAPI.Controllers.NewsController",
+    "Method": "GetNews",
+    "RelativePath": "api/News",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GalleriaAPI.Controllers.NewsController",
+    "Method": "AggiungiOpera",
+    "RelativePath": "api/News/aggiungi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newsItem",
+        "Type": "GuidoAloise.Api.Models.NewsItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GalleriaAPI.Controllers.NewsController",
+    "Method": "RimuoviOpera",
+    "RelativePath": "api/News/rimuovi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newsItem",
+        "Type": "GuidoAloise.Api.Models.NewsItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GalleriaAPI.Controllers.OpereController",
+    "Method": "GetOpere",
+    "RelativePath": "api/Opere",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GalleriaAPI.Controllers.OpereController",
+    "Method": "AggiungiOpera",
+    "RelativePath": "api/Opere/aggiungi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "opera",
+        "Type": "GuidoAloise.Api.Models.Opera",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GalleriaAPI.Controllers.OpereController",
+    "Method": "RimuoviOpera",
+    "RelativePath": "api/Opere/rimuovi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "opera",
+        "Type": "GuidoAloise.Api.Models.Opera",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GalleriaAPI.Controllers.OpereController",
+    "Method": "UploadImage",
+    "RelativePath": "api/Opere/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

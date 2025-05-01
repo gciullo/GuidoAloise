@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "Hash": "iVA5BfP/0neA0Y7epNfpd8XabS+ZqCLeONR/8QEdRCw=",
+  "Source": "GuidoAloise.Api",
+  "BasePath": "_content/GuidoAloise.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GuidoAloise.Api\\wwwroot",
+      "Source": "GuidoAloise.Api",
+      "ContentRoot": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\",
+      "BasePath": "_content/GuidoAloise.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\lagiostra_8f558b77.jpg",
+      "SourceId": "GuidoAloise.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\",
+      "BasePath": "_content/GuidoAloise.Api",
+      "RelativePath": "img/opere/lagiostra_8f558b77#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "njfg9nov92",
+      "Integrity": "s1fb1tPxfZt6m+Q9lazYFs2sOhWNiP3ItO751ACMNOY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\opere\\lagiostra_8f558b77.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\madonnaconbambino_cd414257.jpg",
+      "SourceId": "GuidoAloise.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\",
+      "BasePath": "_content/GuidoAloise.Api",
+      "RelativePath": "img/opere/madonnaconbambino_cd414257#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ngniy2s69r",
+      "Integrity": "uc6lyMqpH+vQ3+HWE9q+jZtDh3KATsMReZOHXPF2aTI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\opere\\madonnaconbambino_cd414257.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\saggezza_33c7da48.jpg",
+      "SourceId": "GuidoAloise.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\",
+      "BasePath": "_content/GuidoAloise.Api",
+      "RelativePath": "img/opere/saggezza_33c7da48#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "79lbk21bh1",
+      "Integrity": "W+yuMhaBI6NzNNf/ATHLH4Ix5cEWecDpH8KS2NxXcxw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\opere\\saggezza_33c7da48.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\news.json",
+      "SourceId": "GuidoAloise.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\",
+      "BasePath": "_content/GuidoAloise.Api",
+      "RelativePath": "news#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zk4hcvefmo",
+      "Integrity": "cznI/qhzt/FhoFuDr10kmyVcj5i/mPMgFamyELsP5Us=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\news.json"
+    },
+    {
+      "Identity": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\opere.json",
+      "SourceId": "GuidoAloise.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\",
+      "BasePath": "_content/GuidoAloise.Api",
+      "RelativePath": "opere#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a0rjhxhf1z",
+      "Integrity": "hkvsiTNiorTuwtgGWBOLOxRDg633QvFdfuwbvxv8uW8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\opere.json"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "img/opere/lagiostra_8f558b77.jpg",
+      "AssetFile": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\lagiostra_8f558b77.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s1fb1tPxfZt6m+Q9lazYFs2sOhWNiP3ItO751ACMNOY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 16:03:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s1fb1tPxfZt6m+Q9lazYFs2sOhWNiP3ItO751ACMNOY="
+        }
+      ]
+    },
+    {
+      "Route": "img/opere/lagiostra_8f558b77.njfg9nov92.jpg",
+      "AssetFile": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\lagiostra_8f558b77.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s1fb1tPxfZt6m+Q9lazYFs2sOhWNiP3ItO751ACMNOY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 16:03:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "njfg9nov92"
+        },
+        {
+          "Name": "label",
+          "Value": "img/opere/lagiostra_8f558b77.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s1fb1tPxfZt6m+Q9lazYFs2sOhWNiP3ItO751ACMNOY="
+        }
+      ]
+    },
+    {
+      "Route": "img/opere/madonnaconbambino_cd414257.jpg",
+      "AssetFile": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\madonnaconbambino_cd414257.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uc6lyMqpH+vQ3+HWE9q+jZtDh3KATsMReZOHXPF2aTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 16:30:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uc6lyMqpH+vQ3+HWE9q+jZtDh3KATsMReZOHXPF2aTI="
+        }
+      ]
+    },
+    {
+      "Route": "img/opere/madonnaconbambino_cd414257.ngniy2s69r.jpg",
+      "AssetFile": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\madonnaconbambino_cd414257.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uc6lyMqpH+vQ3+HWE9q+jZtDh3KATsMReZOHXPF2aTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 16:30:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ngniy2s69r"
+        },
+        {
+          "Name": "label",
+          "Value": "img/opere/madonnaconbambino_cd414257.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uc6lyMqpH+vQ3+HWE9q+jZtDh3KATsMReZOHXPF2aTI="
+        }
+      ]
+    },
+    {
+      "Route": "img/opere/saggezza_33c7da48.79lbk21bh1.jpg",
+      "AssetFile": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\saggezza_33c7da48.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36734"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W+yuMhaBI6NzNNf/ATHLH4Ix5cEWecDpH8KS2NxXcxw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 16:34:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "79lbk21bh1"
+        },
+        {
+          "Name": "label",
+          "Value": "img/opere/saggezza_33c7da48.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W+yuMhaBI6NzNNf/ATHLH4Ix5cEWecDpH8KS2NxXcxw="
+        }
+      ]
+    },
+    {
+      "Route": "img/opere/saggezza_33c7da48.jpg",
+      "AssetFile": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\saggezza_33c7da48.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36734"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W+yuMhaBI6NzNNf/ATHLH4Ix5cEWecDpH8KS2NxXcxw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 16:34:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W+yuMhaBI6NzNNf/ATHLH4Ix5cEWecDpH8KS2NxXcxw="
+        }
+      ]
+    },
+    {
+      "Route": "news.json",
+      "AssetFile": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\news.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "962"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cznI/qhzt/FhoFuDr10kmyVcj5i/mPMgFamyELsP5Us=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 15:42:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cznI/qhzt/FhoFuDr10kmyVcj5i/mPMgFamyELsP5Us="
+        }
+      ]
+    },
+    {
+      "Route": "news.zk4hcvefmo.json",
+      "AssetFile": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\news.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "962"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cznI/qhzt/FhoFuDr10kmyVcj5i/mPMgFamyELsP5Us=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 15:42:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zk4hcvefmo"
+        },
+        {
+          "Name": "label",
+          "Value": "news.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cznI/qhzt/FhoFuDr10kmyVcj5i/mPMgFamyELsP5Us="
+        }
+      ]
+    },
+    {
+      "Route": "opere.a0rjhxhf1z.json",
+      "AssetFile": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\opere.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hkvsiTNiorTuwtgGWBOLOxRDg633QvFdfuwbvxv8uW8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 12:22:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a0rjhxhf1z"
+        },
+        {
+          "Name": "label",
+          "Value": "opere.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hkvsiTNiorTuwtgGWBOLOxRDg633QvFdfuwbvxv8uW8="
+        }
+      ]
+    },
+    {
+      "Route": "opere.json",
+      "AssetFile": "C:\\Users\\gabriele.ciullo\\source\\repos\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\opere.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hkvsiTNiorTuwtgGWBOLOxRDg633QvFdfuwbvxv8uW8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 12:22:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hkvsiTNiorTuwtgGWBOLOxRDg633QvFdfuwbvxv8uW8="
+        }
+      ]
+    }
+  ]
+}

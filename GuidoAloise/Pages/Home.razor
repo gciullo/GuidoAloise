@@ -1,0 +1,122 @@
+﻿@page "/"
+@using GuidoAloise.Models
+@using GuidoAloise.Services
+@using Microsoft.Extensions.Localization
+@using Microsoft.AspNetCore.Components
+@using System.Reflection
+@inject IDataService DataService
+@inject IJSRuntime JS
+
+<PageTitle>Guido Aloise - Home</PageTitle>
+
+
+<div class="home-container">
+    <div class="home-text">
+        @Citazione
+        <br />
+        Ettore della Giovanna – 1976
+    </div>
+</div>
+<div class="section-title" style="padding-top: 50px">
+    Guido Aloise
+</div>
+<div class="section-content" style="margin: 40px 10% 80px; text-align: center">
+    @Descrizione
+</div>
+<div class="section-title" style="padding-top: 50px">
+    @NewsTitle
+</div>
+<div class="news-container" id="desktop-news-container">
+    @foreach (var item in news.OrderByDescending(n => n.PointerDate).Take(showAllNewsDesktop ? news.Count : 3))
+    {
+        if (!string.IsNullOrWhiteSpace(item.Reference))
+        {
+            <a href="@item.Reference" target="_blank" rel="noopener noreferrer" class="news-link-wrapper">
+                <div class="news-card hoverable fade-in">
+                    <div class="news-title">@(item.PointerDate < DateTime.Today ? "📰" : "📅") @item.Date – @item.Title</div>
+                    <div class="news-content">@item.Content</div>
+                </div>
+            </a>
+        }
+        else
+        {
+            <div class="news-card">
+                <div class="news-title">@(item.PointerDate < DateTime.Today ? "📰" : "📅") @item.Date – @item.Title</div>
+                <div class="news-content">@item.Content</div>
+            </div>
+        }
+    }
+
+    @if (news.Count > 3)
+    {
+        <button class="show-more-btn" @onclick="ToggleShowAllNews">
+            @(showAllNewsDesktop ? Localizer["MostraMeno"] : Localizer["MostraAltro"])
+        </button>
+    }
+</div>
+<div class="news-slider-wrapper">
+    <div class="news-slider" @ref="sliderRef">
+        @foreach (var item in news.OrderByDescending(n => n.PointerDate))
+        {
+            <div class="news-slide">
+                @if (!string.IsNullOrWhiteSpace(item.Reference))
+                {
+                    <a href="@item.Reference" target="_blank" rel="noopener noreferrer" class="news-link-wrapper">
+                        <div class="news-card hoverable">
+                            <div class="news-title">@(item.PointerDate < DateTime.Today ? "📰" : "📅") @item.Date – @item.Title</div>
+                            <div class="news-content">@item.Content</div>
+                            <div class="news-title" style="display:flex; flex-direction: column;align-items: center;">@Localizer["ScopriPiù"]</div>
+                        </div>
+                    </a>
+                }
+                else
+                {
+                    <div class="news-card">
+                        <div class="news-title">@(item.PointerDate < DateTime.Today ? "📰" : "📅") @item.Date – @item.Title</div>
+                        <div class="news-content">@item.Content</div>
+                    </div>
+                }
+            </div>
+        }
+    </div>
+    <div class="dot-navigation" id="dot-nav">
+        @for (int i = 0; i < news.Count; i++)
+        {
+            <span class="dot" data-index="@i"></span>
+        }
+    </div>
+</div>
+
+@code {
+    [Inject] protected IStringLocalizerFactory LocalizerFactory { get; set; } = null!;
+
+    private IStringLocalizer Localizer { get; set; } = null!;
+    private List<NewsItem> news = new();
+    private ElementReference sliderRef;
+    private bool showAllNewsDesktop = false;
+    private bool _hasRendered = false;
+
+    protected MarkupString Citazione => new(Localizer is null ? string.Empty : Localizer["CitazioneHome"]);
+    protected MarkupString Descrizione => new(Localizer is null ? string.Empty : Localizer["DescrizioneHome"]);
+    protected MarkupString NewsTitle => new(Localizer is null ? string.Empty : Localizer["NewsTitle"]);
+
+    protected override async Task OnInitializedAsync()
+    {
+        news = await DataService.GetNewsAsync();
+        Localizer = LocalizerFactory.Create("Resource", Assembly.GetExecutingAssembly().GetName().Name!);
+    }
+
+    private void ToggleShowAllNews()
+    {
+        showAllNewsDesktop = !showAllNewsDesktop;
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (!_hasRendered && news.Any())
+        {
+            _hasRendered = true;
+            await JS.InvokeVoidAsync("initNewsSwipe", ".news-slider");
+        }
+    }
+}

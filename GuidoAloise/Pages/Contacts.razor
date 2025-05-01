@@ -1,0 +1,37 @@
+﻿@page "/contatti"
+@using Microsoft.Extensions.Localization
+@using System.Reflection
+
+<PageTitle>Guido Aloise - @(Localizer is null ? string.Empty : Localizer["Contatti"])</PageTitle>
+
+<div class="section-title" style="padding-top: 100px">
+    @Localizer["Contatti"]
+</div>
+<div class="section-content" style="padding-top: 40px; margin: 0% 10%; align-content:center;">
+    <figure class="bio-img">
+        <img src="img/Contatti_img.jpg" />
+        @if (!string.IsNullOrEmpty(Localizer?["GuidoAloiseFamily"] ?? string.Empty) && Localizer!["GuidoAloiseFamily"] != $"GuidoAloiseFamily")
+        {
+            <figcaption>@Localizer!["GuidoAloiseFamily"]</figcaption>
+        }
+    </figure>
+</div>
+<div class="section-content" style="margin: 0% 10%; align-content:center;">
+    @ContattiTesto
+</div>
+<br />
+<a href="mailto:francesca.aloise@gmail.com" class="section-content" style="margin: 40px 10% 80px; align-content:center;">francesca.aloise@gmail.com</a>
+
+@code {
+
+    [Inject] protected IStringLocalizerFactory LocalizerFactory { get; set; } = null!;
+
+    private IStringLocalizer Localizer { get; set; } = null!;
+
+    protected MarkupString ContattiTesto => new(Localizer is null ? string.Empty : Localizer["ContattiTesto"]);
+
+    protected override async Task OnInitializedAsync()
+    {
+        Localizer = LocalizerFactory.Create("Resource", Assembly.GetExecutingAssembly().GetName().Name!);
+    }
+}

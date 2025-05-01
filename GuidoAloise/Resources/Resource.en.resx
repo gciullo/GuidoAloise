@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BibliografiaTitle" xml:space="preserve">
+    <value>Bibliography</value>
+  </data>
+  <data name="Biografia" xml:space="preserve">
+    <value>Biography</value>
+  </data>
+  <data name="BiografiaSezione1" xml:space="preserve">
+    <value>Guido Aloise was born in Fiumefreddo, Calabria, in 1925 and died in Rome in 1986.
+&lt;br /&gt; 
+From an early age he showed great artistic talent, even winning competitions for primary school children.
+&lt;br /&gt; 
+He moved to the capital in 1939, where he attended the Academy of Fine Arts with success, but for a short time. The turn of events and the war induced him, even at a very young age, to look for work, applying his artistic talent.
+&lt;br /&gt; 
+As early as 1950, he exhibited his works in well-known collective exhibitions: Via Margutta, Primavera Romana Trinità dei Monti, San Marco Gallery, “Amici del Cavallo” (1st prize), Foyer des Artistes (1st prize), Greccio “Nido del Corvo” (1st prize), Biennale d'Arte Sacra di Sora.</value>
+  </data>
+  <data name="BiografiaSezione2" xml:space="preserve">
+    <value>Earning acclaim from the public and critics, from the 1960s until his death, he held successful solo exhibitions in Italy and abroad: Palazzo delle Esposizioni - Rome, Galleria Scandenberg - Rome, Teatro Eliseo - Rome, La Marguttiana - Rome, Galleria ‘La Tana’ - Belvedere, Galleria A.A.T. - L'Aquila, Gallery ‘98’ - Cosenza, Gallery ‘La Ragnatela’ - Tropea, Grand Hotel - Guardia Piemontese, Hotel Boston - Rome, Museum of Modern Art - Valletta (Malta), Cathedral Museum - Medina (Malta), Gallery ‘Apollo d'Oro’ - Matera, Bookshop Remo Croce - Rome, Gallery ‘L'Autore’ - Chieti.
+&lt;br /&gt;
+Guido Aloise has donated works to public institutions including: the gift of a “Head of Christ” to Pope John Paul II in 1979; a mural in the Calabrian town of Fuscaldo Marina and two sketches on canvas for the apsidal mosaic of the Church of San Francesco di Paola in Catona (RC).
+&lt;br /&gt;
+The most important works of his artistic life are: the fresco of the high altar in the Church of Sant'Aniello in Cosenza (m 6×9), a monumental and stupendous depiction of the Last Judgement; two paintings (m 3×6 each), with the Last Supper and the Deposition as subjects, on the apse of the Church of S. Maria Addolorata in Rome.&lt;br /&gt;His search for ever new forms of expression led him to try his hand at sculpture and the reproduction of his works on gold plates.
+&lt;br /&gt;
+It is clear from Guido Aloise's biography how this man pursued his dream of being a painter throughout his short life.
+&lt;br /&gt; 
+And for a long time, his artistic passion coexisted with other professions, always relevant to his talent: from technical-electronic designer at Autovox, to film poster artist, illustrator of advertising “affiches”, photographer, and even tried his hand at acting in photostories.
+&lt;br /&gt; 
+Then, as the regular contracts with gallery owners and art dealers increased, he decided, in 1976 (by which time he already had a family and three children), to just be a painter.
+&lt;br /&gt;
+But he belongs to that category of painters with very specific characteristics.</value>
+  </data>
+  <data name="BiografiaSezione3" xml:space="preserve">
+    <value>Guido Aloise is self-taught, i.e. he did attend the Academy of Fine Arts, but for a short time and never graduated.
+&lt;br /&gt;
+Guido Aloise paints out of an almost instinctual, emotional, dare I say “therapeutic” need. His painting is a kind of psychological analysis, a psychiatrist's couch, demonstrated by his great attention to the dream world.
+&lt;br /&gt;
+Guido Aloise is not a “reckless” person. He does not follow fashions, he is not a radical chic, he does not frequent the circles that count or denounce artists, he does not take drugs, he does not experiment with extreme instruments. He follows the tradition of drawing, and this makes him unattractive to contemporary critics.
+&lt;br /&gt;
+Placing Guido Aloise in a historical-artistic context is therefore difficult, because due to his solitary nature, his lack of diplomacy, his hatred for compromise and his very little inclination towards political association, he makes himself a wandering and non-aligned figure.
+&lt;br /&gt;
+These characteristics were undesirable in the intellectual Rome of that period, where “figurative painting” meant either decoration or political and propaganda painting.
+&lt;br /&gt;
+The media circus and the gotha of critics only granted visibility and consideration to those who belonged to the categories or cursed painters, or to the card-carrying members of certain political parties.
+&lt;br /&gt;
+For this and much more, Guido Aloise deliberately isolated himself, never belonging to groups, currents, circles. And this has come at a price, dearly to pay.
+&lt;br /&gt;
+Despite this, the public and some attentive critics have always supported and admired his poetics: both when it expressed itself in social themes, when it was the representation of dreams, and when it was figurative and aesthetic purity.
+The spontaneity, sincerity and depth of his talent was perceived in every facet.
+&lt;br /&gt; 
+So much trust was placed in him that he was the subject of numerous commissions for decorations of secular and especially sacred places, not to be forgotten are the frescoes for the apses of Santa Maria Addolorata in Rome, Sant'Aniello in Cosenza and the mosaic for San Francesco di Paola in Catona (Reggio Calabria).
+But let us now enter into the stylistic and content-related details of his production.
+&lt;br /&gt; 
+The thematic constants, which we stated earlier, were also treated differently in terms of colour over the years of his life and work.
+&lt;br /&gt; 
+The end of the 1960s and the first half of the 1970s are characterised by gloomy atmospheres, by an extensive use of brown colours that expressed the anguish and turmoil of that period so full of social conflicts and tragic events (‘Gibellina’, ‘Cane solo’, ‘Minaccia nucleare’, ‘Il Cieco’, ‘Vita d'artista’).
+&lt;br /&gt;
+Then, with the end of the 1970s and the subsequent 1980s, the palette brightens up and the light makes its way into Aloise's works, which become much brighter and, perhaps, more confident in drawing and brushwork as well (not surprisingly, he is now a “full-time” artist).
+&lt;br /&gt;
+These are the works of maturity.
+&lt;br /&gt; 
+Great space is now given to paintings with a dreamlike character.
+&lt;br /&gt;
+Indeed, the dream has always been a great source of inspiration for Guido Aloise. Many of his works are tales of the unconscious, where fears and the childhood trauma of the loss of his mother (experienced as abandonment) are clearly visible and recurring.
+&lt;br /&gt; 
+These are the paintings where it is easiest to find reiterated symbolism: from Punchinello to Don Quixote, melancholic heroes and losers, often representations of himself as he loved to play the role of the misunderstood and lonely artist in his battles.
+&lt;br /&gt;
+And in these works, a sad and at the same time refined atmosphere is perennially present, just as he conceived aesthetic value, courtly and elitist.
+&lt;br /&gt; 
+Throughout his artistic career, he maintained a very strong bond with his homeland, portraying it in the few landscapes and the many dreamlike compositions and social denunciations.
+&lt;br /&gt;
+Therefore, Calabria, conceived as a mother, is always present in Guido Aloise's soul and memories.
+&lt;br /&gt;
+And this umbilical cord would never be broken until his death, as it was continually reinforced by visits, at least annually, to his dear village, Fiumefreddo Bruzio.</value>
+  </data>
+  <data name="BiografiaSottotitolo1" xml:space="preserve">
+    <value>Life and early affirmations</value>
+  </data>
+  <data name="BiografiaSottotitolo2" xml:space="preserve">
+    <value>Exhibitions, public works and professional development</value>
+  </data>
+  <data name="BiografiaSottotitolo3" xml:space="preserve">
+    <value>Personal poetics, isolation and chromatic evolution</value>
+  </data>
+  <data name="CitazioneDAmore" xml:space="preserve">
+    <value>I am not an art critic, I am a writer, so I lack the consummate ability to exalt or crush or say nothing with hundreds of words; I can simply tell a tiny plot and impressions. So, the afternoon of this May ’81 was done. Crazy smoky traffic of this Rome ’81. I had to go and meet Guido anyway. I was left with a vehicle at my disposal. Buses jammed, a free taxi not even dreaming of it, all stuffed with cream, squirming beyond me. The only way I had left: my feet. I walked the Flaminio, Piazza del Popolo, pressed by the crowds, buffered by the microphones at the convention: a nightmare. In the end I walked down Via Margutta, until 83/A. My nightmare was over, but beyond the threshold of 83/A there was Guido’s nightmare: the first painting, ahead of the others in line on the walls, at Guido Aloise’s staff. In this pictorial nightmare, Guido appears upset and serene at the same time; the hooded figures on the sides of the hall of the ancient castle push him without even touching him, towards an exit, the liberation that is not visible but exists: it must be looked for on the other works, path after path. The doubts, the anguish and, at the centre of it all, the question about God and Christ, are the path. The Son of Man is portrayed in profile, in perspective, from behind, on the cross and not on the cross. But he is present in Spirit everywhere, as in the painting of the fishing: the miraculous evangelical catch in a modern tone, magnet in its anatomical and expressive postures. Christ, source of peace and life. From this source springs the whole range of evocative colours, regulated by a very careful brush that during the thoughtful, hard work of portraying the existential mystery can also afford the habit of placing on the canvas the likenesses of very sweet female creatures: the painter finds there a fragile respite. At sunset, I leave the gallery and manage to grab a bus. Bumps, broken traffic lights and all the rest. No matter. I went to see Guido and I saw him. A Calabrian artist who, strangely enough, doesn’t paint Calabria. He preferred the much larger and more fascinating region of the human soul: for better or for worse, in joy or sadness.</value>
+  </data>
+  <data name="CitazioneDellaGiovanna" xml:space="preserve">
+    <value>Guido Aloise is a painter. The good soul of Vasari, perhaps, would not have said one word more or one less. A painter – and it seems to me a lot – since it can be said of few artists. His paintings are like the dreams of Baudelaire, who asked women to be “beautiful and sad”, but a beauty that captivates and a sadness that subjugates, the yellows blend with the greens, figures have a meaning that recalls centuries of passion and suffering of all humanity, the compositions are complete and finished, just “finished”, as the good soul of Vasari said. All of this is very beautiful. We are left with a doubt. Are we close to a painter, or a poet? Or to a philosopher, who is also a money order painter and poet without knowing it?</value>
+  </data>
+  <data name="CitazioneHome" xml:space="preserve">
+    <value>"We are left with a doubt, are we close to a painter, or a poet?
+&lt;br /&gt;
+Or to a philosopher who is also an accomplished painter and poet without knowing it?"</value>
+  </data>
+  <data name="CitazioneRaviart" xml:space="preserve">
+    <value>The axis of Aloise’s artistic production rotates – according to me – around two poles: the tormenting memory of his childhood, the surprising intuition of a metaphysical way that he expresses well while remaining anchored to the truth, to the reality of all men, not of a caste, of an elite. Whatever the theme, there is no painting that leaves us perplexed, that is not immediately intelligible, that does not evoke emotions pervaded by poetic sweetness and sentimental abandonment or charge instead of the drama and pathos that derive from a sensitivity and training all southern.</value>
+  </data>
+  <data name="CitazioneSelvaggi" xml:space="preserve">
+    <value>The journey in the painting of Guido Aloise (1925-1986) to analyze the data of his life may seem divisive. On one hand, the daily life with the perennial youth in the body and in the vision. On the other, the pursuit of painting. Those who have known him, those who remember him, place the figure of Guido Aloise in the balance between a man who was interested in living and a man whose primary aim to exist was to be an artist. For this distraction in some phases of his career as a painter, his posthumous portrait does not have the connotations of the man who suffers from art and, as a backlash, not even the connotations of the artist who decided to sacrifice the fullness of life to the presumed asceticism necessary to make art. This beginning has no intention of diminishing to present Guido Aloise’s painting in this posthumous catalogue. On the contrary, we would like to make it clear that we are dealing with a painter who did not want to push his vocation and interest in affirming his work to the bottom of the possibilities. He was not disenchanted. He was not disillusioned with the hard life between galleries and critics. He was not even disinterested. Just a man and an artist of clear loyalty, because there is also loyalty by calculation, in front of a cultural situation full of doubts and traps in which his existence of work has developed.</value>
+  </data>
+  <data name="Citazioni" xml:space="preserve">
+    <value>Quotes</value>
+  </data>
+  <data name="Contatti" xml:space="preserve">
+    <value>Contacts</value>
+  </data>
+  <data name="ContattiTesto" xml:space="preserve">
+    <value>We are Guido Aloise’s family and we keep the collection of oil paintings, drawings, sketches, graphics, sculptures and mixed techniques.
+&lt;br /&gt;
+Moreover, we take care of the archiving and cataloguing of Guido Aloise’s entire artistic production.
+&lt;br /&gt;
+If you want to archive works by Aloise or simply want to get in contact with us, you can write to:</value>
+  </data>
+  <data name="DescrBioImg1" xml:space="preserve">
+    <value>Guido Aloise, early 70s</value>
+  </data>
+  <data name="DescrBioImg3" xml:space="preserve">
+    <value>“The Last Supper”, Church of Santa Maria Addolorata in Rome, 1983</value>
+  </data>
+  <data name="DescrizioneHome" xml:space="preserve">
+    <value>Guido Aloise painted as one dreams: with truth and mystery.
+&lt;br /&gt;
+His art is suspended, between memory and vision, reality and symbol.
+&lt;br /&gt;
+Self-taught and solitary, he only followed his inner voice, transforming deep emotions into images that speak to the soul.</value>
+  </data>
+  <data name="GuidoAloiseFamily" xml:space="preserve">
+    <value>Guido Aloise's family</value>
+  </data>
+  <data name="HannoScrittoDiLuiTitle" xml:space="preserve">
+    <value>They wrote about him</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="MostraAltro" xml:space="preserve">
+    <value>Show more</value>
+  </data>
+  <data name="MostraMeno" xml:space="preserve">
+    <value>Show less</value>
+  </data>
+  <data name="NewsTitle" xml:space="preserve">
+    <value>News &amp; Bookstand</value>
+  </data>
+  <data name="Opere" xml:space="preserve">
+    <value>Works</value>
+  </data>
+  <data name="ScopriPiù" xml:space="preserve">
+    <value>Discover more</value>
+  </data>
+</root>
