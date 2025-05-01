@@ -119,7 +119,7 @@ else
         var url = await DataService.UploadImageAsync(ImmagineOnStage);
         if (url != null)
         {
-            NuovaOpera.UrlImmagine = new Uri(Http.BaseAddress!, url).ToString();
+            NuovaOpera.UrlImmagine = url;
         }
     }
 

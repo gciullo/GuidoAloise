@@ -1,10 +1,12 @@
 ﻿using System.Net.Http.Json;
 using GuidoAloise.Models;
+using GuidoAloise.Pages;
 using Microsoft.AspNetCore.Components.Forms;
+using static System.Net.WebRequestMethods;
 
 namespace GuidoAloise.Services;
 
-public partial class DataService: IDataService
+public partial class DataService : IDataService
 {
     private readonly HttpClient _http;
 
@@ -16,6 +18,12 @@ public partial class DataService: IDataService
     public async Task<List<Opera>> GetOpereAsync()
     {
         var result = await _http.GetFromJsonAsync<List<Opera>>("api/opere");
+
+        if (result is not null)
+        {
+            foreach (var item in result) item.UrlImmagine = new Uri(_http.BaseAddress!, item.UrlImmagine).ToString();
+        }
+
         return result ?? new List<Opera>();
     }
 
