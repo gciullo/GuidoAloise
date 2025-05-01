@@ -16,7 +16,7 @@ public class OpereController : ControllerBase
     {
         _env = env;
         _jsonPath = Path.Combine(_env.WebRootPath, "opere.json");
-        _imgFolder = Path.Combine(_env.WebRootPath, "img", "opere");
+        _imgFolder = Path.Combine("img", "opere");
 
         if (!Directory.Exists(_imgFolder))
             Directory.CreateDirectory(_imgFolder);
@@ -81,7 +81,7 @@ public class OpereController : ControllerBase
                     + "_" + Guid.NewGuid().ToString("N").Substring(0, 8)
                     + Path.GetExtension(file.FileName);
 
-        var filePath = Path.Combine(_imgFolder, fileName);
+        var filePath = Path.Combine(_env.WebRootPath, _imgFolder, fileName);
 
         await using var stream = System.IO.File.Create(filePath);
         await file.CopyToAsync(stream);

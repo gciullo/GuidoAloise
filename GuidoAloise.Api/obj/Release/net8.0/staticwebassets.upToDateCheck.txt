@@ -1,0 +1,5 @@
+wwwroot\img\opere\lagiostra_8f558b77.jpg
+wwwroot\img\opere\madonnaconbambino_cd414257.jpg
+wwwroot\img\opere\saggezza_33c7da48.jpg
+wwwroot\news.json
+wwwroot\opere.json

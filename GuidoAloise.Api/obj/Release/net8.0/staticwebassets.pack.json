@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\lagiostra_8f558b77.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\lagiostra_8f558b77.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\madonnaconbambino_cd414257.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\madonnaconbambino_cd414257.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\saggezza_33c7da48.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\saggezza_33c7da48.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\news.json",
+      "PackagePath": "staticwebassets\\news.json"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\opere.json",
+      "PackagePath": "staticwebassets\\opere.json"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.GuidoAloise.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.GuidoAloise.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.GuidoAloise.Api.props",
+      "PackagePath": "build\\GuidoAloise.Api.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GuidoAloise.Api.props",
+      "PackagePath": "buildMultiTargeting\\GuidoAloise.Api.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.GuidoAloise.Api.props",
+      "PackagePath": "buildTransitive\\GuidoAloise.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
