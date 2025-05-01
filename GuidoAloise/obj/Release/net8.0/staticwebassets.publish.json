@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "H/6Z3fd2FXs8c1VL8BkKMEj5czZQWXqMrlQjRZwZ7X4=",
+  "Hash": "xFtw/s/gveQErq8wApJokBt8fzbUPFrcKiHTgE5vNTI=",
   "Source": "GuidoAloise",
   "BasePath": "/",
   "Mode": "Root",
@@ -136,8 +136,8 @@
       "RelatedAsset": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\linked\\GuidoAloise.dll",
       "AssetTraitName": "Culture",
       "AssetTraitValue": "en",
-      "Fingerprint": "nn6z1yv9v6",
-      "Integrity": "jVr5r7rmVXXQpMyCUWPMppJ/OJ7TOGW76hT4h77hTjE=",
+      "Fingerprint": "5r3n7smnu7",
+      "Integrity": "PxalFdXYRM+eSCF96beyqTPXpl9bscf9ZtbFZS5wBnI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\webcil\\en\\GuidoAloise.resources.wasm"
@@ -178,8 +178,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "0d6lhuemdn",
-      "Integrity": "jKP4hW14ixy1w/5zafviaflwucc/aBWBmdFRZQsgvR8=",
+      "Fingerprint": "76ek0hz8ke",
+      "Integrity": "v5jQYT6j1PJRCyd6bIjFSQ35TK9y6YOWBh0FoReDMMw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "obj\\Release\\net8.0\\blazor.publish.boot.json"
@@ -374,7 +374,7 @@
       "OriginalItemSpec": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.DependencyInjection.Abstractions.wasm"
     },
     {
-      "Identity": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\1t1e2gijog-0d6lhuemdn.br",
+      "Identity": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\1t1e2gijog-76ek0hz8ke.br",
       "SourceId": "GuidoAloise",
       "SourceType": "Computed",
       "ContentRoot": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -388,14 +388,14 @@
       "RelatedAsset": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\blazor.publish.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "r444fvku28",
-      "Integrity": "6/hH1YZ92JJD1E471kcQH1tsHumvq/8umaREdxlWOI0=",
+      "Fingerprint": "wb4bd6yfhb",
+      "Integrity": "VDDosetu8fG5d1gFdf691dNfJeCY+4Nu8zpC5keD5pE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\blazor.publish.boot.json"
     },
     {
-      "Identity": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\1t1e2gijog-0d6lhuemdn.gz",
+      "Identity": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\1t1e2gijog-76ek0hz8ke.gz",
       "SourceId": "GuidoAloise",
       "SourceType": "Computed",
       "ContentRoot": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -409,8 +409,8 @@
       "RelatedAsset": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\blazor.publish.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ksdgxi3eoq",
-      "Integrity": "LF2y1HVfVYec6KIYxo91jbiT/+Nx3EIyaToAnKkOlXQ=",
+      "Fingerprint": "rjl1xv74cs",
+      "Integrity": "VzAnlThuThMLuXLm1oYY3kG9mSxKhuc9dUP/XZwf2Hw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\blazor.publish.boot.json"
@@ -878,7 +878,7 @@
       "OriginalItemSpec": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\webcil\\publish\\System.Text.Json.wasm"
     },
     {
-      "Identity": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\99ugmimhdt-nn6z1yv9v6.br",
+      "Identity": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\99ugmimhdt-5r3n7smnu7.br",
       "SourceId": "GuidoAloise",
       "SourceType": "Computed",
       "ContentRoot": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -892,8 +892,8 @@
       "RelatedAsset": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\bin\\Release\\net8.0\\wwwroot\\_framework\\en\\GuidoAloise.resources.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "0af3sk121w",
-      "Integrity": "GGzhvfQaklRVTSqOJC+q90VFJJtjLEwPtoPvzRKhxEM=",
+      "Fingerprint": "f3fczx6kat",
+      "Integrity": "laHx17xJHn/m3TdFy9KkjstcbO60MdQ+8qPDNVZ44X8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\bin\\Release\\net8.0\\wwwroot\\_framework\\en\\GuidoAloise.resources.wasm"
@@ -2516,7 +2516,7 @@
       "OriginalItemSpec": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.AspNetCore.Components.Forms.wasm"
     },
     {
-      "Identity": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\s75alrqs00-bkqefmg7vt.br",
+      "Identity": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\s75alrqs00-f47pl96b85.br",
       "SourceId": "GuidoAloise",
       "SourceType": "Computed",
       "ContentRoot": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -2530,14 +2530,14 @@
       "RelatedAsset": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\webcil\\publish\\GuidoAloise.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "3lzgq4ad9m",
-      "Integrity": "J+JROhq2YnZgmQac4wQx0QEnbiC0E+n8dvk0FxSadOw=",
+      "Fingerprint": "3183zmvwp9",
+      "Integrity": "malKNzehf0+mnpoTEKBT70DCdYo1t6+rCOr/q8ceCoU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\webcil\\publish\\GuidoAloise.wasm"
     },
     {
-      "Identity": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\s75alrqs00-bkqefmg7vt.gz",
+      "Identity": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\s75alrqs00-f47pl96b85.gz",
       "SourceId": "GuidoAloise",
       "SourceType": "Computed",
       "ContentRoot": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -2551,8 +2551,8 @@
       "RelatedAsset": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\webcil\\publish\\GuidoAloise.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "izrjb6nhr3",
-      "Integrity": "knjUzUnC9XXSb5XZV6zYg/Y4UgaXmhxoMfAubTJlPMU=",
+      "Fingerprint": "8un6w7hmx7",
+      "Integrity": "MOoJOlNn621uE/gjhqrghB9SpddDymu77A3v7Q6ZvFk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\webcil\\publish\\GuidoAloise.wasm"
@@ -3398,7 +3398,7 @@
       "OriginalItemSpec": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Configuration.wasm"
     },
     {
-      "Identity": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\s5vsk5q0dw-nn6z1yv9v6.gz",
+      "Identity": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\s5vsk5q0dw-5r3n7smnu7.gz",
       "SourceId": "GuidoAloise",
       "SourceType": "Computed",
       "ContentRoot": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\bin\\Release\\net8.0\\publish\\wwwroot\\",
@@ -3412,11 +3412,11 @@
       "RelatedAsset": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\bin\\Release\\net8.0\\wwwroot\\_framework\\en\\GuidoAloise.resources.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hahi6myap2",
-      "Integrity": "91k/hJyvmtGmi53QcwZLHYpv7bo+UHpStAnqWBl6QRM=",
+      "Fingerprint": "iauatflxqj",
+      "Integrity": "Jt8oLPBjs9G302sZ8VOhvf6PT2KBh6yPhcEgk8LSKdQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\s5vsk5q0dw-nn6z1yv9v6.gz"
+      "OriginalItemSpec": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\s5vsk5q0dw-5r3n7smnu7.gz"
     },
     {
       "Identity": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\scopedcss\\bundle\\GuidoAloise.styles.css",
@@ -3475,8 +3475,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "bkqefmg7vt",
-      "Integrity": "BTuDPeSWz/zWIY8TAAk2xv4uhbVDlCCCxC9z+TQS8yM=",
+      "Fingerprint": "f47pl96b85",
+      "Integrity": "sfZwgBuL9onZ3heFX+Gy96de/1Dsm1mCiDV19b8BDtY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\webcil\\publish\\GuidoAloise.wasm"
@@ -5245,11 +5245,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jKP4hW14ixy1w/5zafviaflwucc/aBWBmdFRZQsgvR8=\""
+          "Value": "\"v5jQYT6j1PJRCyd6bIjFSQ35TK9y6YOWBh0FoReDMMw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 13:45:19 GMT"
+          "Value": "Thu, 01 May 2025 15:13:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5259,18 +5259,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jKP4hW14ixy1w/5zafviaflwucc/aBWBmdFRZQsgvR8="
+          "Value": "sha256-v5jQYT6j1PJRCyd6bIjFSQ35TK9y6YOWBh0FoReDMMw="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\1t1e2gijog-0d6lhuemdn.br",
+      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\1t1e2gijog-76ek0hz8ke.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000304971028"
+          "Quality": "0.000304599452"
         }
       ],
       "ResponseHeaders": [
@@ -5280,15 +5280,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3278"
+          "Value": "3282"
         },
         {
           "Name": "ETag",
-          "Value": "\"6/hH1YZ92JJD1E471kcQH1tsHumvq/8umaREdxlWOI0=\""
+          "Value": "\"VDDosetu8fG5d1gFdf691dNfJeCY+4Nu8zpC5keD5pE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 13:45:19 GMT"
+          "Value": "Thu, 01 May 2025 15:13:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5308,19 +5308,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jKP4hW14ixy1w/5zafviaflwucc/aBWBmdFRZQsgvR8=\""
+          "Value": "W/\"v5jQYT6j1PJRCyd6bIjFSQ35TK9y6YOWBh0FoReDMMw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jKP4hW14ixy1w/5zafviaflwucc/aBWBmdFRZQsgvR8="
+          "Value": "sha256-v5jQYT6j1PJRCyd6bIjFSQ35TK9y6YOWBh0FoReDMMw="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\1t1e2gijog-0d6lhuemdn.gz",
+      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\1t1e2gijog-76ek0hz8ke.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5339,11 +5339,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LF2y1HVfVYec6KIYxo91jbiT/+Nx3EIyaToAnKkOlXQ=\""
+          "Value": "\"VzAnlThuThMLuXLm1oYY3kG9mSxKhuc9dUP/XZwf2Hw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 13:45:19 GMT"
+          "Value": "Thu, 01 May 2025 15:13:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5363,19 +5363,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jKP4hW14ixy1w/5zafviaflwucc/aBWBmdFRZQsgvR8=\""
+          "Value": "W/\"v5jQYT6j1PJRCyd6bIjFSQ35TK9y6YOWBh0FoReDMMw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jKP4hW14ixy1w/5zafviaflwucc/aBWBmdFRZQsgvR8="
+          "Value": "sha256-v5jQYT6j1PJRCyd6bIjFSQ35TK9y6YOWBh0FoReDMMw="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.br",
-      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\1t1e2gijog-0d6lhuemdn.br",
+      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\1t1e2gijog-76ek0hz8ke.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5384,7 +5384,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3278"
+          "Value": "3282"
         },
         {
           "Name": "Content-Type",
@@ -5392,11 +5392,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6/hH1YZ92JJD1E471kcQH1tsHumvq/8umaREdxlWOI0=\""
+          "Value": "\"VDDosetu8fG5d1gFdf691dNfJeCY+4Nu8zpC5keD5pE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 13:45:19 GMT"
+          "Value": "Thu, 01 May 2025 15:13:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5414,13 +5414,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6/hH1YZ92JJD1E471kcQH1tsHumvq/8umaREdxlWOI0="
+          "Value": "sha256-VDDosetu8fG5d1gFdf691dNfJeCY+4Nu8zpC5keD5pE="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\1t1e2gijog-0d6lhuemdn.gz",
+      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\1t1e2gijog-76ek0hz8ke.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5437,11 +5437,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LF2y1HVfVYec6KIYxo91jbiT/+Nx3EIyaToAnKkOlXQ=\""
+          "Value": "\"VzAnlThuThMLuXLm1oYY3kG9mSxKhuc9dUP/XZwf2Hw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 13:45:19 GMT"
+          "Value": "Thu, 01 May 2025 15:13:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5459,7 +5459,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LF2y1HVfVYec6KIYxo91jbiT/+Nx3EIyaToAnKkOlXQ="
+          "Value": "sha256-VzAnlThuThMLuXLm1oYY3kG9mSxKhuc9dUP/XZwf2Hw="
         }
       ]
     },
@@ -6667,11 +6667,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jVr5r7rmVXXQpMyCUWPMppJ/OJ7TOGW76hT4h77hTjE=\""
+          "Value": "\"PxalFdXYRM+eSCF96beyqTPXpl9bscf9ZtbFZS5wBnI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 13:45:11 GMT"
+          "Value": "Thu, 01 May 2025 15:13:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6681,18 +6681,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jVr5r7rmVXXQpMyCUWPMppJ/OJ7TOGW76hT4h77hTjE="
+          "Value": "sha256-PxalFdXYRM+eSCF96beyqTPXpl9bscf9ZtbFZS5wBnI="
         }
       ]
     },
     {
       "Route": "_framework/en/GuidoAloise.resources.wasm",
-      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\99ugmimhdt-nn6z1yv9v6.br",
+      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\99ugmimhdt-5r3n7smnu7.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000156152405"
+          "Quality": "0.000156298843"
         }
       ],
       "ResponseHeaders": [
@@ -6702,15 +6702,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6403"
+          "Value": "6397"
         },
         {
           "Name": "ETag",
-          "Value": "\"GGzhvfQaklRVTSqOJC+q90VFJJtjLEwPtoPvzRKhxEM=\""
+          "Value": "\"laHx17xJHn/m3TdFy9KkjstcbO60MdQ+8qPDNVZ44X8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 13:45:11 GMT"
+          "Value": "Thu, 01 May 2025 15:13:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6730,24 +6730,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jVr5r7rmVXXQpMyCUWPMppJ/OJ7TOGW76hT4h77hTjE=\""
+          "Value": "W/\"PxalFdXYRM+eSCF96beyqTPXpl9bscf9ZtbFZS5wBnI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jVr5r7rmVXXQpMyCUWPMppJ/OJ7TOGW76hT4h77hTjE="
+          "Value": "sha256-PxalFdXYRM+eSCF96beyqTPXpl9bscf9ZtbFZS5wBnI="
         }
       ]
     },
     {
       "Route": "_framework/en/GuidoAloise.resources.wasm",
-      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\s5vsk5q0dw-nn6z1yv9v6.gz",
+      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\s5vsk5q0dw-5r3n7smnu7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000124595066"
+          "Quality": "0.000124564026"
         }
       ],
       "ResponseHeaders": [
@@ -6757,15 +6757,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8025"
+          "Value": "8027"
         },
         {
           "Name": "ETag",
-          "Value": "\"91k/hJyvmtGmi53QcwZLHYpv7bo+UHpStAnqWBl6QRM=\""
+          "Value": "\"Jt8oLPBjs9G302sZ8VOhvf6PT2KBh6yPhcEgk8LSKdQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 13:28:00 GMT"
+          "Value": "Thu, 01 May 2025 15:11:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6785,19 +6785,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jVr5r7rmVXXQpMyCUWPMppJ/OJ7TOGW76hT4h77hTjE=\""
+          "Value": "W/\"PxalFdXYRM+eSCF96beyqTPXpl9bscf9ZtbFZS5wBnI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jVr5r7rmVXXQpMyCUWPMppJ/OJ7TOGW76hT4h77hTjE="
+          "Value": "sha256-PxalFdXYRM+eSCF96beyqTPXpl9bscf9ZtbFZS5wBnI="
         }
       ]
     },
     {
       "Route": "_framework/en/GuidoAloise.resources.wasm.br",
-      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\99ugmimhdt-nn6z1yv9v6.br",
+      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\99ugmimhdt-5r3n7smnu7.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6806,7 +6806,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6403"
+          "Value": "6397"
         },
         {
           "Name": "Content-Type",
@@ -6814,11 +6814,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GGzhvfQaklRVTSqOJC+q90VFJJtjLEwPtoPvzRKhxEM=\""
+          "Value": "\"laHx17xJHn/m3TdFy9KkjstcbO60MdQ+8qPDNVZ44X8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 13:45:11 GMT"
+          "Value": "Thu, 01 May 2025 15:13:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6836,13 +6836,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GGzhvfQaklRVTSqOJC+q90VFJJtjLEwPtoPvzRKhxEM="
+          "Value": "sha256-laHx17xJHn/m3TdFy9KkjstcbO60MdQ+8qPDNVZ44X8="
         }
       ]
     },
     {
       "Route": "_framework/en/GuidoAloise.resources.wasm.gz",
-      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\s5vsk5q0dw-nn6z1yv9v6.gz",
+      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\s5vsk5q0dw-5r3n7smnu7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6851,7 +6851,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8025"
+          "Value": "8027"
         },
         {
           "Name": "Content-Type",
@@ -6859,11 +6859,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"91k/hJyvmtGmi53QcwZLHYpv7bo+UHpStAnqWBl6QRM=\""
+          "Value": "\"Jt8oLPBjs9G302sZ8VOhvf6PT2KBh6yPhcEgk8LSKdQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 13:28:00 GMT"
+          "Value": "Thu, 01 May 2025 15:11:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6881,18 +6881,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-91k/hJyvmtGmi53QcwZLHYpv7bo+UHpStAnqWBl6QRM="
+          "Value": "sha256-Jt8oLPBjs9G302sZ8VOhvf6PT2KBh6yPhcEgk8LSKdQ="
         }
       ]
     },
     {
       "Route": "_framework/GuidoAloise.wasm",
-      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\s75alrqs00-bkqefmg7vt.br",
+      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\s75alrqs00-f47pl96b85.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000031718844"
+          "Quality": "0.000031538777"
         }
       ],
       "ResponseHeaders": [
@@ -6902,15 +6902,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "31526"
+          "Value": "31706"
         },
         {
           "Name": "ETag",
-          "Value": "\"J+JROhq2YnZgmQac4wQx0QEnbiC0E+n8dvk0FxSadOw=\""
+          "Value": "\"malKNzehf0+mnpoTEKBT70DCdYo1t6+rCOr/q8ceCoU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 13:45:18 GMT"
+          "Value": "Thu, 01 May 2025 15:13:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6930,24 +6930,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"BTuDPeSWz/zWIY8TAAk2xv4uhbVDlCCCxC9z+TQS8yM=\""
+          "Value": "W/\"sfZwgBuL9onZ3heFX+Gy96de/1Dsm1mCiDV19b8BDtY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BTuDPeSWz/zWIY8TAAk2xv4uhbVDlCCCxC9z+TQS8yM="
+          "Value": "sha256-sfZwgBuL9onZ3heFX+Gy96de/1Dsm1mCiDV19b8BDtY="
         }
       ]
     },
     {
       "Route": "_framework/GuidoAloise.wasm",
-      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\s75alrqs00-bkqefmg7vt.gz",
+      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\s75alrqs00-f47pl96b85.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000026456426"
+          "Quality": "0.000026388706"
         }
       ],
       "ResponseHeaders": [
@@ -6957,15 +6957,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "37797"
+          "Value": "37894"
         },
         {
           "Name": "ETag",
-          "Value": "\"knjUzUnC9XXSb5XZV6zYg/Y4UgaXmhxoMfAubTJlPMU=\""
+          "Value": "\"MOoJOlNn621uE/gjhqrghB9SpddDymu77A3v7Q6ZvFk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 13:45:18 GMT"
+          "Value": "Thu, 01 May 2025 15:13:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6985,13 +6985,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"BTuDPeSWz/zWIY8TAAk2xv4uhbVDlCCCxC9z+TQS8yM=\""
+          "Value": "W/\"sfZwgBuL9onZ3heFX+Gy96de/1Dsm1mCiDV19b8BDtY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BTuDPeSWz/zWIY8TAAk2xv4uhbVDlCCCxC9z+TQS8yM="
+          "Value": "sha256-sfZwgBuL9onZ3heFX+Gy96de/1Dsm1mCiDV19b8BDtY="
         }
       ]
     },
@@ -7014,11 +7014,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BTuDPeSWz/zWIY8TAAk2xv4uhbVDlCCCxC9z+TQS8yM=\""
+          "Value": "\"sfZwgBuL9onZ3heFX+Gy96de/1Dsm1mCiDV19b8BDtY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 13:45:18 GMT"
+          "Value": "Thu, 01 May 2025 15:13:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7028,13 +7028,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BTuDPeSWz/zWIY8TAAk2xv4uhbVDlCCCxC9z+TQS8yM="
+          "Value": "sha256-sfZwgBuL9onZ3heFX+Gy96de/1Dsm1mCiDV19b8BDtY="
         }
       ]
     },
     {
       "Route": "_framework/GuidoAloise.wasm.br",
-      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\s75alrqs00-bkqefmg7vt.br",
+      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\s75alrqs00-f47pl96b85.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7043,7 +7043,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "31526"
+          "Value": "31706"
         },
         {
           "Name": "Content-Type",
@@ -7051,11 +7051,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"J+JROhq2YnZgmQac4wQx0QEnbiC0E+n8dvk0FxSadOw=\""
+          "Value": "\"malKNzehf0+mnpoTEKBT70DCdYo1t6+rCOr/q8ceCoU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 13:45:18 GMT"
+          "Value": "Thu, 01 May 2025 15:13:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7073,13 +7073,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-J+JROhq2YnZgmQac4wQx0QEnbiC0E+n8dvk0FxSadOw="
+          "Value": "sha256-malKNzehf0+mnpoTEKBT70DCdYo1t6+rCOr/q8ceCoU="
         }
       ]
     },
     {
       "Route": "_framework/GuidoAloise.wasm.gz",
-      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\s75alrqs00-bkqefmg7vt.gz",
+      "AssetFile": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\compressed\\publish\\s75alrqs00-f47pl96b85.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7088,7 +7088,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "37797"
+          "Value": "37894"
         },
         {
           "Name": "Content-Type",
@@ -7096,11 +7096,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"knjUzUnC9XXSb5XZV6zYg/Y4UgaXmhxoMfAubTJlPMU=\""
+          "Value": "\"MOoJOlNn621uE/gjhqrghB9SpddDymu77A3v7Q6ZvFk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 13:45:18 GMT"
+          "Value": "Thu, 01 May 2025 15:13:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7118,7 +7118,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-knjUzUnC9XXSb5XZV6zYg/Y4UgaXmhxoMfAubTJlPMU="
+          "Value": "sha256-MOoJOlNn621uE/gjhqrghB9SpddDymu77A3v7Q6ZvFk="
         }
       ]
     },
@@ -23908,7 +23908,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 11:24:54 GMT"
+          "Value": "Thu, 01 May 2025 15:11:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23953,7 +23953,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 11:24:54 GMT"
+          "Value": "Thu, 01 May 2025 15:11:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23998,7 +23998,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 11:24:54 GMT"
+          "Value": "Thu, 01 May 2025 15:11:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24035,7 +24035,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 11:24:54 GMT"
+          "Value": "Thu, 01 May 2025 15:11:27 GMT"
         },
         {
           "Name": "Cache-Control",
