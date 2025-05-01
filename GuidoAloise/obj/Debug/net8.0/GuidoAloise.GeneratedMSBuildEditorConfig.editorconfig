@@ -13,81 +13,81 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = GuidoAloise
 build_property.RootNamespace = GuidoAloise
-build_property.ProjectDir = C:\Users\gabriele.ciullo\source\repos\GuidoAloise\GuidoAloise\
+build_property.ProjectDir = C:\GitHub\GuidoAloise\GuidoAloise\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\gabriele.ciullo\source\repos\GuidoAloise\GuidoAloise
+build_property.MSBuildProjectDirectory = C:\GitHub\GuidoAloise\GuidoAloise
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/gabriele.ciullo/source/repos/GuidoAloise/GuidoAloise/App.razor]
+[C:/GitHub/GuidoAloise/GuidoAloise/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabriele.ciullo/source/repos/GuidoAloise/GuidoAloise/Pages/Admin/AdminNews.razor]
+[C:/GitHub/GuidoAloise/GuidoAloise/Pages/Admin/AdminNews.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRtaW5OZXdzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabriele.ciullo/source/repos/GuidoAloise/GuidoAloise/Pages/Admin/AdminOpere.razor]
+[C:/GitHub/GuidoAloise/GuidoAloise/Pages/Admin/AdminOpere.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRtaW5PcGVyZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabriele.ciullo/source/repos/GuidoAloise/GuidoAloise/Pages/Biografia.razor]
+[C:/GitHub/GuidoAloise/GuidoAloise/Pages/Biografia.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmlvZ3JhZmlhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabriele.ciullo/source/repos/GuidoAloise/GuidoAloise/Pages/Citazioni.razor]
+[C:/GitHub/GuidoAloise/GuidoAloise/Pages/Citazioni.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2l0YXppb25pLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabriele.ciullo/source/repos/GuidoAloise/GuidoAloise/Pages/Contacts.razor]
+[C:/GitHub/GuidoAloise/GuidoAloise/Pages/Contacts.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabriele.ciullo/source/repos/GuidoAloise/GuidoAloise/Pages/Home.razor]
+[C:/GitHub/GuidoAloise/GuidoAloise/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabriele.ciullo/source/repos/GuidoAloise/GuidoAloise/Pages/Opere.razor]
+[C:/GitHub/GuidoAloise/GuidoAloise/Pages/Opere.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3BlcmUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabriele.ciullo/source/repos/GuidoAloise/GuidoAloise/_Imports.razor]
+[C:/GitHub/GuidoAloise/GuidoAloise/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabriele.ciullo/source/repos/GuidoAloise/GuidoAloise/Components/Footer.razor]
+[C:/GitHub/GuidoAloise/GuidoAloise/Components/Footer.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xGb290ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-uuctf09c16
 
-[C:/Users/gabriele.ciullo/source/repos/GuidoAloise/GuidoAloise/Components/Header.razor]
+[C:/GitHub/GuidoAloise/GuidoAloise/Components/Header.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xIZWFkZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ljhjkht0zv
 
-[C:/Users/gabriele.ciullo/source/repos/GuidoAloise/GuidoAloise/Components/LanguageSelector.razor]
+[C:/GitHub/GuidoAloise/GuidoAloise/Components/LanguageSelector.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYW5ndWFnZVNlbGVjdG9yLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-fmoil4v2at
 
-[C:/Users/gabriele.ciullo/source/repos/GuidoAloise/GuidoAloise/Components/OperePage/DecadeSection.razor]
+[C:/GitHub/GuidoAloise/GuidoAloise/Components/OperePage/DecadeSection.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xPcGVyZVBhZ2VcRGVjYWRlU2VjdGlvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-z7v0xo93f3
 
-[C:/Users/gabriele.ciullo/source/repos/GuidoAloise/GuidoAloise/Components/OperePage/OperaCard.razor]
+[C:/GitHub/GuidoAloise/GuidoAloise/Components/OperePage/OperaCard.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xPcGVyZVBhZ2VcT3BlcmFDYXJkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-7dj3gi2lgr
 
-[C:/Users/gabriele.ciullo/source/repos/GuidoAloise/GuidoAloise/Components/OperePage/OperaModal.razor]
+[C:/GitHub/GuidoAloise/GuidoAloise/Components/OperePage/OperaModal.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xPcGVyZVBhZ2VcT3BlcmFNb2RhbC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-2uv9z1zr4s
 
-[C:/Users/gabriele.ciullo/source/repos/GuidoAloise/GuidoAloise/Layout/MainLayout.razor]
+[C:/GitHub/GuidoAloise/GuidoAloise/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-cppj3akcmt
 
-[C:/Users/gabriele.ciullo/source/repos/GuidoAloise/GuidoAloise/Layout/NavMenu.razor]
+[C:/GitHub/GuidoAloise/GuidoAloise/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-lcj0rsh7aa
