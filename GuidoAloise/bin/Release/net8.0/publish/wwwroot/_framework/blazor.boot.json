@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "GuidoAloise",
   "resources": {
-    "hash": "sha256-NDR7kaY7u8RnneweWbGSvmHPgdNytpiCtwpUF7CkOCw=",
+    "hash": "sha256-mX48ayZCIA1Mg/ig56xmmITBOceBVepVxvmop5ccGrc=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-B6DNRvFeCUi3jbx9uKpuj+hV9cN0KG4RdZj1FgBZwj8="
     },
@@ -16,7 +16,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "GuidoAloise.wasm": "sha256-ynURnOu6JC+PJru6N3fDtn8BEzt7Ui41n8u/DnqBhEI=",
+      "GuidoAloise.wasm": "sha256-3BCbHgbPCAMR8PdT9I2koilzUt6I1eVwBPrhaomB3Zw=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-ea1OkjPrArZHl41lZlBFq+xMSku7yBEsK0RdUn6ZghU=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-Amy5+lPypaKfD3wY6qaP3kSAtRYGVc5LSndzWNoUinE=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-BbnEi3+pkd386Tv3FvvLgyx/apSjcqX72JChhpNpA1Q=",
@@ -88,7 +88,7 @@
     },
     "satelliteResources": {
       "en": {
-        "GuidoAloise.resources.wasm": "sha256-KVKu+Sa2+BpYRCp0WLwtZP28L+8hEC85w/j8lQGKqrA="
+        "GuidoAloise.resources.wasm": "sha256-uLVRXCAcRfzUid/2aoZQZLScegIcXEDDc7vkRcluIHQ="
       }
     }
   },
