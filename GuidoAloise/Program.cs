@@ -30,7 +30,7 @@ builder.Services.Configure<RequestLocalizationOptions>(options =>
 builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
 builder.Services.AddScoped(sp => new HttpClient
 {
-    BaseAddress = new Uri("https://guidoaloise-api.onrender.com/") // URL della tua Web API
+    BaseAddress = new Uri("https://localhost:7051/")//("https://guidoaloise-api.onrender.com/") // URL della tua Web API
 });
 builder.Services.AddScoped<IDataService, DataService>();
 

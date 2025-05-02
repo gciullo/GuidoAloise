@@ -60,62 +60,32 @@
         }
     </script>
     <script>
-        let startX = 0;
-        let currentIndex = 0;
-        let slider = null;
-        let dots = [];
-        let totalSlides = 0;
-        const maxVisibleDots = 5;
+        /* inizializza carosello + puntini */
+        window.initNewsCarousel = (snapSelector, dotsSelector) => {
 
-        function updateDots() {
-            if (!dots || dots.length === 0) return;
+            const snap = document.querySelector(snapSelector);
+            const dots = [...document.querySelectorAll(dotsSelector)];
+            const slides = [...snap.children];
 
-            dots.forEach(dot => {
-                dot.classList.remove("active", "visible", "faded");
+            if (!snap || !dots.length || !slides.length) return;
+
+            /* -- A. evidenzia dot corrente --------------------------------- */
+            const setActive = idx => dots.forEach((d, i) =>
+                d.classList.toggle('active', i === idx));
+
+            setActive(0);                          // prima slide attiva
+
+            snap.addEventListener('scroll', () => {
+                const idx = Math.round(snap.scrollLeft / snap.offsetWidth);
+                setActive(idx);
+            }, { passive: true });
+
+            /* -- B. click/tap sui dots ------------------------------------- */
+            dots.forEach((dot, i) => {
+                dot.addEventListener('click', () => {
+                    snap.scrollTo({ left: i * snap.offsetWidth, behavior: 'smooth' });
+                });
             });
-
-            let start = Math.max(0, Math.min(currentIndex - Math.floor(maxVisibleDots / 2), dots.length - maxVisibleDots));
-            let end = Math.min(start + maxVisibleDots, dots.length);
-
-            for (let i = 0; i < dots.length; i++) {
-                if (i >= start && i < end) {
-                    dots[i].classList.add("visible");
-                } else {
-                    dots[i].classList.add("faded");
-                }
-            }
-
-            dots[currentIndex].classList.add("active");
-        }
-
-        window.initNewsSwipe = (sliderSelector) => {
-            slider = document.querySelector(sliderSelector);
-            if (!slider) return;
-
-            const slides = slider.children;
-            totalSlides = slides.length;
-            dots = document.querySelectorAll("#dot-nav .dot");
-
-            slider.addEventListener("touchstart", (e) => {
-                startX = e.touches[0].clientX;
-            });
-
-            slider.addEventListener("touchend", (e) => {
-                let endX = e.changedTouches[0].clientX;
-                let delta = endX - startX;
-
-                if (Math.abs(delta) > 50) {
-                    if (delta < 0 && currentIndex < totalSlides - 1) {
-                        currentIndex++;
-                    } else if (delta > 0 && currentIndex > 0) {
-                        currentIndex--;
-                    }
-                    slider.style.transform = `translateX(-${currentIndex * 100}%)`;
-                    updateDots();
-                }
-            });
-
-            updateDots();
         };
     </script>
     <script>

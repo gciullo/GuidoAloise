@@ -54,7 +54,40 @@
         </button>
     }
 </div>
-<div class="news-slider-wrapper">
+
+<div class="news-wrapper">
+    <div class="news-snap" @ref="snapRef">
+        @foreach (var item in news.OrderByDescending(n => n.PointerDate))
+        {
+            <article class="slide">
+                @if (!string.IsNullOrWhiteSpace(item.Reference))
+                {
+                    <a href="@item.Reference" target="_blank" rel="noopener noreferrer" class="news-link-wrapper">
+                        <div class="news-card hoverable">
+                            <div class="news-title">@(item.PointerDate < DateTime.Today ? "📰" : "📅") @item.Date – @item.Title</div>
+                            <div class="news-content">@item.Content</div>
+                            <div class="news-title" style="display:flex; flex-direction: column;align-items: center;">@Localizer["ScopriPiù"]</div>
+                        </div>
+                    </a>
+                }
+                else
+                {
+                    <div class="news-card">
+                        <div class="news-title">@(item.PointerDate < DateTime.Today ? "📰" : "📅") @item.Date – @item.Title</div>
+                        <div class="news-content">@item.Content</div>
+                    </div>
+                }
+            </article>
+        }
+    </div>
+    <div class="dot-nav">
+        @for (var i = 0; i < news.Count; i++)
+        {
+            <button class="dot" data-index="@i" aria-label="vai alla news @(i+1)"></button>
+        }
+    </div>
+</div>
+@* <div class="news-slider-wrapper">
     <div class="news-slider" @ref="sliderRef">
         @foreach (var item in news.OrderByDescending(n => n.PointerDate))
         {
@@ -86,13 +119,13 @@
         }
     </div>
 </div>
-
+ *@
 @code {
     [Inject] protected IStringLocalizerFactory LocalizerFactory { get; set; } = null!;
 
     private IStringLocalizer Localizer { get; set; } = null!;
     private List<NewsItem> news = new();
-    private ElementReference sliderRef;
+    private ElementReference snapRef;
     private bool showAllNewsDesktop = false;
     private bool _hasRendered = false;
 
@@ -116,7 +149,10 @@
         if (!_hasRendered && news.Any())
         {
             _hasRendered = true;
-            await JS.InvokeVoidAsync("initNewsSwipe", ".news-slider");
+            await JS.InvokeVoidAsync(
+                "initNewsCarousel",
+                ".news-snap",       // selettore del contenitore scrollabile
+                ".dot-nav .dot");   // selettore dei puntini
         }
     }
 }
