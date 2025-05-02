@@ -1,8 +1,11 @@
 ﻿@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;700&display=swap');
+@import url('https://fonts.google.com/specimen/Rajdhani:wght@400;700&display=swap');
+
 
 
 html, body {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Bahnschrift Condensed','Bahnschrift Condensed_MSFontService','Rajdhani', 'Barlow Condensed', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 h1:focus {
@@ -200,7 +203,6 @@ code {
 
         .sidebar ul li a {
             color: var(--sidebar-background-color-text);
-            font-family: Bahnschrift Condensed,Bahnschrift Condensed_MSFontService,sans-serif;
             font-weight: 400;
             font-stretch: condensed;
             text-decoration: none;
@@ -286,7 +288,6 @@ footer {
 .footer-content-text {
     font-size: 20px;
     color: var(--sidebar-background-color-text);
-    font-family: Bahnschrift Condensed,Bahnschrift Condensed_MSFontService,sans-serif;
     font-weight: 100;
     font-stretch: condensed;
     text-decoration: none; /* Rimuove il sottolineato */
@@ -302,7 +303,6 @@ footer {
     align-items: center;
     font-size: 50px;
     color: var(--sidebar-background-color-text);
-    font-family: Bahnschrift Condensed,Bahnschrift Condensed_MSFontService,sans-serif;
     font-weight: 400;
     font-stretch: condensed;
     /*font-family: 'Arial', sans-serif;*/
@@ -335,7 +335,6 @@ footer {
     transform: translate(-80%, -80%);
     color: black;
     font-size: 24px;
-    font-family: Bahnschrift Condensed,Bahnschrift Condensed_MSFontService,sans-serif;
     font-style: italic;
     font-weight: 100;
     background-color: rgba(0, 0, 0, 0);
@@ -365,7 +364,6 @@ footer {
     align-items: center;
     font-size: 35px;
     color: var(--sidebar-background-color-text);
-    font-family: Bahnschrift Condensed,Bahnschrift Condensed_MSFontService,sans-serif;
     font-weight: 400;
     font-stretch: condensed;
 }
@@ -401,7 +399,6 @@ footer {
     align-items: center;
     font-size: 20px;
     color: var(--sidebar-background-color-text);
-    font-family: Bahnschrift Condensed,Bahnschrift Condensed_MSFontService,sans-serif;
     font-weight: 200;
     font-stretch: condensed;
     text-align: justify;
@@ -424,7 +421,6 @@ footer {
     padding: 20px;
     border-radius: 10px;
     box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
-    font-family: Bahnschrift Condensed,Bahnschrift Condensed_MSFontService,sans-serif;
 }
 
 .news-title {
@@ -475,46 +471,13 @@ footer {
         background-color: #a18c61;
     }
 
-.news-slider-wrapper {
+.news-wrapper {
     display: none;
 }
-
-.dot-navigation {
-    text-align: center;
-    margin-top: 20px;
-    display: flex;
-    justify-content: center;
-    gap: 5px;
-}
-
-.dot {
-    height: 12px;
-    width: 12px;
-    background-color: #bbb;
-    border-radius: 50%;
-    display: inline-block;
-    transition: background-color 0.3s ease, opacity 0.3s ease;
-    opacity: 0.3;
-}
-
-    .dot.active {
-        background-color: #555;
-        opacity: 1;
-    }
-
-    .dot.visible {
-        opacity: 0.7;
-    }
-
-    .dot.faded {
-        opacity: 0.2;
-        pointer-events: none;
-    }
 
 .operacard-title {
     font-size: 35px;
     color: var(--sidebar-background-color-text);
-    font-family: Bahnschrift Condensed,Bahnschrift Condensed_MSFontService,sans-serif;
     font-weight: 400;
     font-stretch: condensed;
 }
@@ -522,7 +485,6 @@ footer {
 .operacard-subtitle {
     font-size: 15px;
     color: var(--sidebar-background-color-secondary);
-    font-family: Bahnschrift Condensed,Bahnschrift Condensed_MSFontService,sans-serif;
     font-weight: 100;
     font-style: italic;
     font-stretch: condensed;
@@ -531,7 +493,6 @@ footer {
 .operacard-content {
     font-size: 20px;
     color: var(--sidebar-background-color-text);
-    font-family: Bahnschrift Condensed,Bahnschrift Condensed_MSFontService,sans-serif;
     font-weight: 100;
     font-stretch: condensed;
 }
@@ -539,7 +500,6 @@ footer {
 .operacard-expand {
     font-size: 15px;
     color: var(--sidebar-background-color-secondary);
-    font-family: Bahnschrift Condensed,Bahnschrift Condensed_MSFontService,sans-serif;
     font-weight: 400;
     font-stretch: condensed;
 }
@@ -555,7 +515,6 @@ footer {
     background-color: #f4e8d1;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    font-family: Bahnschrift Condensed,Bahnschrift Condensed_MSFontService,sans-serif;
 }
 
 .admin-news-form {
@@ -568,7 +527,6 @@ footer {
     .admin-news-form input,
     .admin-news-form textarea,
     .admin-news-form .btn {
-        font-family: Bahnschrift Condensed,Bahnschrift Condensed_MSFontService,sans-serif;
         font-size: 18px;
         padding: 8px;
         border: 1px solid #ccc;
@@ -641,7 +599,6 @@ footer {
     justify-content: center;
     padding: 10px;
     color: var(--sidebar-background-color-text);
-    font-family: Bahnschrift Condensed, Bahnschrift Condensed_MSFontService, sans-serif;
     font-weight: 200;
     font-stretch: condensed;
     text-decoration: none;
@@ -708,25 +665,59 @@ footer {
         display: none; /* Nasconde layout standard su mobile */
     }
 
-    .news-slider-wrapper {
-        display: block;
-        overflow: hidden;
-        width: 100%;
+    .news-wrapper {
+        display: flex;
+        position: relative;
         margin: 40px auto;
     }
 
-    .news-slider {
+    .news-snap {
         display: flex;
-        flex-direction: row;
-        transition: transform 0.3s ease-in-out;
-        touch-action: pan-y;
+        overflow-x: auto;
+        scroll-snap-type: x mandatory;
+        -webkit-overflow-scrolling: touch; /* inerzia su iOS */
+        scroll-behavior: smooth; /* frecce/tastiera */
     }
 
-    .news-slide {
-        min-width: 100%;
-        box-sizing: border-box;
+    .slide {
+        flex: 0 0 100%;
+        scroll-snap-align: start;
         padding: 0 10px;
+        box-sizing: border-box;
     }
+
+    /* nascondi la scrollbar solo se ti serve */
+    .news-snap::-webkit-scrollbar {
+        display: none;
+    }
+
+    /* puntini */
+    .dot-nav {
+        position: absolute;
+        bottom: -20px;
+        left: 50%;
+        transform: translateX(-50%);
+        display: flex;
+        gap: 6px;
+    }
+
+    .dot {
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        background: #bbb;
+        border: 0;
+        padding: 0;
+    }
+
+        .dot.active {
+            background: #555;
+        }
+        /* “acceso” */
+        .dot:focus-visible {
+            outline: 2px solid #000;
+        }
+    /* a11y */
 
     .bio-block {
         flex-direction: column;
