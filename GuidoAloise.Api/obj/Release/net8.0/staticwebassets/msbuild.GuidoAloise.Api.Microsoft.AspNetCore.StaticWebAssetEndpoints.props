@@ -759,14 +759,14 @@
     <StaticWebAssetEndpoint Include="_content/GuidoAloise.Api/news.json">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\news.json'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cznI/qhzt/FhoFuDr10kmyVcj5i/mPMgFamyELsP5Us="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"962"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022cznI/qhzt/FhoFuDr10kmyVcj5i/mPMgFamyELsP5Us=\u0022"},{"Name":"Last-Modified","Value":"Thu, 01 May 2025 10:23:49 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SLY/SPn0hVq3wwMR9abdtGNuH6Q4V/ApzM7X2DIMbgQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1469"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022SLY/SPn0hVq3wwMR9abdtGNuH6Q4V/ApzM7X2DIMbgQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 11:19:23 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/GuidoAloise.Api/news.zk4hcvefmo.json">
+    <StaticWebAssetEndpoint Include="_content/GuidoAloise.Api/news.o0ejk2ez3d.json">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\news.json'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zk4hcvefmo"},{"Name":"integrity","Value":"sha256-cznI/qhzt/FhoFuDr10kmyVcj5i/mPMgFamyELsP5Us="},{"Name":"label","Value":"_content/GuidoAloise.Api/news.json"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"962"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022cznI/qhzt/FhoFuDr10kmyVcj5i/mPMgFamyELsP5Us=\u0022"},{"Name":"Last-Modified","Value":"Thu, 01 May 2025 10:23:49 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o0ejk2ez3d"},{"Name":"integrity","Value":"sha256-SLY/SPn0hVq3wwMR9abdtGNuH6Q4V/ApzM7X2DIMbgQ="},{"Name":"label","Value":"_content/GuidoAloise.Api/news.json"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1469"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022SLY/SPn0hVq3wwMR9abdtGNuH6Q4V/ApzM7X2DIMbgQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 02 May 2025 11:19:23 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GuidoAloise.Api/opere.0rpedvftci.json">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\opere.json'))</AssetFile>
