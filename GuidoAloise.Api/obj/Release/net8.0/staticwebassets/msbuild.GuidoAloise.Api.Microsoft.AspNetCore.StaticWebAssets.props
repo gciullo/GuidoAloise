@@ -1146,8 +1146,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>zk4hcvefmo</Fingerprint>
-      <Integrity>cznI/qhzt/FhoFuDr10kmyVcj5i/mPMgFamyELsP5Us=</Integrity>
+      <Fingerprint>o0ejk2ez3d</Fingerprint>
+      <Integrity>SLY/SPn0hVq3wwMR9abdtGNuH6Q4V/ApzM7X2DIMbgQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\news.json'))</OriginalItemSpec>

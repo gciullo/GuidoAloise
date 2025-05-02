@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\GitHub\\GuidoAloise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{937D7F59-1BA1-4F78-8268-5E6141E65DF2}|GuidoAloise.Api\\GuidoAloise.Api.csproj|c:\\github\\guidoaloise\\guidoaloise.api\\wwwroot\\opere.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{937D7F59-1BA1-4F78-8268-5E6141E65DF2}|GuidoAloise.Api\\GuidoAloise.Api.csproj|solutionrelative:guidoaloise.api\\wwwroot\\opere.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|c:\\github\\guidoaloise\\guidoaloise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937D7F59-1BA1-4F78-8268-5E6141E65DF2}|GuidoAloise.Api\\GuidoAloise.Api.csproj|c:\\github\\guidoaloise\\guidoaloise.api\\wwwroot\\opere.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{937D7F59-1BA1-4F78-8268-5E6141E65DF2}|GuidoAloise.Api\\GuidoAloise.Api.csproj|solutionrelative:guidoaloise.api\\wwwroot\\opere.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|c:\\github\\guidoaloise\\guidoaloise\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -160,7 +160,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
@@ -258,13 +258,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Program.cs",
               "RelativeDocumentMoniker": "GuidoAloise\\Program.cs",
               "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Program.cs",
               "RelativeToolTip": "GuidoAloise\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T10:18:56.406Z",
               "EditorCaption": ""
@@ -345,12 +345,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "opere.json",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\opere.json",
               "RelativeDocumentMoniker": "GuidoAloise.Api\\wwwroot\\opere.json",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\opere.json*",
-              "RelativeToolTip": "GuidoAloise.Api\\wwwroot\\opere.json*",
+              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\opere.json",
+              "RelativeToolTip": "GuidoAloise.Api\\wwwroot\\opere.json",
               "ViewState": "AgIAACACAAAAAAAAAAAwwPQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-19T11:39:52.256Z",
