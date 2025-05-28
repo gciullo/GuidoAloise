@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\GitHub\\GuidoAloise\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|c:\\github\\guidoaloise\\guidoaloise\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|c:\\github\\guidoaloise\\guidoaloise\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|c:\\github\\guidoaloise\\guidoaloise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +19,8 @@
       "RelativeMoniker": "D:0:0:{937D7F59-1BA1-4F78-8268-5E6141E65DF2}|GuidoAloise.Api\\GuidoAloise.Api.csproj|solutionrelative:guidoaloise.api\\wwwroot\\opere.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|c:\\github\\guidoaloise\\guidoaloise\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|c:\\github\\guidoaloise\\guidoaloise\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|c:\\github\\guidoaloise\\guidoaloise\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|c:\\github\\guidoaloise\\guidoaloise\\components\\header.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -137,20 +137,12 @@
       "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\resources\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|c:\\github\\guidoaloise\\guidoaloise\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{937D7F59-1BA1-4F78-8268-5E6141E65DF2}|GuidoAloise.Api\\GuidoAloise.Api.csproj|c:\\github\\guidoaloise\\guidoaloise.api\\models\\newsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{937D7F59-1BA1-4F78-8268-5E6141E65DF2}|GuidoAloise.Api\\GuidoAloise.Api.csproj|solutionrelative:guidoaloise.api\\models\\newsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|c:\\github\\guidoaloise\\guidoaloise\\models\\newsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\models\\newsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|c:\\github\\guidoaloise\\guidoaloise\\components\\footer.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\components\\footer.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -159,18 +151,18 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "DockedWidth": 102,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "app.css",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\css\\app.css",
               "RelativeDocumentMoniker": "GuidoAloise\\wwwroot\\css\\app.css",
               "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\css\\app.css",
               "RelativeToolTip": "GuidoAloise\\wwwroot\\css\\app.css",
-              "ViewState": "AgIAALMCAAAAAAAAAAAAAMkCAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAHkCAAAAAAAAAAAAAJICAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-04-13T08:09:34.254Z",
               "IsPinned": true,
@@ -187,8 +179,7 @@
               "ViewState": "AgIAAAUAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-13T09:37:17.281Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -201,22 +192,20 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-13T08:08:45.614Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "GuidoAloise\\Pages\\Home.razor",
               "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Home.razor",
               "RelativeToolTip": "GuidoAloise\\Pages\\Home.razor",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAowJQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-12T11:04:20.995Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -253,12 +242,11 @@
               "RelativeToolTip": "GuidoAloise\\Pages\\Admin\\AdminOpere.razor",
               "ViewState": "AgIAAB4AAAAAAAAAAAAowDUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T11:37:46.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T11:37:46.699Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Program.cs",
               "RelativeDocumentMoniker": "GuidoAloise\\Program.cs",
@@ -266,12 +254,11 @@
               "RelativeToolTip": "GuidoAloise\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T10:18:56.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T10:18:56.406Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "index.html",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "GuidoAloise\\wwwroot\\index.html",
@@ -279,8 +266,7 @@
               "RelativeToolTip": "GuidoAloise\\wwwroot\\index.html",
               "ViewState": "AgIAAEsAAAAAAAAAAAAAAE0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-29T17:38:31.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T17:38:31.159Z"
             },
             {
               "$type": "Document",
@@ -292,8 +278,7 @@
               "RelativeToolTip": "GuidoAloise\\Pages\\Opere.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-13T11:41:07.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T11:41:07.013Z"
             },
             {
               "$type": "Document",
@@ -345,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "opere.json",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\opere.json",
               "RelativeDocumentMoniker": "GuidoAloise.Api\\wwwroot\\opere.json",
@@ -353,8 +338,7 @@
               "RelativeToolTip": "GuidoAloise.Api\\wwwroot\\opere.json",
               "ViewState": "AgIAACACAAAAAAAAAAAwwPQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-19T11:39:52.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T11:39:52.256Z"
             },
             {
               "$type": "Document",
@@ -366,8 +350,7 @@
               "RelativeToolTip": "GuidoAloise\\GuidoAloise.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-19T09:49:34.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T09:49:34.267Z"
             },
             {
               "$type": "Document",
@@ -379,8 +362,7 @@
               "RelativeToolTip": "GuidoAloise\\wwwroot\\js\\tailwind.config.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-29T22:15:46.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T22:15:46.05Z"
             },
             {
               "$type": "Document",
@@ -392,8 +374,7 @@
               "RelativeToolTip": "GuidoAloise\\Services\\FileOperaService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T09:33:34.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T09:33:34.493Z"
             },
             {
               "$type": "Document",
@@ -600,7 +581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "NewsItem.cs",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Models\\NewsItem.cs",
               "RelativeDocumentMoniker": "GuidoAloise\\Models\\NewsItem.cs",
@@ -612,31 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Footer.razor.css",
-              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Components\\Footer.razor.css",
-              "RelativeDocumentMoniker": "GuidoAloise\\Components\\Footer.razor.css",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Components\\Footer.razor.css",
-              "RelativeToolTip": "GuidoAloise\\Components\\Footer.razor.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-12T10:53:59.876Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 34,
-              "Title": "NavMenu.razor.css",
-              "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Layout\\NavMenu.razor.css",
-              "RelativeDocumentMoniker": "GuidoAloise\\Layout\\NavMenu.razor.css",
-              "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Layout\\NavMenu.razor.css",
-              "RelativeToolTip": "GuidoAloise\\Layout\\NavMenu.razor.css",
-              "ViewState": "AgIAABUAAAAAAAAAAIBJwC4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-13T09:16:17.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
               "Title": "NewsItem.cs",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\Models\\NewsItem.cs",
               "RelativeDocumentMoniker": "GuidoAloise.Api\\Models\\NewsItem.cs",

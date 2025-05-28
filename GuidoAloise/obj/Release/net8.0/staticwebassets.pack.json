@@ -5,10 +5,6 @@
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\obj\\Release\\net8.0\\scopedcss\\bundle\\GuidoAloise.styles.css",
-      "PackagePath": "staticwebassets\\GuidoAloise.styles.css"
-    },
-    {
       "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },

@@ -6,3 +6,5 @@ C:\GitHub\GuidoAloise\GuidoAloise\obj\Release\net8.0\staticwebassets.build.json
 C:\GitHub\GuidoAloise\GuidoAloise\obj\Release\net8.0\staticwebassets.build.json
 C:\GitHub\GuidoAloise\GuidoAloise\obj\Release\net8.0\staticwebassets.build.json
 C:\GitHub\GuidoAloise\GuidoAloise\obj\Release\net8.0\staticwebassets.build.json
+C:\GitHub\GuidoAloise\GuidoAloise\obj\Release\net8.0\staticwebassets.build.json
+C:\GitHub\GuidoAloise\GuidoAloise\obj\Release\net8.0\staticwebassets.build.json
