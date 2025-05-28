@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GuidoAloise.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5576f67520708e846bc0ddfe31a82662cad1ee0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ccfbb23ec528c42f353a07a5461a03fd0a755ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("GuidoAloise.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GuidoAloise.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

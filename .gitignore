@@ -8,7 +8,6 @@
 *.vsidx
 
 # Ignore build output
-GuidoAloise/bin/
 GuidoAloise/obj/
 GuidoAloise.Api/bin/
 GuidoAloise.Api/obj/
