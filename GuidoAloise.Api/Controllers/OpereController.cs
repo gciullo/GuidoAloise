@@ -16,7 +16,9 @@ public class OpereController : ControllerBase
     {
         _env = env;
         _jsonPath = Path.Combine(_env.WebRootPath, "opere.json");
-        _imgFolder = Path.Combine("img", "opere");
+        _imgFolder = Path.Combine(_env.WebRootPath, "img", "opere");
+
+        // Ensure image folder exists under wwwroot
 
         if (!Directory.Exists(_imgFolder))
             Directory.CreateDirectory(_imgFolder);

@@ -29,7 +29,7 @@ public class NewsController : ControllerBase
     }
 
     [HttpPost("aggiungi")]
-    public IActionResult AggiungiOpera([FromBody] NewsItem newsItem)
+    public IActionResult AggiungiNews([FromBody] NewsItem newsItem)
     {
         var news = GetNewsList();
         news.Add(newsItem);
@@ -38,7 +38,7 @@ public class NewsController : ControllerBase
     }
 
     [HttpPost("rimuovi")]
-    public IActionResult RimuoviOpera([FromBody] NewsItem newsItem)
+    public IActionResult RimuoviNews([FromBody] NewsItem newsItem)
     {
         var news = GetNewsList();
 
