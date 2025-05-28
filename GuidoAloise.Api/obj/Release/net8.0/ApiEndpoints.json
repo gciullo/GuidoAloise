@@ -11,7 +11,7 @@
   },
   {
     "ContainingType": "GalleriaAPI.Controllers.NewsController",
-    "Method": "AggiungiOpera",
+    "Method": "AggiungiNews",
     "RelativePath": "api/News/aggiungi",
     "HttpMethod": "POST",
     "IsController": true,
@@ -27,7 +27,7 @@
   },
   {
     "ContainingType": "GalleriaAPI.Controllers.NewsController",
-    "Method": "RimuoviOpera",
+    "Method": "RimuoviNews",
     "RelativePath": "api/News/rimuovi",
     "HttpMethod": "POST",
     "IsController": true,
