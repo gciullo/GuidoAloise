@@ -272,4 +272,16 @@ Autodidatta e solitario, ha seguito solo la sua voce interiore, trasformando emo
   <data name="ScopriPiù" xml:space="preserve">
     <value>Scopri di più</value>
   </data>
+  <data name="Libro" xml:space="preserve">
+    <value>Libro</value>
+  </data>
+  <data name="LibroDescrizione" xml:space="preserve">
+    <value>Il libro "Guido Aloise - L'opera e la vita" è disponibile su Amazon. Clicca il pulsante per acquistarlo.</value>
+  </data>
+  <data name="LibroAcquista" xml:space="preserve">
+    <value>Acquista su Amazon</value>
+  </data>
+  <data name="LibroLink" xml:space="preserve">
+    <value>https://www.amazon.it/dp/example</value>
+  </data>
 </root>
