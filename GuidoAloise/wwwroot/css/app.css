@@ -2,6 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;700&display=swap');
 
+/* Keep the initial loader visible while hiding the rest of the page */
+body.preload {
+    visibility: hidden;
+}
+body.preload #app {
+    visibility: visible;
+}
+
 
 
 html, body {
