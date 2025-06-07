@@ -1,0 +1,31 @@
+@page "/libro"
+@using Microsoft.Extensions.Localization
+@using System.Reflection
+
+<PageTitle>Guido Aloise - @(Localizer is null ? string.Empty : Localizer["Libro"])</PageTitle>
+
+<div class="section-title" style="padding-top: 100px">
+    @Localizer["Libro"]
+</div>
+<div class="section-content" style="padding-top: 40px; margin: 0% 10%; text-align: center;">
+    @LibroDescrizione
+</div>
+<div style="text-align: center; margin: 40px 10% 80px;">
+    <a class="btn btn-primary" href="@LibroLink" target="_blank" rel="noopener noreferrer">
+        @Localizer["LibroAcquista"]
+    </a>
+</div>
+
+@code {
+    [Inject] protected IStringLocalizerFactory LocalizerFactory { get; set; } = null!;
+
+    private IStringLocalizer Localizer { get; set; } = null!;
+
+    protected MarkupString LibroDescrizione => new(Localizer is null ? string.Empty : Localizer["LibroDescrizione"]);
+    protected string LibroLink => Localizer is null ? string.Empty : Localizer["LibroLink"];
+
+    protected override async Task OnInitializedAsync()
+    {
+        Localizer = LocalizerFactory.Create("Resource", Assembly.GetExecutingAssembly().GetName().Name!);
+    }
+}
