@@ -1119,7 +1119,7 @@ C:\GitHub\GuidoAloise\GuidoAloise\obj\Release\net8.0\refint\GuidoAloise.dll
 C:\GitHub\GuidoAloise\GuidoAloise\obj\Release\net8.0\GuidoAloise.pdb
 C:\GitHub\GuidoAloise\GuidoAloise\obj\Release\net8.0\ref\GuidoAloise.dll
 C:\GitHub\GuidoAloise\GuidoAloise\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
-C:\GitHub\GuidoAloise\GuidoAloise\obj\Release\net8.0\compressed\uzg2broqml-iese0et6e9.gz
-C:\GitHub\GuidoAloise\GuidoAloise\obj\Release\net8.0\compressed\yg094hg42y-o6ma4grkeu.gz
-C:\GitHub\GuidoAloise\GuidoAloise\obj\Release\net8.0\compressed\s5vsk5q0dw-lv7dy2tiwu.gz
-C:\GitHub\GuidoAloise\GuidoAloise\obj\Release\net8.0\compressed\fxxjsl54fq-cm557rpgts.gz
+C:\GitHub\GuidoAloise\GuidoAloise\obj\Release\net8.0\compressed\uzg2broqml-te7l1wyb4l.gz
+C:\GitHub\GuidoAloise\GuidoAloise\obj\Release\net8.0\compressed\yg094hg42y-ap11j6ouel.gz
+C:\GitHub\GuidoAloise\GuidoAloise\obj\Release\net8.0\compressed\s5vsk5q0dw-k526lmiekv.gz
+C:\GitHub\GuidoAloise\GuidoAloise\obj\Release\net8.0\compressed\fxxjsl54fq-2bfys7suv7.gz
