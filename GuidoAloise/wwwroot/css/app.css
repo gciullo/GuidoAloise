@@ -8,6 +8,12 @@ body.preload {
 }
 body.preload #app {
     visibility: visible;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: var(--sidebar-background-color);
 }
 
 
@@ -96,7 +102,7 @@ a, .btn-link {
     }
 
         .loading-progress circle:last-child {
-            stroke: #1b6ec2;
+            stroke: var(--sidebar-background-color-hover);
             stroke-dasharray: calc(3.141 * var(--blazor-load-percentage, 0%) * 0.8), 500%;
             transition: stroke-dasharray 0.05s ease-in-out;
         }
@@ -106,6 +112,9 @@ a, .btn-link {
     text-align: center;
     font-weight: bold;
     inset: calc(20vh + 3.25rem) 0 auto 0.2rem;
+    font-family: inherit;
+    font-size: 1.25rem;
+    color: var(--sidebar-background-color-text);
 }
 
     .loading-progress-text:after {
