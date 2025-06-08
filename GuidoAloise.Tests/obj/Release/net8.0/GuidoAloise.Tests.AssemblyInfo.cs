@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GuidoAloise.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ccfbb23ec528c42f353a07a5461a03fd0a755ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b29907acdb5167445c1bb6790a7ba7492ff29c0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("GuidoAloise.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GuidoAloise.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
