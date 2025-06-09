@@ -7,9 +7,6 @@
       "RelativeMoniker": "D:0:0:{47423E45-A3CE-4F6A-920F-F92266C3EA5F}|GuidoAloise\\GuidoAloise.csproj|solutionrelative:guidoaloise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
@@ -158,11 +155,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 102,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "app.css",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\css\\app.css",
               "RelativeDocumentMoniker": "GuidoAloise\\wwwroot\\css\\app.css",
@@ -175,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "GuidoAloise\\Layout\\NavMenu.razor",
@@ -188,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Header.razor",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Components\\Header.razor",
               "RelativeDocumentMoniker": "GuidoAloise\\Components\\Header.razor",
@@ -201,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "GuidoAloise\\Pages\\Home.razor",
@@ -227,18 +224,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAAJ4WAAAAAAAAAAAkwMIWAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-05-28T22:10:46.221Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
               "RelativeDocumentMoniker": "..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
@@ -250,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Monitor.cs",
               "DocumentMoniker": "C:\\Users\\gabriele.ciullo\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs",
               "RelativeDocumentMoniker": "..\\..\\Users\\gabriele.ciullo\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs",
@@ -263,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "AdminOpere.razor",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Admin\\AdminOpere.razor",
               "RelativeDocumentMoniker": "GuidoAloise\\Pages\\Admin\\AdminOpere.razor",
@@ -288,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "index.html",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "GuidoAloise\\wwwroot\\index.html",
@@ -300,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "Opere.razor",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Opere.razor",
               "RelativeDocumentMoniker": "GuidoAloise\\Pages\\Opere.razor",
@@ -312,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "GuidoAloise.Api.csproj",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\GuidoAloise.Api.csproj",
               "RelativeDocumentMoniker": "GuidoAloise.Api\\GuidoAloise.Api.csproj",
@@ -320,11 +305,12 @@
               "RelativeToolTip": "GuidoAloise.Api\\GuidoAloise.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-01T10:44:30.657Z"
+              "WhenOpened": "2025-05-01T10:44:30.657Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "OperaModal.razor",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Components\\OperePage\\OperaModal.razor",
               "RelativeDocumentMoniker": "GuidoAloise\\Components\\OperePage\\OperaModal.razor",
@@ -336,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "Biografia.razor",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Biografia.razor",
               "RelativeDocumentMoniker": "GuidoAloise\\Pages\\Biografia.razor",
@@ -348,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\appsettings.json",
               "RelativeDocumentMoniker": "GuidoAloise.Api\\appsettings.json",
@@ -360,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "opere.json",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\opere.json",
               "RelativeDocumentMoniker": "GuidoAloise.Api\\wwwroot\\opere.json",
@@ -372,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "GuidoAloise.csproj",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\GuidoAloise.csproj",
               "RelativeDocumentMoniker": "GuidoAloise\\GuidoAloise.csproj",
@@ -380,11 +366,12 @@
               "RelativeToolTip": "GuidoAloise\\GuidoAloise.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-19T09:49:34.267Z"
+              "WhenOpened": "2025-04-19T09:49:34.267Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "tailwind.config.js",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\js\\tailwind.config.js",
               "RelativeDocumentMoniker": "GuidoAloise\\wwwroot\\js\\tailwind.config.js",
@@ -396,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "FileOperaService.cs",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Services\\FileOperaService.cs",
               "RelativeDocumentMoniker": "GuidoAloise\\Services\\FileOperaService.cs",
@@ -408,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\Program.cs",
               "RelativeDocumentMoniker": "GuidoAloise.Api\\Program.cs",
@@ -420,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "Contacts.razor",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Contacts.razor",
               "RelativeDocumentMoniker": "GuidoAloise\\Pages\\Contacts.razor",
@@ -432,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "OpereController.cs",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\Controllers\\OpereController.cs",
               "RelativeDocumentMoniker": "GuidoAloise.Api\\Controllers\\OpereController.cs",
@@ -444,18 +431,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "GuidoAloise",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\GuidoAloise.csproj",
               "RelativeDocumentMoniker": "GuidoAloise\\GuidoAloise.csproj",
               "ToolTip": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\GuidoAloise.csproj",
               "RelativeToolTip": "GuidoAloise\\GuidoAloise.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-01T11:16:35.492Z"
+              "WhenOpened": "2025-05-01T11:16:35.492Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "Microsoft.NET.Sdk.DefaultItems.Shared.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
               "RelativeDocumentMoniker": "..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
@@ -467,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 29,
               "Title": "AdminNews.razor",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Admin\\AdminNews.razor",
               "RelativeDocumentMoniker": "GuidoAloise\\Pages\\Admin\\AdminNews.razor",
@@ -479,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "Resource.en.resx",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Resources\\Resource.en.resx",
               "RelativeDocumentMoniker": "GuidoAloise\\Resources\\Resource.en.resx",
@@ -491,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "Opera.cs",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Models\\Opera.cs",
               "RelativeDocumentMoniker": "GuidoAloise\\Models\\Opera.cs",
@@ -503,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "output.css",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\wwwroot\\css\\output.css",
               "RelativeDocumentMoniker": "GuidoAloise\\wwwroot\\css\\output.css",
@@ -515,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "Resource.resx",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Resources\\Resource.resx",
               "RelativeDocumentMoniker": "GuidoAloise\\Resources\\Resource.resx",
@@ -527,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "Citazioni.razor",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Pages\\Citazioni.razor",
               "RelativeDocumentMoniker": "GuidoAloise\\Pages\\Citazioni.razor",
@@ -539,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "Opera.cs",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\Models\\Opera.cs",
               "RelativeDocumentMoniker": "GuidoAloise.Api\\Models\\Opera.cs",
@@ -551,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "NewsController.cs",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\Controllers\\NewsController.cs",
               "RelativeDocumentMoniker": "GuidoAloise.Api\\Controllers\\NewsController.cs",
@@ -563,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "GuidoAloise\\Layout\\MainLayout.razor",
@@ -575,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "Footer.razor",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Components\\Footer.razor",
               "RelativeDocumentMoniker": "GuidoAloise\\Components\\Footer.razor",
@@ -587,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 33,
               "Title": "LanguageSelector.razor",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Components\\LanguageSelector.razor",
               "RelativeDocumentMoniker": "GuidoAloise\\Components\\LanguageSelector.razor",
@@ -599,7 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "Resource.cs",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Resources\\Resource.cs",
               "RelativeDocumentMoniker": "GuidoAloise\\Resources\\Resource.cs",
@@ -611,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 36,
               "Title": "NewsItem.cs",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise\\Models\\NewsItem.cs",
               "RelativeDocumentMoniker": "GuidoAloise\\Models\\NewsItem.cs",
@@ -623,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "NewsItem.cs",
               "DocumentMoniker": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\Models\\NewsItem.cs",
               "RelativeDocumentMoniker": "GuidoAloise.Api\\Models\\NewsItem.cs",
