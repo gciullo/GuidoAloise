@@ -7,9 +7,9 @@
 /.vs/GuidoAloise/FileContentIndex/1fde88b0-a64b-4bb3-bb48-d15f9228bbb7.vsidx
 *.vsidx
 
-# Ignore build output
-GuidoAloise/obj/
-GuidoAloise.Api/bin/
-GuidoAloise.Api/obj/
-GuidoAloise/node_modules/
+# # Ignore build output
+# GuidoAloise/obj/
+# GuidoAloise.Api/bin/
+# GuidoAloise.Api/obj/
+# GuidoAloise/node_modules/
 
