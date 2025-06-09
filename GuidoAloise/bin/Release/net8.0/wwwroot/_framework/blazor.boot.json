@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "GuidoAloise",
   "resources": {
-    "hash": "sha256-hGDknkjS2uwfbNyP9rBKj4FEvvRnDqSPAArtbH0UaU0=",
+    "hash": "sha256-D9FRg83YwXUaxa1AEoh+QLuPah9NEYe0fCarl9TsRJs=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-B6DNRvFeCUi3jbx9uKpuj+hV9cN0KG4RdZj1FgBZwj8="
     },
@@ -224,14 +224,14 @@
       "mscorlib.wasm": "sha256-QoC5hTKpDNO6efLnEvYwV9OJBXvYRq8/1yGhNZKiNCw=",
       "netstandard.wasm": "sha256-JT2F4bYWJpaSGq+iD0ITLpWxsDhMUjhqje9RpBtTg7w=",
       "System.Private.CoreLib.wasm": "sha256-fvIPBcvgvsRuWrKi2LGQsLYvcKUSnyIuBUsE3LJu/0Y=",
-      "GuidoAloise.wasm": "sha256-VBGvczAVSwObbgJ20uPLIrpipjrbMWE6O0BowUG/sDM="
+      "GuidoAloise.wasm": "sha256-SqHSLtbnVFGLqL5yCEiaXN1t8mhzMqRzvCFSXhygAuE="
     },
     "pdb": {
-      "GuidoAloise.pdb": "sha256-roeqJkCaxfsGDmugy+QHonRmTWL8HXT6ZMhWgGfYoZo="
+      "GuidoAloise.pdb": "sha256-NllLiT1WdnGRbxXtu9HSz4Jlk+Y9/5Tc5G3H/86mNS0="
     },
     "satelliteResources": {
       "en": {
-        "GuidoAloise.resources.wasm": "sha256-gt5y97hbilw/hCQXDdPlHshNmz9OkDJoLu/RKkzDXvA="
+        "GuidoAloise.resources.wasm": "sha256-jq8xTO4QGFpLld9i4WFqzaSNj9VpAkNUJK2ou0r9L0Q="
       }
     }
   },
