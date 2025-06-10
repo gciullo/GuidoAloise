@@ -40,6 +40,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYW5ndWFnZVNlbGVjdG9yLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/GitHub/GuidoAloise/GuidoAloise/Components/Loading/NewsCardLoading.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMb2FkaW5nXE5ld3NDYXJkTG9hZGluZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitHub/GuidoAloise/GuidoAloise/Components/Loading/OperaCardLoading.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMb2FkaW5nXE9wZXJhQ2FyZExvYWRpbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/GitHub/GuidoAloise/GuidoAloise/Components/OperePage/DecadeSection.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xPcGVyZVBhZ2VcRGVjYWRlU2VjdGlvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

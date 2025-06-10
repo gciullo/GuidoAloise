@@ -1,16 +1,376 @@
 {
   "Files": [
     {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\15agosto_0be7d978.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\15agosto_0be7d978.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\IMG_1538_3c4cac2a.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\IMG_1538_3c4cac2a.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\IMG_1623_8b54cbcb.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\IMG_1623_8b54cbcb.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\IMG_1624_d9450f03.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\IMG_1624_d9450f03.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\IMG_1625_2cf20e73.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\IMG_1625_2cf20e73.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\IMG_1629_8916f608.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\IMG_1629_8916f608.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\IMG_1631_12314097.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\IMG_1631_12314097.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\IMG_1640_0be1b953.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\IMG_1640_0be1b953.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\IMG_1643_d3c60543.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\IMG_1643_d3c60543.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\IMG_1644_3dc4adfd.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\IMG_1644_3dc4adfd.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\IMG_1645_5994b00e.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\IMG_1645_5994b00e.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\IMG_1646_ca5e0ea2.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\IMG_1646_ca5e0ea2.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\IMG_1647_8b91abec.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\IMG_1647_8b91abec.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\IMG_1648_a2d79c82.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\IMG_1648_a2d79c82.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\IMG_1649_69002eb0.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\IMG_1649_69002eb0.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\IMG_1650_44923cb4.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\IMG_1650_44923cb4.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\IMG_1651_db5c2ee5.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\IMG_1651_db5c2ee5.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\IMG_1652_f8b05ef8.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\IMG_1652_f8b05ef8.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\IMG_1653_876f85e1.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\IMG_1653_876f85e1.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\IMG_1654_5f14ed30.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\IMG_1654_5f14ed30.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\IMG_1659_ad1197f5.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\IMG_1659_ad1197f5.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\IMG_1781_672e3830.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\IMG_1781_672e3830.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\IMG_1783_2d89612b.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\IMG_1783_2d89612b.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\IMG_1922_7a3337be.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\IMG_1922_7a3337be.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\IMG_1952_0500705d.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\IMG_1952_0500705d.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\IMG_1954_35a4aef8.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\IMG_1954_35a4aef8.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\IMG_1955_9493d2bf.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\IMG_1955_9493d2bf.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\IMG_1956_85cadb68.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\IMG_1956_85cadb68.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\altritone_31bdae00.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\altritone_31bdae00.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\anticonformista_7882a290.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\anticonformista_7882a290.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\appiaantica_108d01d5.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\appiaantica_108d01d5.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\autoritratto_7b84b2b3.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\autoritratto_7b84b2b3.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\bimbaallafinestra_291839b7.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\bimbaallafinestra_291839b7.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\cavallibianchierossi_313be238.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\cavallibianchierossi_313be238.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\cieco_82c5347f.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\cieco_82c5347f.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\deposizione_8aa802b7.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\deposizione_8aa802b7.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\depravazione_baf6c7cc.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\depravazione_baf6c7cc.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\donchisciotte_ec87d189.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\donchisciotte_ec87d189.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\emarginazione_ab26fa12.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\emarginazione_ab26fa12.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\gibellina_18ae0288.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\gibellina_18ae0288.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\giudizio_affresco_629ef95f.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\giudizio_affresco_629ef95f.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\gradus_71c4ea98.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\gradus_71c4ea98.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\ildrammadellumanita_f361656a.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\ildrammadellumanita_f361656a.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\ildubbio_23ab19e0.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\ildubbio_23ab19e0.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\iltempo_b6c4bf72.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\iltempo_b6c4bf72.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\immaginazionedelpittore_a885532d.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\immaginazionedelpittore_a885532d.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\incredibilis_0f26eb2e.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\incredibilis_0f26eb2e.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\incubo_394b3bdd.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\incubo_394b3bdd.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\inquinamento_a4a9221d.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\inquinamento_a4a9221d.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\insidie_e1ec6f1d.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\insidie_e1ec6f1d.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\ladonnaeilvelo_29a29436.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\ladonnaeilvelo_29a29436.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\lafreccianelfianco_ee5f0d3d.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\lafreccianelfianco_ee5f0d3d.jpg"
+    },
+    {
       "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\lagiostra_8f558b77.jpg",
       "PackagePath": "staticwebassets\\img\\opere\\lagiostra_8f558b77.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\lapprodo_788160cd.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\lapprodo_788160cd.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\ledaecigno_819abdf7.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\ledaecigno_819abdf7.jpg"
     },
     {
       "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\madonnaconbambino_cd414257.jpg",
       "PackagePath": "staticwebassets\\img\\opere\\madonnaconbambino_cd414257.jpg"
     },
     {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\mangiafichi_6750b545.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\mangiafichi_6750b545.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\mantorosso_e5b29b9b.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\mantorosso_e5b29b9b.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\marinuoti_de3939e6.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\marinuoti_de3939e6.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\modellaepittoreafrodite_796f01d2.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\modellaepittoreafrodite_796f01d2.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\moderna_d0bb4e59.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\moderna_d0bb4e59.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\nudoemalizia_317f2bf1.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\nudoemalizia_317f2bf1.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\nudoluna_fef434cb.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\nudoluna_fef434cb.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\nudoseduto_f4425bc3.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\nudoseduto_f4425bc3.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\ombrafeticismo_63be007f.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\ombrafeticismo_63be007f.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\orfeo_f04a5d8e.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\orfeo_f04a5d8e.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\papa_20295423.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\papa_20295423.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\pittoreemodella_7a0cfb95.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\pittoreemodella_7a0cfb95.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\portafurba_040b6ff7.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\portafurba_040b6ff7.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\potenzamedianica_6a4333b9.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\potenzamedianica_6a4333b9.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\primadelluniverso_f882ef53.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\primadelluniverso_f882ef53.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\prospettive_13cccfbb.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\prospettive_13cccfbb.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\pulcinella_31af098c.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\pulcinella_31af098c.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\pulcinelladepravazione_5ac50aab.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\pulcinelladepravazione_5ac50aab.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\purificazione_a2cba130.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\purificazione_a2cba130.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\ragazzimare_a579d935.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\ragazzimare_a579d935.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\relitti_b3816813.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\relitti_b3816813.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\riposo_f0424dd3.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\riposo_f0424dd3.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\risveglio_0b434ae8.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\risveglio_0b434ae8.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\rodeo_bd302977.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\rodeo_bd302977.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\rodeo_f3d179f4.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\rodeo_f3d179f4.jpg"
+    },
+    {
       "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\saggezza_33c7da48.jpg",
       "PackagePath": "staticwebassets\\img\\opere\\saggezza_33c7da48.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\sanfrancesco_145b31ab.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\sanfrancesco_145b31ab.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\sanfrapaola_dde34db0.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\sanfrapaola_dde34db0.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\sangiorgio_125a3e4e.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\sangiorgio_125a3e4e.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\sopravvivenza_57163816.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\sopravvivenza_57163816.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\stranamostra_d34ec4bb.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\stranamostra_d34ec4bb.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\tormento_f9c26cb5.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\tormento_f9c26cb5.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\ucori_fffbd97b.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\ucori_fffbd97b.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\ultima_cena_b6df0e5f.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\ultima_cena_b6df0e5f.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\ultimafede_fcc5fcbc.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\ultimafede_fcc5fcbc.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\ultimaopera_a0f43354.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\ultimaopera_a0f43354.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\img\\opere\\vitaartista_3ba8aecc.jpg",
+      "PackagePath": "staticwebassets\\img\\opere\\vitaartista_3ba8aecc.jpg"
     },
     {
       "Id": "C:\\GitHub\\GuidoAloise\\GuidoAloise.Api\\wwwroot\\news.json",

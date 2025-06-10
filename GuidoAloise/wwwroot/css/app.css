@@ -492,6 +492,13 @@ footer {
     display: none;
 }
 
+.loading {
+    font-size: 1.25rem;
+    text-align: center;
+    margin: 40px 0;
+    color: var(--sidebar-background-color-secondary);
+}
+
 .operacard-title {
     font-size: 35px;
     color: var(--sidebar-background-color-text);

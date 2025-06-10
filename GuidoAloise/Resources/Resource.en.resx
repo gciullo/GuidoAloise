@@ -263,6 +263,9 @@ Self-taught and solitary, he only followed his inner voice, transforming deep em
   <data name="Opere" xml:space="preserve">
     <value>Works</value>
   </data>
+  <data name="Caricamento" xml:space="preserve">
+    <value>Loading...</value>
+  </data>
   <data name="ScopriPiù" xml:space="preserve">
     <value>Discover more</value>
   </data>

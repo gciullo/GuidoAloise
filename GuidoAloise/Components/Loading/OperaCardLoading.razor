@@ -1,0 +1,21 @@
+<div class="card loading-opera-card"></div>
+
+<style>
+    .loading-opera-card {
+        position: relative;
+        aspect-ratio: 3 / 4;
+        width: 100%;
+        display: flex;
+        max-width: 20rem;
+        background-color: #e0e0e0;
+        border-radius: 0.5rem;
+        animation: pulse 1.5s ease-in-out infinite;
+        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+
+    @@keyframes pulse {
+        0% { opacity: 1; }
+        50% { opacity: 0.5; }
+        100% { opacity: 1; }
+    }
+</style>

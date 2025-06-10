@@ -269,6 +269,9 @@ Autodidatta e solitario, ha seguito solo la sua voce interiore, trasformando emo
   <data name="Opere" xml:space="preserve">
     <value>Opere</value>
   </data>
+  <data name="Caricamento" xml:space="preserve">
+    <value>Caricamento...</value>
+  </data>
   <data name="ScopriPiù" xml:space="preserve">
     <value>Scopri di più</value>
   </data>

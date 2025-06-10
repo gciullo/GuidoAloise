@@ -4,6 +4,7 @@
 @using System.Reflection
 @using Microsoft.Extensions.Localization
 @using System.Globalization
+@using GuidoAloise.Components.Loading
 @inject IDataService DataService
 
 @if (initialized)
@@ -26,7 +27,12 @@
 }
 else
 {
-    <p class="loading">Caricamento...</p>
+    <div class="container mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6" style="padding-top:100px">
+        @for (int i = 0; i < 4; i++)
+        {
+            <OperaCardLoading />
+        }
+    </div>
 }
 @code {
     [Inject] protected IStringLocalizerFactory LocalizerFactory { get; set; } = null!;
@@ -41,12 +47,12 @@ else
 
     protected override async Task OnInitializedAsync()
     {
+        Localizer = LocalizerFactory.Create("Resource", Assembly.GetExecutingAssembly().GetName().Name!);
         var tutteLeOpere = await DataService.GetOpereAsync();
         OperePerDecade = tutteLeOpere
             .GroupBy(o => currentCulture == "en" ? o.CategoriaEng : o.Categoria)
             .OrderBy(g => g.Key)
             .ToDictionary(g => g.Key, g => g.ToList());
-        Localizer = LocalizerFactory.Create("Resource", Assembly.GetExecutingAssembly().GetName().Name!);
         initialized = true;
     }
 
