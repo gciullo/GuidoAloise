@@ -27,65 +27,79 @@
     @NewsTitle
 </div>
 <div class="news-container" id="desktop-news-container">
-    @foreach (var item in news.OrderByDescending(n => n.PointerDate).Take(showAllNewsDesktop ? news.Count : 3))
+    @if (loadingNews)
     {
-        if (!string.IsNullOrWhiteSpace(item.Reference))
+        <p class="loading">@Localizer["Caricamento"]</p>
+    }
+    else
+    {
+        @foreach (var item in news.OrderByDescending(n => n.PointerDate).Take(showAllNewsDesktop ? news.Count : 3))
         {
-            <a href="@item.Reference" target="_blank" rel="noopener noreferrer" class="news-link-wrapper">
-                <div class="news-card hoverable fade-in">
+            if (!string.IsNullOrWhiteSpace(item.Reference))
+            {
+                <a href="@item.Reference" target="_blank" rel="noopener noreferrer" class="news-link-wrapper">
+                    <div class="news-card hoverable fade-in">
+                        <div class="news-title">@(item.PointerDate < DateTime.Today ? "📰" : "📅") @item.Date – @item.Title</div>
+                        <div class="news-content">@item.Content</div>
+                    </div>
+                </a>
+            }
+            else
+            {
+                <div class="news-card">
                     <div class="news-title">@(item.PointerDate < DateTime.Today ? "📰" : "📅") @item.Date – @item.Title</div>
                     <div class="news-content">@item.Content</div>
                 </div>
-            </a>
+            }
         }
-        else
-        {
-            <div class="news-card">
-                <div class="news-title">@(item.PointerDate < DateTime.Today ? "📰" : "📅") @item.Date – @item.Title</div>
-                <div class="news-content">@item.Content</div>
-            </div>
-        }
-    }
 
-    @if (news.Count > 3)
-    {
-        <button class="show-more-btn" @onclick="ToggleShowAllNews">
-            @(showAllNewsDesktop ? Localizer["MostraMeno"] : Localizer["MostraAltro"])
-        </button>
+        @if (news.Count > 3)
+        {
+            <button class="show-more-btn" @onclick="ToggleShowAllNews">
+                @(showAllNewsDesktop ? Localizer["MostraMeno"] : Localizer["MostraAltro"])
+            </button>
+        }
     }
 </div>
 
 <div class="news-wrapper">
-    <div class="news-snap" @ref="snapRef">
-        @foreach (var item in news.OrderByDescending(n => n.PointerDate))
-        {
-            <article class="slide">
-                @if (!string.IsNullOrWhiteSpace(item.Reference))
-                {
-                    <a href="@item.Reference" target="_blank" rel="noopener noreferrer" class="news-link-wrapper">
-                        <div class="news-card hoverable">
+    @if (loadingNews)
+    {
+        <p class="loading">@Localizer["Caricamento"]</p>
+    }
+    else
+    {
+        <div class="news-snap" @ref="snapRef">
+            @foreach (var item in news.OrderByDescending(n => n.PointerDate))
+            {
+                <article class="slide">
+                    @if (!string.IsNullOrWhiteSpace(item.Reference))
+                    {
+                        <a href="@item.Reference" target="_blank" rel="noopener noreferrer" class="news-link-wrapper">
+                            <div class="news-card hoverable">
+                                <div class="news-title">@(item.PointerDate < DateTime.Today ? "📰" : "📅") @item.Date – @item.Title</div>
+                                <div class="news-content">@item.Content</div>
+                                <div class="news-title" style="display:flex; flex-direction: column;align-items: center;">@Localizer["ScopriPiù"]</div>
+                            </div>
+                        </a>
+                    }
+                    else
+                    {
+                        <div class="news-card">
                             <div class="news-title">@(item.PointerDate < DateTime.Today ? "📰" : "📅") @item.Date – @item.Title</div>
                             <div class="news-content">@item.Content</div>
-                            <div class="news-title" style="display:flex; flex-direction: column;align-items: center;">@Localizer["ScopriPiù"]</div>
                         </div>
-                    </a>
-                }
-                else
-                {
-                    <div class="news-card">
-                        <div class="news-title">@(item.PointerDate < DateTime.Today ? "📰" : "📅") @item.Date – @item.Title</div>
-                        <div class="news-content">@item.Content</div>
-                    </div>
-                }
-            </article>
-        }
-    </div>
-    <div class="dot-nav">
-        @for (var i = 0; i < news.Count; i++)
-        {
-            <button class="dot" data-index="@i" aria-label="vai alla news @(i+1)"></button>
-        }
-    </div>
+                    }
+                </article>
+            }
+        </div>
+        <div class="dot-nav">
+            @for (var i = 0; i < news.Count; i++)
+            {
+                <button class="dot" data-index="@i" aria-label="vai alla news @(i+1)"></button>
+            }
+        </div>
+    }
 </div>
 @* <div class="news-slider-wrapper">
     <div class="news-slider" @ref="sliderRef">
@@ -128,6 +142,7 @@
     private ElementReference snapRef;
     private bool showAllNewsDesktop = false;
     private bool _hasRendered = false;
+    private bool loadingNews = true;
 
     protected MarkupString Citazione => new(Localizer is null ? string.Empty : Localizer["CitazioneHome"]);
     protected MarkupString Descrizione => new(Localizer is null ? string.Empty : Localizer["DescrizioneHome"]);
@@ -135,8 +150,9 @@
 
     protected override async Task OnInitializedAsync()
     {
-        news = await DataService.GetNewsAsync();
         Localizer = LocalizerFactory.Create("Resource", Assembly.GetExecutingAssembly().GetName().Name!);
+        news = await DataService.GetNewsAsync();
+        loadingNews = false;
     }
 
     private void ToggleShowAllNews()

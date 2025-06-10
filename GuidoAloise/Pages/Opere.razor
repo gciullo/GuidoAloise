@@ -26,7 +26,7 @@
 }
 else
 {
-    <p class="loading">Caricamento...</p>
+    <p class="loading">@Localizer["Caricamento"]</p>
 }
 @code {
     [Inject] protected IStringLocalizerFactory LocalizerFactory { get; set; } = null!;
@@ -41,12 +41,12 @@ else
 
     protected override async Task OnInitializedAsync()
     {
+        Localizer = LocalizerFactory.Create("Resource", Assembly.GetExecutingAssembly().GetName().Name!);
         var tutteLeOpere = await DataService.GetOpereAsync();
         OperePerDecade = tutteLeOpere
             .GroupBy(o => currentCulture == "en" ? o.CategoriaEng : o.Categoria)
             .OrderBy(g => g.Key)
             .ToDictionary(g => g.Key, g => g.ToList());
-        Localizer = LocalizerFactory.Create("Resource", Assembly.GetExecutingAssembly().GetName().Name!);
         initialized = true;
     }
 
