@@ -1,1 +1,4 @@
 C:\GitHub\GuidoAloise\GuidoAloise\obj\Debug\net8.0\staticwebassets.build.json
+C:\GitHub\GuidoAloise\GuidoAloise\obj\Debug\net8.0\staticwebassets.build.json
+C:\GitHub\GuidoAloise\GuidoAloise\obj\Debug\net8.0\staticwebassets.build.json
+C:\GitHub\GuidoAloise\GuidoAloise\obj\Debug\net8.0\staticwebassets.build.json
