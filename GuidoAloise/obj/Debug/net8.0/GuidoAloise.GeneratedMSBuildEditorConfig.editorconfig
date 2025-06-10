@@ -28,6 +28,38 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/GitHub/GuidoAloise/GuidoAloise/Components/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xGb290ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitHub/GuidoAloise/GuidoAloise/Components/Header.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xIZWFkZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitHub/GuidoAloise/GuidoAloise/Components/LanguageSelector.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYW5ndWFnZVNlbGVjdG9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitHub/GuidoAloise/GuidoAloise/Components/OperePage/DecadeSection.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xPcGVyZVBhZ2VcRGVjYWRlU2VjdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitHub/GuidoAloise/GuidoAloise/Components/OperePage/OperaCard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xPcGVyZVBhZ2VcT3BlcmFDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitHub/GuidoAloise/GuidoAloise/Components/OperePage/OperaModal.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xPcGVyZVBhZ2VcT3BlcmFNb2RhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitHub/GuidoAloise/GuidoAloise/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitHub/GuidoAloise/GuidoAloise/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/GitHub/GuidoAloise/GuidoAloise/Pages/Admin/AdminNews.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRtaW5OZXdzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -59,35 +91,3 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/GitHub/GuidoAloise/GuidoAloise/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
-
-[C:/GitHub/GuidoAloise/GuidoAloise/Components/Footer.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xGb290ZXIucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-uuctf09c16
-
-[C:/GitHub/GuidoAloise/GuidoAloise/Components/Header.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xIZWFkZXIucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-ljhjkht0zv
-
-[C:/GitHub/GuidoAloise/GuidoAloise/Components/LanguageSelector.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYW5ndWFnZVNlbGVjdG9yLnJhem9y
-build_metadata.AdditionalFiles.CssScope = b-fmoil4v2at
-
-[C:/GitHub/GuidoAloise/GuidoAloise/Components/OperePage/DecadeSection.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xPcGVyZVBhZ2VcRGVjYWRlU2VjdGlvbi5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-z7v0xo93f3
-
-[C:/GitHub/GuidoAloise/GuidoAloise/Components/OperePage/OperaCard.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xPcGVyZVBhZ2VcT3BlcmFDYXJkLnJhem9y
-build_metadata.AdditionalFiles.CssScope = b-7dj3gi2lgr
-
-[C:/GitHub/GuidoAloise/GuidoAloise/Components/OperePage/OperaModal.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xPcGVyZVBhZ2VcT3BlcmFNb2RhbC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-2uv9z1zr4s
-
-[C:/GitHub/GuidoAloise/GuidoAloise/Layout/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-cppj3akcmt
-
-[C:/GitHub/GuidoAloise/GuidoAloise/Layout/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-lcj0rsh7aa

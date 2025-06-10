@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>l45xkjcvxt</Fingerprint>
-      <Integrity>yycaXv7LFW3n92cyHIf+6lEcmN1Nj9fiyuHSvRA2y2Y=</Integrity>
+      <Fingerprint>o7w8czcryl</Fingerprint>
+      <Integrity>7DLm9RZEUBrH2TOUnSqFSnKvcKQGEGQKYYFCVH2a7Vs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))</OriginalItemSpec>
@@ -89,24 +89,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.png'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\GuidoAloise.styles.css'))">
-      <SourceType>Package</SourceType>
-      <SourceId>GuidoAloise</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>/</BasePath>
-      <RelativePath>GuidoAloise.styles.css</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>CurrentProject</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName>ScopedCss</AssetTraitName>
-      <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>141pz88unu</Fingerprint>
-      <Integrity>4fR6lobp8pkZqxx5zaQ5sra8zPJApQog7MJ4STWNyHQ=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\GuidoAloise.styles.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\icon-192.png'))">
       <SourceType>Package</SourceType>
@@ -210,8 +192,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>12yhvvkpp1</Fingerprint>
-      <Integrity>V17AdkcU4luFcWkZ49TG7FEn//eOqOvCIVoeoH1pcu4=</Integrity>
+      <Fingerprint>0b0r4vs7z9</Fingerprint>
+      <Integrity>TBrEmK/R3A0NkGo4iHRmwHgUkBGvJ5A2viwPR1p9Qzw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\HomepageBkg.png'))</OriginalItemSpec>
@@ -246,8 +228,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>jcj62jx4m3</Fingerprint>
-      <Integrity>cyUu63EkDOd/y0bW4ytUm7FOQqR2pRbA/E6kVV39/CA=</Integrity>
+      <Fingerprint>9axxbar2sr</Fingerprint>
+      <Integrity>P1aYY97+GLOYHw1tB70ISf7O+h6rc/Nak4/MCLnp2zU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</OriginalItemSpec>
