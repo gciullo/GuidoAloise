@@ -2,6 +2,7 @@
 @using GuidoAloise.Models
 @using GuidoAloise.Services
 @using Microsoft.Extensions.Localization
+@using GuidoAloise.Components.Loading
 @using Microsoft.AspNetCore.Components
 @using System.Reflection
 @inject IDataService DataService
@@ -29,7 +30,9 @@
 <div class="news-container" id="desktop-news-container">
     @if (loadingNews)
     {
-        <p class="loading">@Localizer["Caricamento"]</p>
+        <NewsCardLoading />
+        <NewsCardLoading />
+        <NewsCardLoading />
     }
     else
     {
@@ -65,7 +68,9 @@
 <div class="news-wrapper">
     @if (loadingNews)
     {
-        <p class="loading">@Localizer["Caricamento"]</p>
+        <NewsCardLoading />
+        <NewsCardLoading />
+        <NewsCardLoading />
     }
     else
     {
