@@ -266,4 +266,16 @@ Self-taught and solitary, he only followed his inner voice, transforming deep em
   <data name="ScopriPiù" xml:space="preserve">
     <value>Discover more</value>
   </data>
+  <data name="Libro" xml:space="preserve">
+    <value>Book</value>
+  </data>
+  <data name="LibroDescrizione" xml:space="preserve">
+    <value>The book "Guido Aloise - Works and Life" is available on Amazon. Click the button below to purchase.</value>
+  </data>
+  <data name="LibroAcquista" xml:space="preserve">
+    <value>Buy on Amazon</value>
+  </data>
+  <data name="LibroLink" xml:space="preserve">
+    <value>https://www.amazon.it/dp/example</value>
+  </data>
 </root>
