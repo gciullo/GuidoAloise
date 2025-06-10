@@ -1,15 +1,15 @@
 {
   "mainAssemblyName": "GuidoAloise",
   "resources": {
-    "hash": "sha256-C8euvQ+1lYw5SsMHShxlSPIBoU2U6XMl2qjhWAJKsVc=",
+    "hash": "sha256-pz7eYbPLi5QruuBbO5J48Yzl6MmO5/lDpRu/B8PXOpU=",
     "jsModuleNative": {
-      "dotnet.native.js": "sha256-B6DNRvFeCUi3jbx9uKpuj+hV9cN0KG4RdZj1FgBZwj8="
+      "dotnet.native.js": "sha256-RiGT44TFZmHOY+Oqvb8o8r+BJVWex6+dPxFxrOiWvFY="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.js": "sha256-aTAnT1r/EAWev8oI/mTFI9nH3RsfA5M822bNiGhok6U="
+      "dotnet.runtime.js": "sha256-t76BRXwt7ie+t1popBz8/uUmIQCWeGU9XALjF0psLNw="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-4X9eav+Ak45oe3jDiM7H2gSxg1ZRzmhn9QfZURenUbE="
+      "dotnet.native.wasm": "sha256-UiaFtxLHzlxisuBqZWMdl4IYCuHWyjZuv8yURy9ZnqQ="
     },
     "icu": {
       "icudt.dat": "sha256-tO5O5YzMTVSaKBboxAqezOQL9ewmupzV2JrB5Rkc8a4="
@@ -224,14 +224,14 @@
       "mscorlib.wasm": "sha256-QoC5hTKpDNO6efLnEvYwV9OJBXvYRq8/1yGhNZKiNCw=",
       "netstandard.wasm": "sha256-JT2F4bYWJpaSGq+iD0ITLpWxsDhMUjhqje9RpBtTg7w=",
       "System.Private.CoreLib.wasm": "sha256-fvIPBcvgvsRuWrKi2LGQsLYvcKUSnyIuBUsE3LJu/0Y=",
-      "GuidoAloise.wasm": "sha256-hG48DNaAi9UvUPvy6rYhEF7f5Sk4ToJON8X77u2ofXU="
+      "GuidoAloise.wasm": "sha256-/lefApJ7e105BTrlMi73XqM7xJnesHOaWfBkm9YASIc="
     },
     "pdb": {
-      "GuidoAloise.pdb": "sha256-5KbQSJeYUlhCzSeaZ5HB19rh9DJWyRz44MVLB1YJAIs="
+      "GuidoAloise.pdb": "sha256-c0t6lUxN34SibOKFEd/64plrKI8Prv/hpw2tRjKyyFY="
     },
     "satelliteResources": {
       "en": {
-        "GuidoAloise.resources.wasm": "sha256-Lq5mp0I7OXSNBADsS5KoeR/q28ZPPMzGl8CO3EIMbyM="
+        "GuidoAloise.resources.wasm": "sha256-IyGSD2UtLNznOMcpdRE1pTP/4xvG3LuzmZqIfya/KGI="
       }
     }
   },
